@@ -1,0 +1,3673 @@
+u -> {3: 13, 19: 3}
+ua -> {3: 1}
+uassociated -> {3: 2}
+ubel -> {24: 1}
+ubi -> {25: 1}
+ubiquitous -> {19: 1}
+ubox -> {3: 5}
+uc -> {3: 2}
+ucarbondale -> {3: 1}
+ucla -> {3: 2, 12: 1}
+uco -> {3: 4}
+ud -> {10: 1}
+udaloy -> {19: 5}
+udder -> {19: 2}
+udders -> {19: 1}
+ufa -> {19: 1}
+uff -> {15: 1}
+ugalesbury -> {3: 1}
+ugh -> {1: 1, 2: 2, 18: 1}
+ugliest -> {1: 1, 17: 1}
+ugliness -> {11: 1}
+ugly -> {1: 4, 2: 5, 5: 1, 10: 1, 11: 1, 15: 10, 17: 2, 18: 2, 19: 3}
+ugric -> {10: 1}
+uh -> {1: 1, 12: 1, 15: 8}
+uhaul -> {3: 1}
+uhaulit -> {3: 1}
+uhoh -> {17: 1}
+ukrainian -> {19: 1}
+ulcer -> {5: 1}
+ulcers -> {19: 1}
+ulh -> {16: 1}
+ulm -> {5: 1}
+uloyola -> {3: 1}
+ulster -> {13: 1}
+ulterior -> {19: 2}
+ultimate -> {3: 1, 5: 1, 6: 4, 10: 2, 11: 2, 13: 1, 14: 2, 15: 1, 18: 1, 19: 5, 21: 1, 24: 4, 25: 19}
+ultimately -> {1: 1, 2: 2, 6: 1, 10: 3, 14: 2, 18: 1, 24: 3, 25: 1}
+ultimatum -> {17: 1, 18: 1}
+ultraviolence -> {9: 3}
+ultraviolent -> {9: 1}
+ulysses -> {13: 1}
+um -> {1: 2, 9: 3, 15: 3}
+umbrage -> {11: 1, 15: 1}
+umbrella -> {3: 2, 7: 1, 12: 1, 13: 1}
+umbrellas -> {19: 1}
+ummm -> {19: 1}
+ummmm -> {9: 1}
+ump -> {15: 1}
+umpire -> {7: 1, 24: 1}
+umpires -> {25: 1}
+umptytumptyump -> {12: 1}
+umvery -> {18: 1}
+un -> {3: 2, 10: 1}
+unable -> {1: 9, 2: 8, 3: 3, 4: 3, 6: 1, 7: 5, 10: 4, 11: 6, 13: 1, 14: 2, 15: 3, 16: 1, 17: 2, 18: 11, 19: 6, 20: 1, 21: 1, 22: 3, 23: 3, 24: 3, 25: 37}
+unabsorbed -> {19: 1}
+unacceptable -> {18: 2, 19: 1}
+unaccompanied -> {19: 1, 25: 1}
+unaccountable -> {19: 6}
+unaccountably -> {19: 2}
+unacknowledged -> {15: 1}
+unacquainted -> {22: 1, 23: 1}
+unadaptable -> {13: 1}
+unadorned -> {19: 1}
+unadvisable -> {25: 1}
+unaffected -> {2: 1, 5: 1, 13: 1, 16: 2, 19: 1, 20: 1}
+unafraid -> {20: 1}
+unaggressive -> {11: 1}
+unaided -> {11: 1}
+unalloyed -> {25: 1}
+unalterable -> {7: 1, 25: 3}
+unaltered -> {16: 1, 21: 1, 24: 1, 25: 1}
+unanimity -> {24: 2}
+unanimous -> {2: 1, 15: 1}
+unanimously -> {19: 2, 25: 3}
+unanswerable -> {25: 2}
+unanswerablewe -> {25: 1}
+unanswered -> {1: 1, 2: 1, 5: 1, 6: 1, 19: 1, 20: 1, 25: 1}
+unanticipated -> {2: 1}
+unappreciative -> {3: 1}
+unarmed -> {1: 1, 2: 2, 3: 3, 7: 1, 17: 2, 18: 2, 19: 3}
+unascertained -> {25: 1}
+unashamed -> {13: 1}
+unasked -> {10: 1}
+unassailable -> {25: 1}
+unassuaged -> {6: 1}
+unassuming -> {1: 1}
+unattainable -> {5: 2, 24: 3, 25: 5}
+unattainably -> {1: 1}
+unattained -> {25: 1}
+unattempted -> {25: 1}
+unattended -> {2: 2, 7: 1, 10: 2, 17: 1, 25: 1}
+unattractive -> {1: 1}
+unauthorized -> {6: 1, 18: 3, 25: 2}
+unavailable -> {3: 1}
+unavailing -> {10: 2, 11: 2, 19: 1}
+unavailingly -> {11: 1}
+unavailingness -> {10: 1}
+unavenged -> {8: 1}
+unavoidable -> {5: 1, 16: 5, 24: 1, 25: 24}
+unavoidably -> {25: 5}
+unaware -> {2: 1, 6: 1, 10: 1, 15: 2, 18: 1, 19: 3, 25: 1}
+unawareness -> {15: 1}
+unawares -> {10: 1}
+unbalance -> {2: 1}
+unbearable -> {1: 3, 2: 2, 5: 1, 7: 1, 11: 1, 15: 2, 18: 3, 19: 3, 20: 1}
+unbearably -> {19: 2}
+unbeaten -> {11: 1}
+unbecoming -> {25: 1}
+unbelief -> {13: 1, 24: 1, 25: 1}
+unbelievable -> {3: 7, 13: 1, 19: 3, 20: 1}
+unbelievably -> {2: 1, 5: 1, 18: 1, 19: 1}
+unbelieving -> {7: 1, 20: 1}
+unbiased -> {25: 1}
+unbidden -> {24: 2}
+unbind -> {8: 1, 19: 2}
+unbinding -> {16: 1}
+unbleached -> {15: 1}
+unblemished -> {18: 1}
+unblinded -> {11: 1}
+unblinking -> {18: 3, 19: 2}
+unblinkingly -> {1: 1}
+unblithe -> {8: 2}
+unbolts -> {18: 1}
+unborn -> {20: 1}
+unbound -> {7: 2, 8: 1}
+unbounded -> {14: 1, 24: 3, 25: 1}
+unbridgable -> {11: 1}
+unbridled -> {16: 1, 19: 2}
+unbroken -> {2: 1, 10: 1, 13: 2, 14: 1, 15: 1, 17: 1, 19: 1, 24: 1, 25: 3}
+unbrokensnapped -> {19: 1}
+unbuckle -> {2: 1}
+unburdened -> {5: 1, 15: 1, 19: 1}
+unburnished -> {8: 1}
+unbutton -> {1: 1}
+unbuttoned -> {15: 3, 19: 7}
+unbuttoning -> {19: 1}
+uncanny -> {5: 1, 7: 1, 8: 1, 10: 3, 20: 2}
+uncapped -> {3: 1, 12: 1}
+uncaring -> {10: 1, 16: 1}
+uncaused -> {25: 1}
+unceasing -> {5: 1, 8: 2, 10: 1, 19: 1, 24: 3, 25: 6}
+unceasingly -> {5: 1, 14: 1, 24: 1, 25: 4}
+unceiled -> {15: 1}
+unceremonious -> {11: 1}
+unceremoniously -> {17: 1, 19: 1}
+uncertain -> {5: 1, 7: 3, 10: 3, 11: 1, 12: 1, 13: 3, 14: 2, 15: 3, 16: 3, 19: 5, 20: 1, 21: 3, 22: 2, 23: 2, 24: 4, 25: 7}
+uncertainly -> {1: 1, 13: 1, 17: 1}
+uncertainties -> {19: 3}
+uncertainty -> {6: 1, 12: 1, 13: 1, 14: 1, 15: 1, 19: 1, 21: 2, 22: 1, 23: 1, 24: 1, 25: 5}
+unchain -> {17: 2}
+unchangeable -> {24: 3, 25: 8}
+unchangeably -> {25: 2}
+unchanged -> {1: 2, 2: 3, 9: 2, 10: 1, 11: 1, 18: 2, 19: 4, 25: 2}
+unchanging -> {11: 2, 19: 1, 25: 1}
+uncharacteristic -> {17: 1}
+uncharitable -> {16: 3}
+uncharitableness -> {16: 1}
+unchaste -> {16: 1}
+unchecked -> {1: 1, 2: 1, 10: 1}
+unchildish -> {19: 1}
+unchosen -> {19: 1}
+uncivilised -> {11: 1}
+uncivilized -> {13: 1, 25: 1}
+unclad -> {10: 2}
+unclaimed -> {3: 3}
+unclasp -> {1: 1, 7: 1}
+unclasped -> {8: 1}
+unclassed -> {11: 1}
+uncle -> {7: 13, 8: 3, 9: 1, 11: 30, 12: 27, 15: 67, 18: 1, 19: 49}
+unclean -> {7: 2, 10: 7}
+unclear -> {2: 1, 18: 1}
+unclebut -> {11: 1}
+uncleby -> {11: 1}
+unclench -> {12: 1}
+uncles -> {7: 1, 8: 1, 11: 4, 12: 2, 13: 1, 19: 3}
+unclipped -> {15: 1}
+unclouded -> {8: 1, 19: 1}
+uncomfortable -> {1: 1, 2: 4, 3: 1, 12: 1, 15: 1, 17: 1, 18: 1, 19: 2, 20: 1}
+uncomfortably -> {13: 2, 15: 1, 19: 1}
+uncommon -> {1: 2, 6: 1, 7: 1, 10: 1, 18: 1, 22: 3, 23: 3, 25: 1}
+uncommonly -> {5: 2, 10: 1}
+uncommonwere -> {11: 1}
+uncommunicable -> {13: 1}
+uncommunicative -> {10: 1, 18: 1}
+uncompensated -> {25: 1}
+uncomplaining -> {1: 1, 19: 1}
+uncomplicated -> {2: 1}
+uncomprehendingly -> {1: 2, 2: 1, 17: 1, 18: 1}
+uncompromising -> {5: 1, 6: 1, 15: 2, 16: 1, 19: 5, 24: 1}
+uncompromisingly -> {19: 1}
+unconcealed -> {12: 1, 19: 1}
+unconceptualized -> {6: 1}
+unconcern -> {10: 1, 11: 1, 19: 1}
+unconcerned -> {2: 1, 11: 2, 17: 1, 19: 3, 25: 1}
+unconditional -> {5: 1, 14: 14, 24: 8, 25: 2}
+unconditionally -> {6: 1, 14: 3, 18: 1, 24: 4, 25: 10}
+unconditioned -> {6: 2, 24: 25, 25: 129}
+unconditionedand -> {25: 1}
+unconditionedis -> {25: 1}
+unconditionedof -> {25: 1}
+unconditionedone -> {25: 1}
+unconfirmed -> {19: 1}
+unconnected -> {2: 1, 19: 1, 25: 4}
+unconquerable -> {14: 1, 16: 2, 19: 2, 25: 1}
+unconscionableness -> {5: 1, 16: 1}
+unconscious -> {1: 4, 2: 5, 3: 2, 7: 1, 9: 1, 10: 10, 11: 1, 15: 1, 17: 2, 18: 3, 19: 18, 21: 1, 25: 2}
+unconsciously -> {7: 1, 10: 7, 11: 1, 16: 1, 19: 3, 25: 2}
+unconsciousness -> {1: 1, 3: 1, 18: 1, 19: 1}
+unconsidered -> {11: 1}
+uncontrollable -> {13: 1, 19: 2}
+uncontrollably -> {2: 2, 12: 1, 15: 1}
+unconventionalthough -> {11: 1}
+unconvinced -> {2: 1, 18: 1}
+unconvincing -> {1: 1, 25: 1}
+unconvincingly -> {13: 1}
+uncooperative -> {1: 1}
+uncork -> {1: 1}
+uncorrupted -> {24: 1}
+uncoupled -> {19: 3}
+uncouth -> {15: 1}
+uncover -> {16: 1, 17: 1}
+uncovered -> {2: 1, 3: 1, 6: 1, 7: 5, 12: 1, 19: 4}
+uncovering -> {6: 1, 19: 1}
+uncritical -> {25: 1}
+uncrossed -> {15: 1}
+unctuous -> {16: 1}
+unctuousness -> {16: 1}
+uncultivated -> {24: 1}
+uncurtained -> {19: 1}
+uncut -> {12: 1, 19: 1}
+und -> {20: 1}
+unda -> {25: 1}
+undamaged -> {3: 1, 19: 1}
+undaunted -> {16: 2}
+undead -> {10: 36}
+undeads -> {10: 1}
+undeceive -> {7: 1}
+undecided -> {14: 1, 16: 1, 19: 1, 24: 2, 25: 1}
+undecipherable -> {6: 1}
+undeclared -> {19: 1}
+undefeated -> {1: 1}
+undefended -> {8: 1, 19: 1}
+undefined -> {13: 1}
+undelectable -> {15: 1}
+undemonstrated -> {25: 1}
+undeniable -> {2: 1, 5: 1, 9: 1, 17: 2, 24: 2, 25: 1}
+undeniably -> {25: 1}
+undependable -> {2: 1}
+under -> {1: 51, 2: 50, 3: 59, 4: 5, 5: 17, 6: 15, 7: 46, 8: 28, 9: 3, 10: 68, 11: 26, 12: 45, 13: 35, 14: 33, 15: 79, 16: 28, 17: 26, 18: 53, 19: 139, 20: 24, 21: 9, 22: 3, 23: 3, 24: 45, 25: 236}
+underarms -> {1: 1}
+underbelly -> {3: 1}
+underbrush -> {1: 4}
+underclothes -> {1: 1, 2: 2, 19: 1}
+undercover -> {2: 2, 3: 3}
+undercurrents -> {5: 1}
+underdressed -> {18: 1}
+underestimate -> {1: 2, 2: 1, 18: 1}
+underestimates -> {17: 1}
+underfed -> {1: 3}
+underfoot -> {2: 1, 7: 1, 19: 3}
+undergarment -> {10: 1}
+undergarments -> {1: 1, 2: 6, 18: 1}
+undergo -> {16: 2}
+undergoes -> {25: 1}
+undergoing -> {10: 1}
+undergone -> {7: 5, 10: 2, 13: 1, 22: 1, 23: 1, 24: 1}
+undergraduate -> {13: 3}
+undergraduates -> {19: 1}
+underground -> {1: 2, 2: 2, 3: 48, 5: 1, 7: 7, 8: 1, 10: 1, 11: 2, 12: 1, 13: 1, 17: 9, 18: 12, 19: 6}
+undergrounddeadly -> {3: 1}
+undergrowth -> {2: 2, 11: 4, 19: 1}
+underhand -> {13: 1, 16: 1}
+underland -> {18: 1}
+underlies -> {16: 1, 19: 1}
+underline -> {10: 1, 13: 1, 14: 1, 16: 1, 24: 1, 25: 1}
+underlined -> {15: 1}
+underlining -> {15: 1}
+underlip -> {10: 1}
+underlying -> {2: 1, 8: 1, 10: 1, 18: 1}
+undermine -> {2: 1, 5: 1, 14: 1, 25: 1}
+undermined -> {2: 1, 5: 1, 25: 1}
+underminer -> {16: 1}
+undermines -> {25: 1}
+undermining -> {2: 1, 5: 1, 16: 1, 25: 1}
+underneath -> {1: 2, 2: 2, 3: 1, 4: 1, 7: 1, 10: 3, 12: 1, 13: 2, 15: 1, 17: 2, 19: 8, 20: 3}
+undernourished -> {6: 1, 9: 1}
+underpants -> {9: 1}
+underpass -> {9: 1}
+underpowered -> {3: 1}
+underrate -> {1: 1}
+unders -> {9: 1}
+underscored -> {18: 1}
+undersee -> {1: 1}
+undersees -> {2: 4}
+undershirt -> {1: 1, 2: 3}
+undershirts -> {2: 1}
+undershorts -> {1: 3}
+underside -> {2: 2}
+undersized -> {18: 1}
+understaffed -> {3: 1, 6: 1}
+understand -> {1: 14, 2: 16, 3: 5, 4: 1, 5: 8, 6: 2, 7: 20, 9: 6, 10: 56, 11: 22, 12: 9, 13: 15, 14: 6, 15: 38, 16: 19, 17: 4, 18: 10, 19: 53, 20: 5, 21: 31, 22: 7, 23: 7, 24: 15, 25: 53}
+understandable -> {3: 1, 11: 1, 12: 1, 19: 1}
+understandeth -> {16: 3}
+understandhes -> {19: 1}
+understandhow -> {17: 1}
+understanding -> {2: 2, 3: 4, 5: 7, 6: 6, 7: 1, 9: 2, 10: 5, 11: 6, 12: 2, 13: 2, 14: 40, 15: 4, 16: 41, 19: 9, 21: 33, 22: 8, 23: 8, 24: 61, 25: 688}
+understandingcategories -> {25: 1}
+understandingcognition -> {25: 1}
+understandingconceptions -> {25: 1}
+understandingfor -> {25: 1}
+understandingi -> {25: 1}
+understandinginasmuch -> {25: 1}
+understandingly -> {13: 1}
+understandinglymuch -> {13: 1}
+understandingmust -> {25: 1}
+understandingnamely -> {25: 1}
+understandingnot -> {25: 1}
+understandings -> {16: 8, 25: 2}
+understandingthat -> {25: 1}
+understandingthere -> {25: 1}
+understandingthis -> {25: 1}
+understandonce -> {19: 1}
+understands -> {2: 1, 3: 1, 6: 1, 17: 1, 18: 2, 19: 1, 21: 3, 24: 1, 25: 2}
+understandsimple -> {19: 1}
+understatement -> {1: 1}
+understood -> {1: 1, 2: 5, 3: 4, 5: 1, 6: 1, 7: 12, 10: 12, 11: 7, 13: 6, 14: 1, 15: 9, 16: 6, 18: 3, 19: 19, 20: 1, 21: 5, 22: 3, 23: 3, 24: 7, 25: 20}
+understudy -> {13: 1}
+undertake -> {5: 2, 6: 1, 7: 1, 10: 2, 21: 3, 22: 1, 23: 1, 24: 2, 25: 4}
+undertaken -> {7: 2, 11: 3, 17: 1, 19: 1, 24: 1, 25: 3}
+undertaker -> {10: 6, 16: 1}
+undertakers -> {10: 2, 19: 2}
+undertakes -> {16: 1, 25: 2}
+undertaking -> {5: 2, 7: 1, 14: 1, 19: 3, 21: 2, 22: 4, 23: 4, 25: 7}
+undertook -> {14: 1, 19: 1}
+undervalue -> {16: 1, 25: 1}
+undervalued -> {16: 1}
+underwater -> {2: 4, 15: 2}
+underwear -> {1: 1, 3: 1, 13: 2, 17: 2, 18: 4}
+underwent -> {10: 1, 19: 1}
+underwood -> {7: 1, 15: 20}
+underwoods -> {15: 3}
+underworld -> {3: 3}
+undeserted -> {13: 1}
+undeserved -> {5: 1}
+undeserving -> {16: 1, 25: 1}
+undesirable -> {6: 1, 16: 1}
+undespairingly -> {13: 1}
+undetectable -> {1: 2}
+undetected -> {19: 1}
+undetermined -> {24: 2, 25: 26}
+undeterminedof -> {25: 1}
+undeterminedproposition -> {25: 1}
+undeterred -> {25: 1}
+undeveloped -> {10: 1, 25: 2}
+undeviating -> {25: 1}
+undid -> {16: 1, 19: 3}
+undignified -> {19: 1}
+undiminished -> {25: 2}
+undisciplined -> {10: 1, 18: 1}
+undiscovered -> {10: 1, 19: 1, 25: 2}
+undisguised -> {19: 1}
+undismayed -> {5: 1}
+undistracted -> {6: 3}
+undisturbed -> {1: 2, 4: 1, 22: 1, 23: 1, 25: 3}
+undivided -> {25: 1}
+undo -> {1: 1, 2: 1, 7: 1, 10: 2, 12: 1, 15: 1, 17: 1, 19: 3, 24: 1}
+undoing -> {7: 1, 10: 1, 19: 2}
+undoings -> {10: 1}
+undone -> {2: 3, 6: 1, 7: 4, 10: 2, 19: 1, 21: 1, 24: 2}
+undoomed -> {8: 2}
+undoubted -> {24: 2, 25: 3}
+undoubtedly -> {1: 2, 2: 2, 5: 4, 6: 3, 10: 2, 11: 2, 14: 4, 16: 1, 19: 2, 20: 1, 21: 2, 22: 1, 23: 1, 24: 1, 25: 7}
+undoubtingly -> {25: 1}
+undreamedof -> {5: 1}
+undress -> {2: 1, 10: 1, 11: 1, 15: 1, 19: 2}
+undressed -> {7: 2, 9: 1, 10: 1, 15: 1, 19: 5, 20: 1, 21: 1}
+undresses -> {9: 1}
+undressing -> {10: 2, 19: 2}
+undrinkable -> {2: 1}
+undrugged -> {9: 1}
+undue -> {11: 1, 15: 1, 20: 1}
+undulate -> {15: 1, 20: 1}
+undulating -> {2: 1, 10: 1}
+unduly -> {10: 1, 11: 1}
+undying -> {2: 2, 7: 1}
+une -> {19: 1}
+unearned -> {19: 1}
+unearth -> {2: 1}
+unearthed -> {19: 1}
+unearthly -> {1: 1, 2: 1}
+unease -> {1: 2, 12: 2, 18: 1}
+uneasily -> {10: 2, 11: 2, 12: 1, 13: 1, 15: 2, 19: 1, 20: 4}
+uneasiness -> {2: 1, 7: 2, 10: 3, 11: 1, 14: 1, 22: 1, 23: 1}
+uneasy -> {2: 1, 7: 3, 10: 10, 11: 1, 13: 4, 15: 3, 17: 1, 18: 1, 19: 2}
+uneaten -> {15: 1}
+unedifying -> {5: 1}
+uneducated -> {25: 1}
+unemployed -> {12: 2, 20: 2}
+unemployment -> {3: 7, 5: 6}
+unencompassable -> {19: 1}
+unending -> {8: 1, 11: 1, 19: 1, 20: 1}
+unendurable -> {9: 1, 11: 1, 18: 1, 19: 1, 20: 1}
+unequal -> {5: 2, 16: 1}
+unequalled -> {10: 1}
+unequally -> {13: 1}
+unequalthat -> {11: 1}
+unerring -> {14: 2}
+unerringly -> {19: 1}
+unessential -> {13: 1, 25: 1}
+uneven -> {6: 1, 17: 1, 18: 1, 19: 2}
+uneventful -> {1: 2, 11: 2}
+unexampled -> {19: 1}
+unexceptionable -> {25: 2}
+unexceptionably -> {25: 1}
+unexpected -> {1: 3, 2: 2, 7: 2, 10: 3, 11: 2, 13: 3, 15: 1, 16: 2, 18: 2, 19: 5, 24: 4, 25: 1}
+unexpectedly -> {1: 2, 10: 1, 11: 1, 13: 2, 17: 1, 18: 1, 19: 6, 20: 1, 21: 1, 24: 1}
+unexpectedness -> {19: 2}
+unexpiated -> {5: 1}
+unexplained -> {2: 1}
+unexploded -> {19: 1}
+unexplored -> {19: 1}
+unextended -> {21: 1}
+unfading -> {8: 1}
+unfailing -> {5: 1}
+unfair -> {1: 3, 5: 2, 6: 1, 9: 1, 15: 1, 18: 1, 19: 1, 24: 1, 25: 3}
+unfairly -> {10: 1, 25: 1}
+unfairness -> {2: 1, 15: 1}
+unfaithful -> {14: 1, 19: 1}
+unfaithfulness -> {7: 1, 16: 1}
+unfamiliar -> {1: 5, 2: 4, 12: 1, 13: 9, 15: 1, 17: 2, 19: 3, 20: 1}
+unfashionable -> {19: 1}
+unfathomable -> {2: 1, 6: 3, 13: 1, 15: 1, 19: 1}
+unfavorable -> {9: 1, 19: 2}
+unfavourable -> {25: 1}
+unfazed -> {2: 1}
+unfeasible -> {19: 2}
+unfed -> {19: 1}
+unfeeling -> {18: 1, 19: 1}
+unfeigned -> {16: 1}
+unfelt -> {8: 1}
+unferth -> {8: 5}
+unfettered -> {10: 1}
+unfilled -> {24: 1}
+unfinished -> {6: 1, 7: 3, 13: 1, 17: 2, 19: 8}
+unfit -> {15: 1, 22: 1, 23: 1, 24: 1}
+unfitness -> {16: 1, 25: 1}
+unfitting -> {10: 1}
+unflinching -> {2: 1}
+unfocusedthat -> {18: 1}
+unfold -> {10: 3, 11: 2, 13: 1, 16: 1, 25: 1}
+unfolded -> {1: 1, 7: 2, 12: 1, 19: 2}
+unfolding -> {19: 3}
+unfolds -> {22: 1, 23: 1, 25: 1}
+unforeseen -> {17: 1, 19: 1}
+unforgettable -> {1: 5, 5: 1, 13: 1, 17: 1, 19: 5}
+unforgettably -> {6: 2}
+unforgivable -> {1: 1, 15: 1}
+unforgivably -> {13: 1}
+unforgiving -> {1: 1, 2: 1}
+unfortunate -> {1: 1, 2: 1, 5: 3, 6: 1, 7: 5, 9: 1, 11: 1, 14: 1, 17: 1, 18: 1, 19: 4, 25: 2}
+unfortunately -> {1: 4, 2: 4, 3: 9, 6: 2, 7: 2, 14: 1, 15: 1, 17: 2, 18: 1, 19: 2, 24: 1, 25: 5}
+unfortunates -> {19: 1}
+unfounded -> {5: 1}
+unfreedom -> {19: 1}
+unfrequently -> {21: 1}
+unfriendly -> {3: 1, 6: 2, 10: 1, 18: 1, 19: 1}
+unfrocked -> {19: 3}
+unfruitful -> {14: 1}
+unfulfillable -> {19: 1}
+unfunny -> {15: 1}
+unfurled -> {19: 1}
+unger -> {3: 1}
+ungodly -> {9: 1, 15: 1, 16: 1}
+ungracefully -> {4: 1}
+ungracious -> {7: 1, 10: 1}
+ungrateful -> {7: 2, 10: 2, 14: 1, 16: 1, 19: 2}
+unground -> {19: 1}
+unguarded -> {1: 1, 2: 1, 7: 1, 25: 1}
+unguardedly -> {25: 1}
+unhallowed -> {8: 1, 10: 2}
+unhappier -> {12: 1}
+unhappily -> {1: 1, 2: 2, 5: 1, 6: 1, 10: 2, 11: 1, 13: 2, 18: 1, 25: 1}
+unhappiness -> {11: 2, 15: 1, 16: 3, 19: 1}
+unhappy -> {2: 3, 3: 1, 6: 2, 7: 11, 10: 12, 11: 1, 12: 5, 13: 2, 15: 1, 16: 4, 17: 1, 18: 1, 19: 7, 25: 1}
+unharmed -> {2: 2, 8: 2, 10: 1, 17: 2, 19: 2}
+unharnessed -> {19: 3}
+unharvested -> {19: 3}
+unhealed -> {19: 1}
+unhealthy -> {5: 1, 15: 1, 19: 1}
+unheard -> {2: 1, 7: 4, 10: 1, 13: 1, 19: 2}
+unheardof -> {7: 1, 19: 1}
+unheated -> {19: 1}
+unheeding -> {19: 2}
+unhelped -> {8: 1}
+unhesitatingly -> {10: 1, 24: 1}
+unhidden -> {8: 3}
+unhindered -> {19: 2}
+unhinge -> {2: 1, 18: 1}
+unhinged -> {1: 1, 2: 1, 10: 2}
+unhitch -> {19: 2}
+unhitched -> {15: 1}
+unhitching -> {19: 1}
+unholy -> {10: 3, 24: 1}
+unhook -> {1: 1, 2: 1, 10: 1}
+unhooked -> {10: 2, 15: 2}
+unhooks -> {18: 1}
+unhorsed -> {19: 1}
+unhuman -> {10: 1}
+unhurried -> {15: 1, 19: 5}
+unhurriedly -> {19: 2}
+unhurt -> {7: 2, 10: 2, 15: 1}
+unhypnotized -> {9: 1}
+uni -> {25: 1}
+unidentified -> {19: 2}
+uniform -> {1: 2, 2: 6, 3: 4, 5: 1, 9: 1, 13: 4, 14: 1, 15: 1, 16: 4, 17: 5, 18: 6, 19: 13, 20: 1, 25: 4}
+uniformity -> {1: 1, 2: 1, 5: 1, 16: 1, 24: 1, 25: 3}
+uniformly -> {25: 1}
+uniforms -> {2: 5, 3: 3, 17: 1, 18: 11, 19: 3}
+unifying -> {5: 1, 18: 1}
+unilaterally -> {25: 1}
+unimaginable -> {19: 2, 20: 1}
+unimaginative -> {19: 1}
+unimpaired -> {6: 1, 15: 1}
+unimpeded -> {11: 1}
+unimportant -> {6: 1, 11: 1, 13: 1, 14: 1, 18: 2, 19: 3, 25: 2}
+unimpressed -> {17: 1}
+uninflected -> {13: 1}
+uninfluenced -> {24: 1, 25: 2}
+uninhabitable -> {19: 1}
+uninhabited -> {7: 1, 19: 3}
+uninhibited -> {6: 2}
+uninitiated -> {15: 1, 19: 1}
+uninjured -> {1: 1, 7: 1, 18: 1}
+uninspired -> {11: 1}
+uninspiring -> {18: 1}
+uninstructed -> {24: 1}
+uninstructive -> {24: 1}
+unintelligible -> {1: 3, 2: 1, 7: 1, 13: 1, 19: 2}
+unintentional -> {24: 1}
+unintentionally -> {7: 1}
+uninterested -> {19: 1}
+uninteresting -> {6: 2}
+uninterfered -> {25: 1}
+uninterrupted -> {18: 1, 24: 1, 25: 2}
+uninterruptedly -> {19: 2, 24: 1}
+uninvited -> {2: 1, 19: 2}
+uninviting -> {15: 1}
+uninvolved -> {19: 1}
+union -> {3: 12, 4: 1, 7: 2, 10: 1, 11: 1, 13: 1, 14: 3, 15: 2, 16: 3, 18: 1, 19: 5, 21: 1, 24: 3, 25: 9}
+unions -> {5: 1}
+unique -> {3: 4, 6: 2, 10: 1, 15: 1, 18: 1, 19: 7}
+uniqueness -> {6: 1, 19: 3}
+unis -> {3: 1}
+unison -> {2: 1, 10: 1, 14: 1}
+unit -> {1: 1, 3: 9, 15: 1, 17: 1, 18: 6, 19: 26, 20: 1, 25: 4}
+unita -> {19: 1}
+unitard -> {1: 2}
+unitarian -> {3: 1}
+unitarians -> {12: 1}
+unitas -> {25: 1}
+unite -> {14: 1, 18: 1, 22: 1, 23: 1, 24: 1, 25: 5}
+united -> {3: 11, 4: 1, 5: 13, 6: 1, 7: 1, 10: 3, 11: 1, 13: 1, 14: 4, 15: 2, 16: 10, 19: 5, 20: 3, 21: 4, 22: 1, 23: 1, 24: 8, 25: 22}
+unites -> {5: 1, 21: 1, 24: 1, 25: 3}
+uniting -> {25: 6}
+unitis -> {25: 1}
+units -> {3: 6, 5: 1, 17: 1, 19: 18, 25: 7}
+unity -> {2: 1, 5: 4, 10: 1, 14: 1, 16: 7, 18: 2, 19: 3, 21: 4, 24: 8, 25: 493}
+unityas -> {25: 1}
+unityin -> {25: 1}
+unitynot -> {25: 1}
+unityor -> {25: 1}
+unitythe -> {25: 2}
+unitywhich -> {25: 1}
+univ -> {3: 1}
+universal -> {2: 2, 3: 3, 4: 2, 5: 8, 6: 1, 7: 3, 10: 1, 11: 2, 13: 1, 14: 83, 16: 1, 19: 4, 21: 1, 22: 1, 23: 1, 24: 59, 25: 57}
+universale -> {10: 1}
+universalitas -> {25: 2}
+universality -> {14: 10, 19: 1, 24: 8, 25: 37}
+universally -> {1: 1, 5: 1, 7: 1, 10: 1, 14: 10, 21: 2, 24: 8, 25: 14}
+universe -> {5: 3, 6: 14, 10: 2, 12: 2, 13: 2, 16: 64, 19: 12, 21: 5, 24: 2, 25: 42}
+universean -> {25: 2}
+universeat -> {6: 1}
+universegive -> {25: 1}
+universenot -> {25: 1}
+universes -> {6: 3, 19: 1}
+universeso -> {13: 1}
+universethats -> {19: 1}
+universethis -> {25: 1}
+universitas -> {25: 2}
+universities -> {3: 12, 5: 3, 13: 1, 19: 2}
+university -> {3: 31, 5: 15, 6: 1, 10: 1, 12: 1, 13: 1, 14: 1, 15: 1, 16: 5, 19: 22, 21: 1, 24: 1, 25: 1}
+unjust -> {1: 1, 5: 3, 7: 3, 9: 1, 16: 8, 19: 2, 21: 1, 25: 1}
+unjustifiable -> {24: 1}
+unjustified -> {5: 1}
+unjustly -> {5: 1, 7: 1, 13: 1, 16: 2}
+unkempt -> {18: 1, 19: 1}
+unkind -> {1: 1, 7: 1, 17: 1, 19: 1}
+unkindly -> {16: 1}
+unkindness -> {16: 1}
+unknowing -> {10: 3, 20: 1}
+unknowingly -> {10: 1}
+unknown -> {2: 2, 5: 1, 7: 9, 8: 2, 10: 11, 11: 2, 12: 2, 13: 2, 14: 2, 15: 3, 16: 5, 19: 19, 21: 6, 22: 4, 23: 4, 24: 1, 25: 27}
+unknownthat -> {19: 1}
+unlaced -> {20: 1}
+unladylike -> {15: 1}
+unlatch -> {18: 1, 20: 1}
+unlatched -> {15: 3}
+unlatches -> {18: 1}
+unlawful -> {14: 1, 24: 3}
+unlawfully -> {19: 1}
+unlearned -> {16: 5}
+unleash -> {18: 1}
+unleashed -> {18: 1, 19: 1}
+unleashes -> {18: 1}
+unless -> {1: 13, 2: 16, 3: 23, 5: 4, 7: 3, 8: 1, 10: 22, 11: 4, 13: 2, 14: 7, 15: 12, 16: 3, 17: 3, 18: 7, 19: 7, 20: 2, 21: 13, 22: 15, 23: 15, 24: 7, 25: 36}
+unlicensed -> {19: 1}
+unlighted -> {3: 2, 15: 1}
+unlike -> {1: 4, 2: 5, 3: 4, 6: 3, 7: 1, 10: 1, 11: 1, 12: 2, 13: 2, 15: 2, 16: 2, 18: 5, 19: 5, 25: 1}
+unlikely -> {1: 2, 2: 6, 5: 1, 6: 3, 18: 2, 19: 5}
+unlimited -> {5: 3, 25: 17}
+unlisted -> {3: 1}
+unlit -> {1: 2, 12: 1, 19: 3}
+unlivable -> {2: 1, 17: 1}
+unload -> {3: 1, 7: 1}
+unloaded -> {7: 1, 10: 1, 15: 1, 19: 2, 20: 1}
+unloading -> {3: 3, 18: 1}
+unlock -> {18: 2}
+unlocked -> {1: 1, 7: 3, 8: 1, 10: 5, 11: 3, 12: 1, 13: 1, 19: 4, 20: 1}
+unlocking -> {12: 1}
+unlocks -> {9: 1, 18: 1}
+unloved -> {8: 1}
+unlovely -> {20: 1}
+unluckily -> {7: 7, 25: 1}
+unlucky -> {4: 2, 7: 5, 10: 1, 19: 1}
+unmade -> {9: 1}
+unmanlike -> {16: 1}
+unmanned -> {18: 1}
+unmannerly -> {19: 1}
+unmarked -> {18: 1}
+unmarried -> {2: 1, 3: 1, 19: 3}
+unmask -> {10: 1, 19: 1}
+unmatched -> {8: 2}
+unmeet -> {8: 1}
+unmercifully -> {7: 1, 10: 1, 12: 1}
+unmistakable -> {1: 2, 2: 3, 10: 1, 11: 1, 13: 2, 19: 1, 25: 1}
+unmistakably -> {1: 2, 2: 1, 7: 1, 11: 1, 13: 1}
+unmitigated -> {6: 2, 15: 1}
+unmixed -> {14: 2, 24: 1, 25: 2}
+unmolested -> {3: 1, 16: 1}
+unmounted -> {10: 1}
+unmoved -> {7: 2, 10: 1, 11: 2, 13: 1, 19: 1, 21: 1}
+unmovedand -> {11: 1}
+unmoving -> {1: 1, 10: 1, 12: 1}
+unmuddied -> {9: 2}
+unmusical -> {19: 1}
+unnamed -> {12: 1, 19: 1, 25: 1}
+unnatural -> {1: 2, 2: 2, 10: 2, 16: 2, 18: 2, 19: 6}
+unnaturally -> {1: 1, 5: 1, 13: 1, 19: 1}
+unnecessarily -> {15: 1, 20: 1, 25: 2}
+unnecessary -> {1: 1, 5: 1, 6: 1, 10: 2, 12: 1, 13: 1, 16: 4, 18: 2, 19: 3, 20: 1, 21: 1, 25: 12}
+unnerve -> {2: 1, 10: 1}
+unnerved -> {10: 1, 11: 1}
+unnerving -> {2: 1, 11: 1, 18: 1}
+unnoticeable -> {19: 1}
+unnoticed -> {1: 1, 2: 4, 3: 1, 7: 1, 11: 1, 12: 1, 18: 1, 19: 3}
+unnoticedthese -> {19: 1}
+uno -> {20: 2}
+unobserved -> {1: 1, 10: 1, 18: 1, 24: 1, 25: 3}
+unobtrusive -> {15: 1}
+unobtrusively -> {3: 1, 13: 1}
+unoffensive -> {15: 1}
+unofficial -> {19: 2}
+unopened -> {2: 1, 10: 2, 13: 1, 18: 1}
+unorganized -> {15: 1}
+unostentatious -> {11: 1, 19: 1}
+unowned -> {19: 1}
+unpack -> {11: 1, 19: 2}
+unpaid -> {1: 1}
+unpainted -> {15: 1, 19: 2}
+unpassionateness -> {16: 2}
+unpaved -> {19: 2}
+unpeered -> {8: 3}
+unpeopled -> {19: 1}
+unperceived -> {7: 1, 25: 1}
+unperturbed -> {20: 1}
+unphilosophical -> {25: 1}
+unpleasant -> {1: 3, 2: 3, 11: 1, 13: 2, 15: 2, 17: 2, 18: 1, 19: 6, 24: 4, 25: 1}
+unpleasantly -> {19: 1}
+unpleasantness -> {10: 1, 13: 2, 19: 1, 24: 2}
+unpleasantsmelling -> {2: 1}
+unpleasing -> {16: 1}
+unpopular -> {2: 1, 11: 1, 19: 1, 25: 1}
+unpractised -> {24: 1}
+unprecedented -> {1: 1, 2: 1, 6: 1, 13: 1, 17: 1, 19: 3}
+unprecedentedly -> {6: 1}
+unpredictable -> {18: 1, 19: 1}
+unprejudiced -> {5: 1, 11: 1, 19: 1, 22: 2, 23: 2}
+unpremeditated -> {16: 1}
+unprepared -> {1: 1, 2: 2, 7: 1, 10: 1, 18: 2, 25: 1}
+unpretentious -> {19: 1}
+unproductive -> {5: 1}
+unprofitable -> {9: 1, 16: 1, 19: 1, 25: 1}
+unprosperous -> {13: 1}
+unprotected -> {2: 1, 3: 1}
+unproved -> {11: 1}
+unpunctual -> {10: 1, 13: 1}
+unquailing -> {8: 1}
+unqualified -> {5: 2, 6: 1, 24: 1, 25: 1}
+unquenchable -> {18: 1}
+unquestionable -> {1: 1, 10: 1, 13: 1}
+unquestionably -> {3: 1, 14: 1, 25: 2}
+unquestioned -> {24: 1}
+unquiet -> {13: 1}
+unquietly -> {16: 1}
+unrattled -> {17: 1}
+unravel -> {11: 1, 21: 1}
+unraveled -> {1: 1}
+unraveling -> {17: 1, 22: 1, 23: 1}
+unravelled -> {19: 1}
+unravels -> {2: 1, 18: 1}
+unreachable -> {1: 2, 2: 3}
+unread -> {24: 1}
+unreadable -> {1: 1}
+unreal -> {2: 1, 10: 1, 12: 1, 13: 2, 15: 1, 19: 2, 25: 2}
+unrealistic -> {17: 1, 19: 1}
+unreality -> {10: 1, 12: 2, 13: 1}
+unreasonable -> {5: 1, 12: 1, 16: 11, 20: 1, 25: 1}
+unreasonably -> {16: 1}
+unreasoning -> {13: 1}
+unrecognised -> {11: 1}
+unrecognizable -> {1: 1, 2: 2, 12: 1, 14: 1, 18: 1, 19: 1}
+unrecorded -> {10: 1}
+unrecordedabout -> {11: 1}
+unredeemed -> {19: 1}
+unreformed -> {11: 2}
+unregarded -> {5: 1}
+unregenerate -> {6: 2}
+unregretfully -> {19: 1}
+unregulated -> {5: 1}
+unrelenting -> {1: 1, 18: 1}
+unreliable -> {15: 1}
+unrelieved -> {15: 1}
+unremarkable -> {19: 1}
+unremitting -> {6: 1}
+unrepaired -> {19: 1}
+unrepentant -> {9: 2}
+unreprovable -> {16: 1}
+unrequited -> {1: 1}
+unreservedly -> {19: 1}
+unresisting -> {18: 1}
+unresponsive -> {2: 1}
+unrest -> {2: 2, 10: 1, 17: 1, 19: 4}
+unrestfully -> {13: 1}
+unresting -> {8: 1}
+unrestrained -> {5: 1, 13: 1, 19: 3, 25: 1}
+unrestricted -> {5: 1, 6: 1, 14: 1, 25: 1}
+unrevealed -> {13: 1}
+unrevenged -> {24: 1}
+unrewarding -> {6: 1}
+unrighteous -> {8: 1, 16: 1, 24: 1, 25: 1}
+unripe -> {24: 1}
+unroll -> {1: 1}
+unrolled -> {13: 2, 15: 2, 19: 1}
+unrolls -> {2: 1}
+unrouged -> {15: 1}
+unruffled -> {11: 1, 19: 2}
+unruly -> {2: 1}
+unsafe -> {3: 1, 25: 1}
+unsaid -> {16: 1, 19: 1}
+unsanitary -> {15: 1}
+unsatisfactorily -> {14: 1}
+unsatisfactory -> {1: 1, 5: 1, 6: 1, 16: 1, 25: 3}
+unsatisfied -> {5: 1, 11: 1, 14: 2}
+unsatisfying -> {16: 1}
+unsavory -> {19: 1}
+unscathed -> {1: 1, 17: 1}
+unscheduled -> {3: 1, 19: 1}
+unschooled -> {15: 1}
+unscrew -> {1: 1, 3: 1, 10: 2}
+unscrewed -> {13: 1, 15: 1}
+unscrewing -> {19: 1}
+unscripted -> {17: 1, 18: 1}
+unscrupulous -> {5: 1, 11: 4}
+unscrupulously -> {13: 1}
+unsealed -> {10: 1}
+unsearchable -> {24: 1, 25: 2}
+unsearched -> {10: 1}
+unseasonable -> {16: 3, 22: 1, 23: 1}
+unseasonably -> {16: 1}
+unseat -> {1: 1, 10: 1}
+unseeing -> {19: 2}
+unseeingly -> {19: 1}
+unseemly -> {11: 1, 16: 1, 19: 1}
+unseen -> {2: 1, 10: 1, 11: 6, 12: 2, 15: 1, 17: 1, 19: 4, 25: 1}
+unselfish -> {5: 2, 10: 5, 11: 2, 24: 1}
+unselfishly -> {11: 1}
+unselfishness -> {10: 1}
+unsensibie -> {16: 1}
+unsensible -> {16: 3}
+unsensibly -> {16: 1}
+unseparably -> {16: 1}
+unsettled -> {1: 1, 11: 1, 16: 2, 19: 1, 25: 2}
+unshakably -> {6: 1}
+unshaken -> {11: 1, 25: 2}
+unshared -> {19: 1}
+unshaved -> {12: 1}
+unshaven -> {19: 2, 20: 1}
+unshed -> {10: 1}
+unshipped -> {11: 1}
+unsightly -> {3: 1}
+unskillful -> {25: 1}
+unsleeping -> {12: 1}
+unsmiling -> {18: 1}
+unsnapping -> {19: 1}
+unsociability -> {19: 1}
+unsociable -> {16: 2, 19: 1}
+unsoftened -> {11: 1, 19: 1}
+unsolemn -> {19: 1}
+unsolved -> {6: 1, 19: 2, 24: 1}
+unsophisticated -> {19: 1, 25: 1}
+unsorted -> {19: 1}
+unsought -> {24: 1}
+unsoughtfrequently -> {13: 1}
+unsound -> {16: 1, 22: 1, 23: 1}
+unspan -> {8: 1}
+unspeakable -> {6: 2, 10: 2, 15: 1, 18: 1, 19: 1}
+unspecified -> {18: 1}
+unspent -> {19: 1}
+unspirited -> {10: 1}
+unspoiled -> {19: 3}
+unspoken -> {1: 2, 2: 2, 5: 1, 18: 1}
+unsporting -> {19: 1}
+unspotted -> {16: 2}
+unstable -> {2: 1, 18: 4}
+unstained -> {10: 1}
+unsteadily -> {12: 1, 15: 1, 17: 1}
+unsteady -> {1: 1, 13: 1, 19: 1}
+unsteered -> {10: 1}
+unstimulating -> {11: 1}
+unstirring -> {19: 1}
+unstrained -> {6: 1}
+unsubstantial -> {6: 1}
+unsuccessful -> {8: 2, 13: 1, 15: 1, 19: 2, 20: 1, 25: 5}
+unsuccessfully -> {2: 1, 6: 1, 11: 1, 13: 2, 15: 2}
+unsuitable -> {11: 1, 19: 1}
+unsuited -> {25: 1}
+unsuiting -> {8: 1}
+unsullied -> {15: 1}
+unsummoned -> {19: 1}
+unsung -> {2: 1}
+unsupported -> {11: 1, 24: 1}
+unsure -> {1: 5, 2: 2, 3: 1, 8: 1, 17: 2, 18: 3}
+unsurpassable -> {11: 1}
+unsurpassed -> {19: 1}
+unsurprising -> {6: 1}
+unsusceptible -> {25: 1}
+unsuspecting -> {2: 1}
+unswept -> {19: 5}
+unsympathetically -> {19: 1}
+unsystematic -> {6: 1}
+untalented -> {6: 1, 15: 1, 19: 2}
+untangle -> {18: 1}
+untangled -> {19: 1}
+untangling -> {1: 2}
+untasted -> {19: 1}
+untellable -> {10: 1}
+untenable -> {24: 1}
+untenanted -> {10: 1}
+unterderseaboat -> {20: 13}
+untested -> {17: 1, 19: 1}
+unthankful -> {16: 6}
+unthinkable -> {1: 1, 2: 1, 5: 1, 17: 1, 18: 2, 19: 3}
+unthinkablethe -> {19: 1}
+unthinking -> {10: 1, 21: 1}
+unthinkingly -> {10: 1, 11: 1, 19: 1, 25: 1}
+unthoughtful -> {13: 1}
+untidy -> {19: 4}
+untie -> {4: 1}
+untied -> {7: 1, 15: 3, 19: 2}
+unties -> {2: 1}
+until -> {1: 91, 2: 99, 3: 43, 4: 1, 6: 4, 7: 22, 8: 3, 9: 1, 10: 45, 11: 11, 12: 12, 13: 41, 14: 2, 15: 89, 16: 10, 17: 26, 18: 57, 19: 63, 20: 34, 21: 6, 24: 4, 25: 14}
+untiluntil -> {18: 1}
+untimely -> {11: 1, 16: 1}
+untiring -> {5: 1}
+unto -> {4: 3, 15: 1, 16: 439, 19: 3, 20: 1}
+untold -> {5: 1, 8: 1, 19: 1}
+untortured -> {6: 1}
+untouchable -> {2: 1, 18: 1}
+untouched -> {1: 5, 5: 1, 10: 1, 12: 1, 14: 1, 15: 2, 17: 1, 18: 1, 19: 6, 20: 1}
+untoward -> {16: 1}
+untrained -> {24: 1}
+untrammeled -> {15: 1}
+untravelled -> {25: 1}
+untreated -> {3: 2}
+untrembling -> {10: 1}
+untrod -> {8: 1}
+untrodden -> {19: 2}
+untroubled -> {6: 2, 16: 2}
+untrue -> {1: 1, 10: 1, 13: 3, 19: 2, 24: 2, 25: 1}
+untruth -> {11: 1, 19: 1}
+untucked -> {1: 2, 18: 1}
+unturned -> {10: 1, 19: 1}
+untutored -> {6: 1}
+unum -> {25: 1}
+unusable -> {12: 1, 19: 1}
+unused -> {3: 4, 4: 1, 12: 1, 15: 1, 19: 4}
+unusual -> {2: 2, 3: 1, 4: 1, 6: 1, 7: 1, 10: 5, 11: 3, 13: 3, 15: 1, 17: 1, 19: 9, 20: 2, 24: 2, 25: 1}
+unusually -> {3: 1, 6: 1, 7: 1, 10: 1, 11: 1, 13: 2, 15: 2, 19: 8}
+unutterable -> {10: 1, 13: 3, 24: 1}
+unutterably -> {10: 1, 13: 1}
+unvariable -> {16: 1}
+unvaried -> {10: 1}
+unvarying -> {20: 1, 25: 4}
+unveil -> {25: 1}
+unveiled -> {7: 2}
+unveiling -> {25: 1}
+unveils -> {17: 1}
+unwad -> {12: 1}
+unwanted -> {1: 2, 19: 1}
+unwarrantable -> {25: 1}
+unwarranted -> {5: 1}
+unwary -> {7: 1}
+unwashed -> {2: 1, 17: 1, 18: 1, 19: 1}
+unwatered -> {19: 1}
+unwavering -> {13: 1, 16: 1, 19: 1, 22: 1, 23: 1, 24: 1}
+unweaponed -> {8: 1}
+unwed -> {3: 1}
+unwelcome -> {2: 2, 5: 1}
+unwell -> {18: 1}
+unwilling -> {2: 1, 7: 3, 15: 2, 16: 3, 19: 3, 22: 4, 23: 4, 25: 1}
+unwillingly -> {13: 2}
+unwillingness -> {13: 1}
+unwind -> {2: 1}
+unwindin -> {15: 1}
+unwinding -> {2: 1}
+unwinds -> {8: 1}
+unwired -> {20: 1}
+unwise -> {16: 2, 25: 1}
+unwisely -> {10: 1, 16: 1}
+unwitting -> {8: 1, 19: 1}
+unwittingly -> {2: 1, 16: 1, 19: 1}
+unwonted -> {10: 1, 19: 1, 24: 1}
+unworthiness -> {24: 1}
+unworthy -> {5: 4, 7: 7, 10: 1, 16: 1, 22: 1, 23: 1, 24: 2, 25: 10}
+unwound -> {10: 1, 15: 1, 19: 1}
+unwrap -> {1: 1}
+unwritten -> {19: 2}
+unyielding -> {2: 1, 19: 1, 24: 3}
+unyieldingly -> {8: 1, 14: 1}
+unzip -> {1: 1}
+unzipping -> {1: 1}
+unzips -> {1: 1, 2: 3}
+up -> {1: 460, 2: 414, 3: 248, 4: 81, 5: 40, 6: 13, 7: 292, 8: 16, 9: 74, 10: 438, 11: 147, 12: 221, 13: 192, 14: 13, 15: 436, 16: 55, 17: 103, 18: 285, 19: 740, 20: 127, 21: 10, 22: 11, 23: 11, 24: 23, 25: 69}
+upadam -> {11: 1}
+upand -> {11: 2}
+upat -> {11: 1}
+upbeat -> {1: 2, 18: 1}
+upbore -> {8: 1}
+upbound -> {8: 1}
+upbraid -> {11: 1, 16: 2}
+upbraiding -> {11: 1, 16: 1}
+upcoming -> {2: 2, 17: 1, 18: 1}
+upcountry -> {11: 1}
+update -> {2: 1, 18: 4, 20: 1}
+updated -> {2: 1, 3: 1, 13: 1, 14: 1, 17: 1, 25: 1}
+updates -> {1: 1, 18: 5}
+updove -> {8: 1}
+updrove -> {8: 1}
+upend -> {10: 1}
+uperfrwn -> {16: 1}
+upflailing -> {12: 1}
+upgrades -> {2: 1}
+upheaval -> {19: 8, 21: 1}
+upheavals -> {19: 7}
+upheaved -> {11: 1}
+upheld -> {8: 2, 18: 1, 22: 1, 23: 1}
+uphill -> {1: 2, 2: 2, 5: 1, 19: 4}
+uphold -> {8: 1, 15: 1, 25: 2}
+upholders -> {25: 1}
+upholding -> {11: 1}
+upholstered -> {17: 1}
+upholstery -> {6: 1, 10: 1, 13: 1, 19: 1, 20: 1}
+upi -> {3: 1}
+upkeep -> {19: 2}
+uplaced -> {18: 1}
+uplajos -> {19: 1}
+uplift -> {19: 1}
+uplifted -> {8: 3}
+uplifting -> {5: 1}
+uplosing -> {1: 1}
+upnsippenpresse -> {3: 1}
+upon -> {1: 5, 2: 2, 3: 11, 4: 36, 5: 13, 6: 12, 7: 168, 8: 4, 10: 87, 11: 16, 12: 33, 13: 32, 14: 9, 15: 19, 16: 152, 17: 5, 18: 4, 19: 25, 20: 17, 21: 15, 22: 26, 23: 26, 24: 19, 25: 381}
+uponor -> {25: 1}
+upper -> {1: 4, 2: 2, 3: 3, 7: 2, 11: 2, 12: 2, 13: 5, 15: 3, 16: 3, 17: 2, 18: 5, 19: 12, 20: 2, 24: 1}
+uppercut -> {3: 1}
+uppers -> {19: 1}
+upping -> {10: 1}
+upplandsgaten -> {3: 1}
+uprear -> {8: 1}
+upright -> {1: 1, 2: 4, 4: 1, 8: 1, 11: 1, 12: 1, 13: 1, 14: 1, 15: 3, 16: 2, 17: 1, 18: 1, 19: 5, 20: 1, 24: 3, 25: 1}
+uprightness -> {24: 6, 25: 1}
+uprights -> {6: 1, 10: 1}
+uprising -> {1: 2, 2: 32, 17: 1, 19: 7, 20: 1}
+uprisings -> {2: 8, 17: 1, 19: 1}
+uproar -> {3: 1, 8: 2, 18: 2, 19: 8}
+uproarious -> {20: 1}
+uprooted -> {1: 1, 7: 1, 19: 2}
+uprooting -> {7: 1}
+uprose -> {8: 2}
+ups -> {2: 1, 3: 6}
+upscale -> {2: 1}
+upset -> {1: 4, 2: 8, 3: 1, 7: 1, 10: 20, 11: 10, 12: 3, 15: 2, 17: 3, 18: 2, 19: 28, 20: 2}
+upsets -> {1: 1, 11: 1, 18: 1}
+upsetting -> {1: 1, 17: 1, 18: 1, 19: 2}
+upshot -> {16: 1, 19: 1}
+upside -> {7: 1, 10: 1, 12: 2, 19: 7, 20: 2}
+upstaged -> {1: 1}
+upstairs -> {2: 6, 3: 2, 7: 2, 9: 1, 10: 3, 11: 1, 12: 2, 13: 10, 15: 12, 18: 2, 19: 1, 20: 10}
+upstanding -> {19: 1}
+upstream -> {1: 1, 3: 1, 12: 3, 19: 1}
+upsweeps -> {19: 1}
+upswept -> {19: 1}
+uptake -> {18: 1}
+uptight -> {3: 10}
+uptodate -> {3: 3, 6: 1, 10: 1, 11: 1}
+uptotheminute -> {3: 1}
+uptothemoment -> {3: 1}
+uptown -> {3: 3}
+upturned -> {12: 1, 15: 1, 19: 1, 20: 1}
+upward -> {1: 2, 2: 6, 3: 1, 5: 1, 11: 2, 12: 1, 13: 1, 18: 2, 19: 1}
+upwards -> {6: 2, 7: 1, 9: 1, 10: 1, 15: 1, 16: 8, 25: 3}
+upwe -> {2: 1}
+upwill -> {19: 1}
+ural -> {19: 3}
+urals -> {19: 21}
+uralsthey -> {19: 1}
+uralswhat -> {19: 1}
+urban -> {2: 1, 3: 12}
+urbane -> {10: 1, 13: 1, 16: 1}
+urbanindustrial -> {6: 1}
+urbanism -> {19: 1}
+urbanite -> {19: 1}
+urge -> {1: 1, 2: 1, 5: 3, 6: 8, 7: 2, 9: 1, 11: 1, 17: 1, 19: 3, 24: 1}
+urged -> {5: 1, 6: 1, 7: 9, 8: 4, 10: 3, 13: 7, 15: 1, 16: 1, 19: 6, 20: 1, 24: 1, 25: 5}
+urgency -> {1: 2, 2: 1, 6: 1, 13: 1, 18: 1}
+urgent -> {1: 1, 5: 1, 10: 1, 13: 1, 15: 1, 16: 1, 18: 1, 19: 9, 21: 1}
+urgently -> {17: 1, 19: 1}
+urges -> {1: 1, 6: 1, 8: 1, 9: 1, 14: 1, 16: 1, 24: 1}
+urging -> {1: 1, 7: 1, 10: 1, 13: 1, 19: 4}
+urine -> {1: 1, 3: 1, 15: 1, 17: 1}
+urn -> {1: 3, 2: 1}
+urtin -> {10: 1}
+uruguay -> {3: 1}
+uruguayan -> {3: 1}
+urutgers -> {3: 1}
+us -> {1: 290, 2: 316, 3: 29, 4: 11, 5: 60, 6: 15, 7: 148, 8: 21, 9: 17, 10: 463, 11: 67, 12: 59, 13: 70, 14: 64, 15: 364, 16: 68, 17: 78, 18: 205, 19: 253, 20: 53, 21: 46, 22: 45, 23: 45, 24: 127, 25: 579}
+usa -> {3: 1, 13: 1, 19: 1, 25: 2}
+usable -> {2: 1, 3: 1, 12: 1, 17: 2, 18: 1}
+usage -> {3: 1, 15: 2, 21: 1, 24: 2, 25: 2}
+usand -> {10: 1, 11: 2}
+usas -> {10: 1, 25: 1}
+usaups -> {3: 1}
+usbut -> {25: 1}
+usc -> {3: 1}
+uscastra -> {11: 1}
+use -> {1: 32, 2: 37, 3: 114, 4: 3, 5: 12, 6: 10, 7: 34, 8: 3, 9: 7, 10: 43, 11: 23, 12: 13, 13: 11, 14: 25, 15: 21, 16: 86, 17: 15, 18: 29, 19: 36, 20: 6, 21: 18, 22: 21, 23: 21, 24: 102, 25: 195}
+useand -> {25: 1}
+used -> {1: 15, 2: 25, 3: 48, 4: 15, 5: 3, 6: 4, 7: 8, 8: 1, 9: 8, 10: 46, 11: 19, 12: 8, 13: 20, 14: 10, 15: 13, 16: 13, 17: 9, 18: 22, 19: 101, 20: 2, 21: 1, 24: 12, 25: 9}
+usedonlyforentrancethey -> {3: 1}
+useful -> {1: 2, 2: 2, 3: 1, 4: 1, 6: 3, 7: 2, 10: 11, 11: 6, 14: 7, 15: 1, 16: 6, 18: 3, 19: 6, 21: 6, 22: 10, 23: 10, 24: 6, 25: 25}
+usefully -> {11: 1}
+usefulness -> {1: 1, 14: 1, 18: 2}
+usein -> {25: 1}
+useless -> {1: 3, 2: 5, 4: 3, 6: 2, 7: 13, 8: 3, 10: 4, 12: 1, 14: 1, 15: 2, 16: 1, 17: 2, 18: 4, 19: 5, 20: 1, 21: 1, 22: 2, 23: 2, 24: 2, 25: 8}
+uselessness -> {8: 1, 19: 1}
+user -> {11: 1}
+users -> {10: 2, 14: 1, 16: 2, 24: 1, 25: 2}
+uses -> {1: 4, 2: 4, 3: 3, 10: 1, 11: 1, 14: 1, 16: 1, 18: 3, 19: 2, 20: 1, 22: 1, 23: 1, 25: 1}
+useth -> {16: 3}
+usewas -> {10: 1}
+usfor -> {11: 1}
+usher -> {3: 1, 7: 8, 18: 1}
+ushered -> {2: 2, 7: 3}
+ushering -> {7: 1}
+ushers -> {3: 1, 18: 2}
+ushow -> {11: 1}
+usi -> {19: 1}
+usin -> {10: 1, 25: 1}
+using -> {1: 4, 2: 12, 3: 48, 7: 5, 9: 2, 10: 13, 11: 2, 12: 3, 13: 2, 14: 4, 15: 3, 16: 3, 17: 5, 18: 10, 19: 13, 20: 1, 22: 1, 23: 1, 24: 4, 25: 3}
+usingwhich -> {11: 1}
+usis -> {25: 1}
+usit -> {19: 1}
+usits -> {19: 1}
+usmust -> {11: 1}
+usnamely -> {5: 1}
+uso -> {3: 1}
+uspsychology -> {25: 1}
+usteron -> {25: 1}
+ustin -> {19: 1}
+ustinia -> {19: 10}
+ustnemdinsk -> {19: 4}
+ustudent -> {3: 2}
+usual -> {1: 10, 2: 26, 3: 6, 5: 1, 7: 24, 8: 3, 9: 2, 10: 33, 11: 28, 12: 2, 14: 1, 15: 16, 16: 13, 17: 2, 18: 9, 19: 27, 20: 2, 21: 1, 25: 10}
+usually -> {1: 17, 2: 12, 3: 57, 5: 7, 6: 1, 7: 2, 8: 1, 9: 1, 10: 9, 11: 5, 12: 1, 13: 4, 14: 1, 15: 14, 16: 6, 17: 4, 18: 5, 19: 13, 21: 7, 22: 10, 23: 10, 24: 3, 25: 7}
+usualsuave -> {11: 1}
+usurpation -> {25: 1}
+usurped -> {16: 1, 25: 1}
+ut -> {5: 1, 10: 1, 16: 1, 24: 1}
+utah -> {3: 1, 14: 1, 24: 1, 25: 1}
+utahbryce -> {3: 1}
+utensil -> {16: 1}
+uterine -> {3: 1}
+uterus -> {3: 1}
+utica -> {16: 1}
+utilise -> {11: 1}
+utilised -> {11: 1}
+utilitarian -> {5: 1, 6: 6, 11: 1, 17: 1}
+utilities -> {3: 1}
+utility -> {3: 1, 11: 1, 14: 2, 18: 3, 21: 1, 22: 2, 23: 2, 24: 2, 25: 20}
+utilize -> {3: 1}
+utilized -> {3: 1}
+utmost -> {2: 1, 5: 1, 7: 8, 10: 9, 11: 3, 14: 2, 15: 2, 16: 3, 17: 1, 19: 7, 21: 2, 24: 6, 25: 7}
+utopia -> {16: 1, 20: 1}
+utopian -> {3: 2, 19: 1}
+utrecht -> {3: 1}
+utter -> {1: 1, 2: 3, 4: 1, 10: 1, 11: 2, 16: 3, 17: 1, 18: 1, 19: 10, 22: 1, 23: 1, 25: 5}
+utterance -> {6: 2, 10: 1, 11: 1}
+utterances -> {5: 1, 11: 1, 19: 1, 20: 1}
+uttered -> {6: 1, 7: 10, 8: 3, 12: 1, 13: 2, 15: 1, 18: 2, 19: 2}
+uttering -> {7: 6, 19: 1, 25: 1}
+utterly -> {1: 4, 5: 3, 7: 2, 10: 2, 11: 3, 13: 4, 15: 2, 17: 1, 18: 2, 19: 5, 25: 37}
+uttermost -> {15: 1}
+utters -> {16: 1, 25: 1}
+v -> {3: 1, 5: 1, 8: 3, 12: 2, 15: 1, 16: 22, 17: 3, 21: 1, 22: 1, 23: 1, 24: 3, 25: 4}
+va -> {3: 1}
+vaca -> {20: 1}
+vacans -> {14: 1}
+vacant -> {2: 2, 12: 1, 13: 1, 18: 1, 19: 6, 24: 3, 25: 1}
+vacated -> {15: 1}
+vacation -> {1: 1, 3: 4, 13: 1, 15: 1, 20: 3}
+vacationers -> {19: 1}
+vacations -> {3: 3, 6: 1}
+vaccinations -> {3: 1}
+vacillating -> {21: 1, 25: 1}
+vacuous -> {13: 1}
+vacuum -> {12: 4, 20: 3, 25: 3}
+vacuumcurettage -> {3: 1}
+vacuumed -> {2: 1, 20: 2}
+vacuumunderground -> {12: 1}
+vagabond -> {19: 1, 25: 1}
+vagabound -> {9: 1}
+vagrancy -> {3: 2}
+vagrant -> {19: 2}
+vagrants -> {19: 1}
+vague -> {1: 4, 2: 1, 10: 9, 11: 2, 12: 2, 13: 5, 15: 4, 19: 6, 20: 1, 21: 1, 24: 1, 25: 3}
+vaguely -> {1: 3, 2: 7, 6: 1, 13: 4, 15: 4, 17: 1, 18: 2, 20: 1}
+vagueness -> {3: 1}
+vaguer -> {19: 1}
+vagum -> {25: 1}
+vain -> {2: 2, 5: 1, 6: 2, 7: 17, 8: 3, 10: 5, 11: 6, 13: 1, 14: 6, 15: 2, 16: 14, 19: 4, 20: 2, 21: 1, 22: 3, 23: 3, 24: 14, 25: 28}
+vainfor -> {11: 1}
+vainglorious -> {16: 2}
+vainglory -> {16: 6}
+vainly -> {6: 1, 7: 2, 8: 1, 24: 1, 25: 1}
+valdyrkin -> {19: 1}
+vale -> {11: 3}
+valentines -> {3: 1}
+valerian -> {20: 2}
+valery -> {12: 1}
+valet -> {19: 1}
+valiant -> {7: 1, 8: 3, 16: 1}
+valid -> {3: 2, 11: 1, 14: 12, 19: 1, 24: 9, 25: 85}
+validate -> {3: 1}
+validation -> {2: 1}
+validexcept -> {25: 1}
+validity -> {5: 1, 14: 14, 17: 1, 24: 7, 25: 87}
+validitya -> {25: 1}
+validityis -> {25: 1}
+validitynamely -> {25: 1}
+validnot -> {25: 2}
+validunder -> {25: 1}
+valise -> {12: 5}
+valley -> {1: 5, 3: 9, 5: 1, 7: 13, 10: 6, 13: 3, 16: 1, 18: 1, 19: 9, 21: 7}
+valleys -> {1: 1, 3: 1, 7: 1, 10: 3, 12: 1}
+valor -> {1: 2, 8: 9}
+valorous -> {8: 1}
+valour -> {13: 1}
+valse -> {19: 1}
+valuable -> {1: 2, 2: 6, 3: 4, 5: 14, 6: 1, 7: 3, 9: 1, 10: 2, 11: 2, 12: 1, 15: 1, 17: 1, 18: 5, 19: 3, 21: 1, 22: 1, 23: 1, 24: 1}
+valuables -> {11: 1}
+value -> {1: 4, 3: 3, 5: 10, 6: 2, 7: 11, 8: 2, 10: 5, 11: 7, 13: 1, 14: 23, 15: 1, 16: 1, 17: 1, 18: 1, 19: 11, 22: 4, 23: 4, 24: 7, 25: 29}
+valued -> {7: 1, 11: 2, 13: 1, 15: 1, 19: 1, 25: 2}
+valueless -> {5: 1, 25: 2}
+values -> {3: 2, 5: 5, 6: 1, 7: 1, 10: 1, 11: 1, 15: 1, 19: 1, 24: 1, 25: 1}
+valve -> {6: 8}
+valves -> {20: 1, 22: 5, 23: 5}
+vamenos -> {20: 86}
+vamos -> {20: 1}
+vamped -> {3: 1}
+vamping -> {3: 4}
+vampire -> {10: 25}
+vampires -> {10: 7}
+van -> {3: 9, 6: 3, 8: 1, 9: 7, 10: 321, 18: 1}
+vancouver -> {3: 2}
+vanderpool -> {10: 1}
+vangoghian -> {6: 1}
+vanguard -> {3: 2}
+vania -> {19: 1}
+vanilla -> {10: 1, 12: 1, 13: 1, 14: 1, 16: 1, 20: 2, 24: 1, 25: 1}
+vanish -> {1: 1, 2: 1, 10: 1, 12: 1, 16: 3, 18: 1, 19: 5, 20: 3, 25: 2}
+vanished -> {1: 6, 2: 3, 7: 9, 10: 3, 12: 6, 13: 6, 15: 5, 18: 1, 19: 36, 20: 3}
+vanishedand -> {13: 1}
+vanishes -> {1: 3, 2: 2, 12: 1, 17: 1, 18: 2, 25: 3}
+vanisheth -> {16: 2}
+vanishing -> {1: 2, 12: 1, 13: 1, 19: 1, 20: 3, 25: 2}
+vanity -> {5: 1, 6: 1, 7: 1, 10: 3, 11: 2, 14: 2, 15: 1, 16: 11, 19: 1, 22: 3, 23: 3, 24: 1, 25: 8}
+vanquished -> {11: 1}
+vantage -> {2: 1, 6: 1, 11: 2, 12: 1, 19: 1}
+vapid -> {15: 1, 16: 1}
+vapor -> {2: 1, 10: 1, 18: 1}
+vaporized -> {1: 1}
+vaporous -> {10: 1, 19: 1, 20: 1}
+vapors -> {19: 3, 20: 2, 22: 1, 23: 1}
+vapour -> {12: 1, 21: 1}
+vapours -> {12: 1, 21: 1}
+variable -> {1: 1, 19: 1, 24: 1, 25: 2}
+variableness -> {16: 1}
+variables -> {1: 1, 3: 1}
+variance -> {25: 5}
+variants -> {16: 1}
+variation -> {16: 2, 18: 1, 25: 1}
+variations -> {3: 1, 6: 1, 18: 1, 21: 2, 25: 2}
+varied -> {3: 1, 8: 1, 10: 2, 11: 3, 22: 2, 23: 2}
+variegated -> {25: 1}
+varies -> {3: 2, 13: 1, 19: 1}
+varietates -> {25: 1}
+varieties -> {10: 1, 25: 2}
+variety -> {1: 2, 2: 2, 3: 24, 5: 1, 7: 2, 11: 1, 13: 1, 15: 1, 16: 1, 17: 1, 18: 1, 19: 4, 20: 1, 21: 1, 22: 4, 23: 4, 24: 3, 25: 22}
+various -> {1: 5, 2: 2, 3: 19, 4: 1, 5: 4, 6: 1, 7: 16, 10: 12, 11: 11, 12: 2, 13: 5, 14: 3, 15: 5, 16: 3, 17: 3, 18: 1, 19: 16, 20: 2, 21: 2, 22: 9, 23: 9, 24: 2, 25: 36}
+variously -> {5: 1, 8: 1, 19: 1, 22: 3, 23: 3}
+variouslydetermined -> {25: 1}
+varmint -> {15: 1}
+varmints -> {15: 2}
+varna -> {10: 23}
+varnawe -> {10: 1}
+varnenos -> {20: 1}
+varnish -> {19: 1}
+varshavianka -> {19: 1}
+vary -> {1: 1, 3: 7, 18: 1, 24: 1}
+varying -> {2: 1, 5: 1, 11: 1, 15: 2, 19: 3, 24: 1, 25: 1}
+varykino -> {19: 49}
+vase -> {6: 2, 7: 48, 17: 1, 18: 3, 19: 1}
+vases -> {1: 1, 2: 1}
+vaseyes -> {19: 1}
+vasia -> {19: 34}
+vasias -> {19: 5}
+vasilievskoie -> {19: 1}
+vasilii -> {19: 1}
+vassal -> {8: 1}
+vassals -> {8: 3}
+vast -> {1: 2, 6: 1, 7: 12, 10: 5, 11: 17, 12: 8, 13: 3, 15: 1, 16: 2, 18: 1, 19: 11, 20: 12, 22: 1, 23: 1, 24: 1, 25: 1}
+vastly -> {2: 1, 3: 1, 5: 1, 10: 1, 11: 1, 17: 1}
+vastness -> {2: 1, 10: 1, 11: 1, 16: 2, 19: 2}
+vat -> {16: 1}
+vatican -> {3: 1, 16: 1}
+vats -> {17: 1}
+vaucansons -> {24: 1}
+vaudeville -> {20: 1}
+vault -> {7: 3, 8: 1, 10: 5, 16: 1, 18: 1, 19: 3}
+vaulted -> {7: 2, 10: 1, 19: 4}
+vaulting -> {19: 1}
+vaults -> {10: 2, 19: 1}
+vaunt -> {8: 3}
+vaunted -> {24: 1}
+vaunts -> {8: 3}
+vd -> {3: 4}
+vdovichenko -> {19: 8}
+veal -> {19: 2}
+veda -> {3: 1}
+vedeniapin -> {19: 3}
+vedeniapins -> {19: 1}
+veeks -> {9: 1}
+veer -> {1: 1}
+veered -> {2: 1, 12: 1, 19: 1}
+veers -> {1: 1}
+vega -> {3: 1}
+vegas -> {3: 6}
+vegetable -> {3: 4, 6: 1, 16: 1, 17: 1, 19: 4, 25: 1}
+vegetables -> {1: 1, 2: 3, 3: 9, 15: 2, 17: 1, 19: 7}
+vegetablesis -> {19: 1}
+vegetablesout -> {19: 1}
+vegetarian -> {3: 1}
+vegetation -> {1: 1, 2: 1, 19: 1}
+vegetative -> {16: 2, 22: 1, 23: 1}
+vehemence -> {4: 1}
+vehement -> {15: 1, 16: 4, 25: 1}
+vehemently -> {13: 1, 15: 1, 16: 1}
+vehicle -> {3: 2, 5: 1, 10: 1, 11: 2, 25: 1}
+vehicles -> {3: 2, 17: 1, 18: 2}
+vehicula -> {25: 1}
+veidt -> {20: 1}
+veil -> {1: 1, 2: 4, 7: 9, 10: 2, 11: 2, 19: 6}
+veila -> {11: 1}
+veiled -> {7: 2, 11: 1, 12: 1, 13: 2, 19: 2, 24: 2}
+veiling -> {7: 1}
+veils -> {12: 1, 16: 1}
+vein -> {1: 1, 2: 1, 10: 3, 22: 16, 23: 16}
+veined -> {11: 1}
+veinlets -> {19: 1}
+veins -> {1: 2, 2: 2, 6: 1, 7: 1, 10: 20, 12: 1, 16: 1, 18: 4, 19: 1, 20: 1, 21: 1, 22: 13, 23: 13}
+vel -> {3: 1, 25: 3}
+veld -> {20: 2}
+veldt -> {20: 5}
+veldtland -> {20: 5}
+veldtthe -> {20: 1}
+velius -> {16: 1}
+vellocet -> {9: 1}
+velocity -> {3: 1}
+velvet -> {1: 6, 2: 2, 6: 1, 7: 1, 10: 2, 12: 1, 13: 1, 15: 4, 17: 1, 18: 1, 19: 1, 20: 1}
+velvety -> {10: 1, 19: 1}
+vena -> {22: 2, 23: 2}
+venalia -> {10: 1}
+vendetta -> {18: 1}
+vending -> {3: 2}
+vendor -> {10: 1}
+vendors -> {10: 1}
+veneer -> {2: 1, 11: 1}
+veneers -> {15: 1}
+venerable -> {7: 1, 15: 1, 16: 1}
+venerate -> {6: 1}
+venerated -> {6: 1}
+veneration -> {19: 1, 24: 1}
+venereal -> {3: 5, 9: 1}
+veneta -> {16: 1}
+veneti -> {16: 1}
+vengeance -> {1: 1, 2: 3, 4: 1, 7: 4, 8: 5, 10: 1, 11: 1, 14: 1, 15: 1, 16: 1, 18: 2}
+vengeful -> {8: 1, 17: 1, 20: 1}
+venia -> {1: 9, 2: 11, 17: 6, 18: 3}
+venial -> {16: 1}
+venias -> {2: 3, 17: 3}
+venice -> {3: 8, 13: 1}
+venison -> {1: 1, 18: 1}
+venom -> {1: 10, 2: 1, 18: 7}
+venomous -> {1: 2, 2: 1, 11: 1, 12: 1}
+venosa -> {22: 1, 23: 1}
+venous -> {22: 7, 23: 7}
+vent -> {3: 1, 10: 1, 12: 1, 19: 2}
+vented -> {20: 1}
+ventilation -> {3: 1, 17: 1, 18: 4}
+ventilator -> {12: 5, 15: 1, 19: 3}
+ventricle -> {22: 2, 23: 2}
+ventricles -> {22: 1, 23: 1}
+vents -> {18: 1}
+ventura -> {3: 1, 13: 1}
+venture -> {1: 3, 2: 2, 4: 2, 7: 3, 8: 2, 11: 2, 14: 1, 17: 1, 21: 2, 22: 5, 23: 5, 24: 2, 25: 13}
+ventured -> {4: 3, 7: 3, 10: 3, 11: 3, 13: 1, 15: 2, 19: 2, 21: 1, 22: 2, 23: 2, 24: 1, 25: 2}
+ventures -> {1: 1, 8: 1, 14: 1, 24: 2}
+venturing -> {4: 1, 11: 1, 25: 2}
+venue -> {15: 1}
+venus -> {4: 4, 6: 1}
+venusnever -> {6: 1}
+ver -> {13: 1}
+veracious -> {6: 1, 22: 1, 23: 1, 25: 1}
+veracity -> {11: 1}
+veranda -> {13: 4, 15: 2, 19: 7}
+verandah -> {2: 4}
+verandas -> {13: 2, 19: 1}
+verb -> {10: 1, 16: 2, 20: 1}
+verba -> {6: 1}
+verbal -> {6: 7, 17: 1, 18: 1, 19: 1, 21: 2, 24: 1, 25: 2}
+verbalists -> {6: 1}
+verbalizations -> {6: 1}
+verbalize -> {3: 1}
+verbatim -> {10: 1}
+verbiage -> {12: 1, 25: 1}
+verbose -> {19: 1}
+verbs -> {12: 1, 16: 1}
+verdict -> {7: 4, 9: 1, 10: 1, 15: 3, 16: 1, 17: 1, 20: 1}
+veresti -> {10: 5}
+veretenniki -> {19: 10}
+verge -> {2: 1, 6: 2, 10: 1, 11: 1, 13: 3, 15: 2, 16: 1, 17: 1, 18: 2, 19: 2, 25: 1}
+verging -> {1: 1}
+verhaeren -> {19: 1}
+verification -> {3: 2, 24: 1}
+verified -> {3: 1, 10: 2, 11: 1}
+verify -> {3: 1, 20: 1, 24: 2}
+verifying -> {24: 1}
+verily -> {5: 1, 16: 1}
+verisimilitude -> {6: 1, 22: 1, 23: 1}
+verisimilitudes -> {22: 1, 23: 1}
+verissimus -> {16: 1}
+veritable -> {3: 1, 10: 2, 11: 2, 20: 1, 21: 1, 25: 1}
+veritably -> {21: 2}
+verkhovenskynot -> {19: 1}
+vermeer -> {6: 8}
+vermeers -> {6: 2}
+vermin -> {1: 1, 11: 4, 16: 1, 17: 1}
+vermont -> {3: 4, 14: 1, 24: 1, 25: 1}
+vernacular -> {10: 1}
+vernal -> {6: 1, 19: 2}
+verne -> {19: 1}
+vernie -> {6: 1}
+versa -> {3: 1, 25: 2}
+versailles -> {5: 1, 13: 2}
+verse -> {7: 2, 8: 1, 12: 1, 16: 2, 18: 3, 19: 4}
+versed -> {3: 1, 11: 1, 22: 1, 23: 1}
+verses -> {1: 1, 7: 6, 8: 1, 12: 1}
+versification -> {7: 1, 19: 1}
+versifiers -> {6: 1}
+version -> {1: 2, 2: 3, 3: 1, 5: 4, 7: 1, 10: 1, 14: 1, 15: 2, 16: 3, 18: 4, 19: 5, 20: 2, 21: 11, 24: 1, 25: 1}
+versions -> {1: 1, 2: 3, 10: 1, 14: 1, 15: 1, 16: 1, 18: 1, 19: 2, 24: 1, 25: 1}
+versus -> {2: 1}
+vertebra -> {10: 1}
+vertical -> {18: 1}
+verum -> {16: 5, 25: 1}
+verus -> {16: 14}
+veruss -> {16: 2}
+verve -> {1: 1, 2: 1}
+very -> {1: 84, 2: 67, 3: 48, 4: 17, 5: 27, 6: 32, 7: 175, 8: 2, 9: 73, 10: 273, 11: 54, 12: 54, 13: 61, 14: 34, 15: 40, 16: 102, 17: 29, 18: 43, 19: 159, 20: 41, 21: 72, 22: 37, 23: 37, 24: 55, 25: 188}
+verzhitskis -> {19: 1}
+vesitge -> {20: 1}
+vespasian -> {16: 3}
+vessel -> {7: 29, 8: 3, 10: 4, 12: 1, 16: 1, 19: 1, 21: 3, 22: 1, 23: 1, 25: 3}
+vessels -> {7: 4, 8: 1, 16: 1, 19: 1, 22: 4, 23: 4}
+vest -> {2: 1, 3: 1, 7: 1, 13: 1, 15: 6, 17: 5}
+vestibule -> {7: 1, 13: 1, 25: 1}
+vestibules -> {13: 1}
+vestige -> {8: 1, 13: 1}
+vestments -> {19: 1, 21: 2}
+vests -> {3: 1}
+vesuvius -> {12: 1, 16: 2}
+vetchinkin -> {19: 5}
+veteran -> {13: 1, 15: 2}
+veterans -> {3: 6, 19: 2}
+veterinarian -> {19: 1}
+veterinary -> {3: 1, 19: 1}
+veto -> {25: 1}
+vetoes -> {18: 1}
+vetted -> {15: 1}
+vetus -> {16: 1}
+veufs -> {6: 1}
+vex -> {7: 1, 16: 1}
+vexation -> {7: 1, 16: 2}
+vexations -> {15: 1, 19: 1}
+vexed -> {2: 1, 7: 4, 16: 3, 24: 1}
+vexing -> {7: 1, 16: 1, 19: 1, 24: 1}
+vi -> {8: 1, 16: 17, 21: 1, 22: 1, 23: 1, 24: 2, 25: 3}
+via -> {3: 3, 5: 1, 8: 1, 10: 1, 11: 1, 17: 1, 18: 1}
+viable -> {18: 1}
+viaduct -> {3: 1, 10: 2, 19: 1}
+vial -> {1: 4, 9: 1, 17: 1}
+vials -> {2: 2}
+viatka -> {19: 1}
+viavalle -> {3: 1}
+vibrant -> {13: 1}
+vibrate -> {2: 1, 10: 1, 12: 2}
+vibrated -> {6: 1}
+vibrating -> {1: 1, 2: 2, 12: 1}
+vibration -> {1: 1, 2: 1, 12: 1, 19: 1}
+vibrations -> {12: 1, 15: 1}
+vibraty -> {9: 1}
+viburnum -> {19: 1}
+vicariously -> {13: 1}
+vice -> {1: 1, 3: 1, 10: 8, 14: 2, 16: 11, 19: 6, 21: 2, 22: 1, 23: 1, 24: 2, 25: 4}
+vicepresident -> {3: 1}
+vices -> {4: 1, 9: 1, 16: 2}
+vicinity -> {1: 2, 2: 2, 3: 6, 13: 2, 15: 1, 19: 2}
+vicinityexcept -> {13: 1}
+vicious -> {1: 1, 3: 3, 8: 1, 9: 2, 10: 1, 15: 2, 16: 5, 17: 1, 18: 1, 19: 1, 22: 1, 23: 1, 24: 2, 25: 1}
+viciously -> {1: 1}
+viciousness -> {25: 1}
+vick -> {2: 5, 18: 1}
+victim -> {1: 4, 2: 2, 3: 8, 4: 1, 6: 2, 7: 2, 8: 1, 9: 8, 10: 5, 11: 2, 12: 6, 13: 1, 15: 2, 18: 5, 19: 5, 22: 1, 23: 1}
+victimized -> {3: 1}
+victims -> {1: 2, 2: 1, 3: 4, 5: 1, 6: 2, 7: 1, 9: 1, 10: 1, 12: 3, 16: 1, 17: 1, 18: 4, 19: 5}
+victor -> {1: 14, 2: 30, 8: 1, 15: 1, 16: 1, 17: 2, 18: 10, 19: 16}
+victorfolk -> {8: 1}
+victoria -> {10: 1, 13: 1}
+victorian -> {15: 2}
+victories -> {3: 1, 11: 1, 15: 1, 16: 1, 17: 1, 22: 2, 23: 2, 25: 1}
+victorious -> {5: 1, 10: 1, 11: 3, 19: 3}
+victors -> {1: 13, 2: 70, 8: 1, 16: 1, 17: 7, 18: 18, 19: 1, 24: 1}
+victorsbeing -> {2: 1}
+victorscyldings -> {8: 1}
+victorspeeta -> {17: 1}
+victory -> {1: 6, 2: 20, 3: 2, 5: 2, 7: 2, 8: 1, 9: 1, 10: 1, 11: 3, 12: 1, 16: 2, 17: 5, 18: 11, 19: 6, 20: 2, 22: 3, 23: 3, 25: 6}
+victoryfield -> {8: 1}
+victorys -> {8: 1}
+victorythat -> {19: 1}
+victorywielder -> {8: 1}
+victrolas -> {15: 1}
+viddied -> {9: 3}
+viddy -> {9: 10}
+viddying -> {9: 1}
+videatur -> {5: 1}
+video -> {3: 5, 9: 2}
+videotape -> {3: 1}
+videri -> {25: 1}
+vie -> {2: 1, 3: 1}
+vienna -> {10: 1, 20: 1}
+viet -> {3: 4}
+vietnam -> {3: 5}
+vietnamese -> {3: 2}
+vieus -> {16: 1}
+view -> {1: 9, 2: 11, 3: 10, 5: 18, 6: 5, 7: 3, 8: 3, 9: 3, 10: 15, 11: 8, 12: 3, 13: 6, 14: 33, 15: 8, 16: 4, 17: 4, 18: 9, 19: 26, 20: 3, 21: 1, 22: 11, 23: 11, 24: 51, 25: 86}
+viewed -> {1: 3, 2: 2, 8: 5, 14: 2, 15: 2, 17: 3, 18: 2, 21: 1, 24: 3, 25: 5}
+viewer -> {1: 1, 2: 1, 12: 2, 20: 2}
+viewers -> {1: 3, 2: 1}
+viewing -> {1: 2, 2: 3, 11: 1, 14: 1, 18: 1, 24: 2, 25: 1}
+viewless -> {20: 1}
+viewpoint -> {25: 1}
+views -> {3: 1, 5: 7, 7: 1, 9: 1, 10: 4, 11: 1, 12: 1, 15: 6, 18: 1, 19: 15, 22: 1, 23: 1, 24: 1, 25: 7}
+viewthat -> {25: 1}
+vif -> {10: 1}
+vigil -> {10: 2, 13: 3, 15: 1}
+vigilance -> {3: 1, 4: 1, 17: 1}
+vigilant -> {18: 1}
+vigils -> {11: 1}
+vigor -> {8: 1, 13: 1, 19: 3}
+vigorous -> {5: 5, 7: 1, 10: 1, 11: 1, 16: 2, 19: 2, 22: 1, 23: 1}
+vigorously -> {5: 1, 7: 1, 13: 1, 15: 1, 19: 1, 25: 1}
+vigour -> {10: 1, 11: 1, 16: 2, 25: 2}
+vihawk -> {11: 1}
+vii -> {8: 1, 16: 13, 24: 3, 25: 3}
+viii -> {8: 1, 16: 12, 24: 3, 25: 1}
+viiisurvivals -> {11: 1}
+viioolanga -> {11: 1}
+viking -> {10: 1}
+vile -> {1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 7: 1, 10: 2, 16: 15, 18: 1, 19: 1}
+vilely -> {10: 2}
+vileness -> {11: 1, 16: 2}
+viler -> {16: 1}
+village -> {1: 2, 2: 12, 3: 18, 4: 3, 9: 2, 10: 2, 13: 7, 17: 3, 18: 7, 19: 75}
+villageappalled -> {13: 1}
+villagers -> {4: 3, 19: 5}
+villages -> {10: 1, 13: 2, 16: 1, 18: 3, 19: 25, 22: 1, 23: 1}
+villain -> {9: 1, 14: 2, 15: 1, 20: 1}
+villainous -> {13: 1}
+villains -> {3: 1, 15: 1, 24: 1}
+villainy -> {10: 2}
+villananul -> {20: 1}
+villanazul -> {20: 43}
+villas -> {6: 1}
+ville -> {10: 2, 13: 1}
+vilula -> {11: 1}
+vincent -> {3: 2, 10: 3}
+vincente -> {3: 1}
+vindava -> {19: 1}
+vindicated -> {25: 1}
+vindication -> {25: 1}
+vindictive -> {10: 1}
+vine -> {2: 5, 4: 1, 15: 2, 16: 6, 18: 1}
+vinegar -> {3: 1, 12: 1}
+vines -> {1: 3, 2: 18, 13: 2, 16: 4, 17: 1, 18: 1}
+vineyard -> {19: 1}
+vineyards -> {16: 1}
+vino -> {9: 2}
+vinous -> {13: 1}
+vintage -> {3: 1, 16: 3, 19: 1}
+vintager -> {16: 1}
+violate -> {6: 1, 10: 2, 12: 1, 14: 2, 16: 1}
+violated -> {3: 1, 16: 1, 19: 2}
+violates -> {2: 1, 14: 1, 18: 1, 24: 1}
+violating -> {14: 1, 19: 1}
+violation -> {5: 1, 14: 1, 18: 1, 19: 1}
+violations -> {3: 1}
+violence -> {2: 1, 3: 6, 5: 4, 6: 2, 7: 4, 9: 8, 10: 3, 11: 3, 13: 3, 16: 4, 19: 1, 24: 1, 25: 2}
+violenceinduced -> {3: 1}
+violences -> {10: 1, 20: 1}
+violent -> {2: 1, 3: 1, 4: 1, 5: 2, 7: 8, 8: 1, 10: 11, 11: 4, 12: 1, 13: 5, 16: 3, 18: 3, 19: 4, 21: 1}
+violently -> {7: 5, 9: 4, 11: 1, 13: 5, 15: 3, 16: 7, 19: 3, 21: 1}
+violet -> {1: 1, 10: 1, 12: 1, 15: 2, 17: 1, 18: 1, 19: 3}
+violettinted -> {18: 1}
+violin -> {12: 2, 15: 1, 19: 2}
+violinist -> {19: 1}
+viols -> {13: 1}
+vip -> {9: 1}
+viper -> {2: 1}
+vipers -> {1: 1, 10: 1, 19: 1}
+vipsanius -> {16: 1}
+virgin -> {6: 1, 10: 1, 15: 1, 19: 7}
+virginia -> {3: 4, 14: 2, 24: 2, 25: 2}
+virginity -> {19: 1}
+virgins -> {6: 1, 13: 1}
+viri -> {5: 2}
+virile -> {18: 1}
+virility -> {20: 1}
+virtual -> {6: 1, 18: 2}
+virtually -> {1: 2, 6: 1, 17: 1, 18: 2, 19: 1}
+virtue -> {5: 3, 6: 1, 7: 3, 8: 1, 10: 1, 14: 10, 16: 30, 19: 5, 21: 4, 22: 4, 23: 4, 24: 56, 25: 22}
+virtues -> {3: 1, 6: 1, 7: 3, 10: 1, 13: 1, 16: 6, 22: 2, 23: 2}
+virtuous -> {7: 2, 14: 2, 16: 8, 22: 1, 23: 1, 24: 9}
+virtuously -> {16: 2, 24: 1}
+virus -> {10: 1, 13: 1, 14: 1, 16: 1, 24: 1, 25: 1}
+viruses -> {18: 1}
+vis -> {14: 1, 25: 1}
+visa -> {19: 2}
+visceral -> {6: 1}
+viscerotonia -> {6: 1}
+viscid -> {19: 1}
+viscosity -> {16: 1}
+viscous -> {9: 1, 15: 1}
+vise -> {18: 1}
+vises -> {17: 1}
+visibility -> {1: 1, 2: 1, 18: 1}
+visible -> {1: 1, 2: 3, 3: 1, 5: 1, 6: 1, 10: 6, 11: 12, 12: 1, 13: 4, 14: 1, 15: 3, 16: 6, 17: 2, 18: 3, 19: 10, 24: 2, 25: 3}
+visibly -> {13: 2, 16: 1, 18: 1, 24: 1}
+vision -> {1: 2, 2: 4, 3: 3, 6: 8, 7: 1, 11: 3, 15: 3, 17: 2, 18: 4, 19: 6, 21: 4, 25: 3}
+visionaries -> {6: 2}
+visionary -> {6: 5, 24: 1, 25: 1}
+visions -> {6: 7, 7: 1, 9: 1, 13: 1, 16: 1, 18: 1, 19: 1, 20: 1, 25: 1}
+visit -> {1: 5, 2: 9, 3: 8, 4: 4, 5: 1, 6: 5, 7: 21, 8: 2, 9: 2, 10: 15, 11: 10, 12: 2, 15: 4, 16: 3, 17: 2, 18: 5, 19: 8, 20: 4}
+visited -> {3: 1, 5: 1, 7: 6, 10: 5, 11: 2, 12: 2, 15: 1, 16: 4, 18: 1, 19: 4, 20: 2, 25: 1}
+visitin -> {15: 1}
+visiting -> {3: 2, 4: 1, 7: 1, 10: 2, 11: 2, 12: 1, 15: 2, 17: 1, 19: 6, 20: 1, 22: 1, 23: 1}
+visitor -> {3: 1, 5: 3, 7: 1, 9: 1, 13: 1, 15: 1, 18: 1, 19: 10}
+visitors -> {2: 1, 3: 7, 6: 1, 8: 2, 13: 1, 18: 1, 19: 4}
+visits -> {2: 2, 3: 1, 7: 1, 10: 3, 11: 1, 15: 2, 16: 1, 18: 2, 19: 2}
+visor -> {3: 1}
+visorless -> {19: 2}
+vista -> {3: 2, 11: 1, 13: 1, 15: 1}
+vistas -> {19: 2}
+visual -> {3: 2, 5: 1, 6: 2, 9: 2}
+visualization -> {6: 1}
+visualize -> {18: 1, 19: 1}
+visualizer -> {6: 1}
+visualizers -> {6: 1}
+visualof -> {25: 1}
+vital -> {2: 1, 3: 4, 5: 1, 10: 6, 11: 1, 12: 1, 15: 1, 16: 1, 17: 2, 19: 5, 24: 3}
+vitality -> {5: 1, 10: 2, 11: 2, 13: 5, 19: 2, 20: 1}
+vitally -> {10: 1, 19: 1, 25: 1}
+vitam -> {24: 1}
+vitamins -> {9: 1}
+vitiated -> {5: 1, 16: 1}
+vitium -> {24: 1}
+vitriol -> {19: 1}
+vitsyn -> {19: 2}
+vitsyns -> {19: 3}
+viva -> {3: 1}
+vivacity -> {10: 2}
+vivendi -> {24: 1}
+vivid -> {1: 1, 5: 1, 6: 1, 10: 1, 11: 1, 13: 4, 15: 3, 19: 2, 22: 3, 23: 3}
+vividly -> {6: 1, 13: 1, 15: 1, 19: 4, 24: 1}
+vivify -> {10: 1}
+vivisection -> {10: 1}
+viz -> {14: 9, 21: 3, 22: 5, 23: 5, 24: 17, 25: 2}
+vizir -> {7: 88}
+vizirs -> {7: 22}
+vladimir -> {13: 2, 19: 1}
+vladivostok -> {19: 3}
+vlas -> {19: 6}
+vlkoslakboth -> {10: 1}
+vo -> {9: 33}
+vocables -> {22: 1, 23: 1}
+vocabulary -> {16: 1, 19: 2, 25: 1}
+vocal -> {1: 1, 18: 1}
+vocation -> {10: 1, 15: 1, 19: 2, 24: 2, 25: 3}
+vodka -> {19: 22}
+vogue -> {16: 1, 24: 2}
+voice -> {1: 63, 2: 78, 3: 9, 4: 6, 5: 4, 6: 2, 7: 32, 8: 1, 9: 4, 10: 56, 11: 25, 12: 39, 13: 58, 15: 67, 16: 3, 17: 32, 18: 48, 19: 76, 20: 29, 24: 4, 25: 3}
+voiceclock -> {12: 1}
+voicelittle -> {19: 1}
+voiceograph -> {3: 1}
+voiceover -> {17: 1}
+voices -> {1: 6, 2: 8, 6: 1, 7: 20, 10: 8, 11: 2, 12: 10, 13: 11, 15: 7, 16: 2, 17: 1, 18: 5, 19: 39, 20: 4}
+voicestheyre -> {6: 1}
+voicing -> {2: 1, 18: 1}
+void -> {1: 1, 6: 4, 10: 1, 11: 1, 16: 8, 18: 1, 19: 5, 21: 1, 22: 1, 23: 1, 24: 2, 25: 43}
+voile -> {15: 1}
+voit -> {19: 2}
+voitkovskaia -> {19: 1}
+voitvoitkovsky -> {19: 1}
+voivode -> {10: 2}
+vol -> {6: 4, 24: 1}
+volcanic -> {2: 1, 10: 1, 19: 1}
+volcano -> {2: 2, 11: 1, 12: 1, 19: 2, 20: 1, 24: 1}
+volcanoes -> {10: 1}
+volcanos -> {12: 1}
+volesius -> {16: 1}
+volga -> {19: 4}
+volition -> {10: 2, 11: 2, 14: 20, 15: 1, 24: 11, 25: 11}
+volitionpartly -> {25: 1}
+volitions -> {14: 1, 21: 1}
+volley -> {19: 1}
+volleying -> {13: 1}
+volo -> {24: 1}
+vologda -> {19: 3}
+vologeses -> {16: 1}
+voltage -> {3: 1, 18: 1}
+voltaires -> {13: 1, 24: 1}
+volts -> {2: 9, 3: 2, 19: 1}
+volume -> {3: 1, 5: 1, 6: 3, 7: 1, 11: 1, 12: 3, 13: 1, 15: 2, 18: 1, 19: 1, 21: 1, 22: 2, 23: 2, 25: 3}
+volumes -> {7: 1, 10: 1, 13: 1, 16: 3, 18: 1, 19: 1}
+voluminous -> {2: 1}
+voluntarily -> {10: 1, 16: 1, 18: 3, 19: 1, 24: 1}
+voluntary -> {3: 1, 5: 1, 11: 3, 14: 1, 16: 1, 19: 3, 24: 1, 25: 1}
+volunteer -> {1: 6, 2: 5, 3: 1, 17: 1, 18: 2, 19: 4, 20: 1}
+volunteered -> {1: 3, 2: 4, 10: 1, 17: 2, 18: 4, 19: 1}
+volunteering -> {1: 2, 2: 2}
+volunteers -> {1: 6, 2: 3, 3: 2, 10: 1, 13: 2, 14: 2, 16: 1, 18: 2, 19: 3, 24: 3, 25: 3}
+voluptuous -> {10: 10, 16: 3}
+voluptuousness -> {10: 2, 16: 2}
+vomit -> {1: 6, 2: 2, 12: 2, 17: 2, 18: 1, 19: 1}
+vomited -> {12: 1, 18: 1}
+vomiting -> {1: 1, 2: 3, 3: 2, 19: 1}
+vomits -> {1: 1}
+von -> {5: 2, 6: 1, 13: 1, 20: 26, 25: 1}
+vonny -> {9: 1}
+voodoo -> {11: 1, 15: 1}
+voodooman -> {11: 1}
+voraciously -> {7: 1}
+voroniuk -> {19: 11}
+voroniuks -> {19: 2}
+vortex -> {3: 1, 11: 2}
+voskoboinikov -> {19: 5}
+voskoboinikovs -> {19: 3}
+vote -> {2: 4, 10: 1, 12: 1, 15: 1, 18: 6, 25: 1}
+voted -> {2: 2, 12: 1, 15: 1, 18: 1}
+voters -> {5: 1, 20: 2}
+votes -> {14: 1, 15: 2, 18: 3}
+voting -> {3: 1}
+vouched -> {10: 1, 19: 1}
+vouchsafe -> {16: 1}
+vouchsafed -> {8: 1, 25: 1}
+vous -> {19: 1}
+vow -> {1: 1, 2: 1, 7: 3, 11: 1, 16: 1}
+vowed -> {7: 4, 8: 1, 11: 1, 19: 1}
+vowedst -> {8: 1}
+vowel -> {19: 1}
+vowels -> {1: 1, 12: 1, 19: 1}
+vows -> {7: 1, 8: 1, 18: 1, 22: 1, 23: 1}
+voyage -> {3: 4, 7: 36, 10: 4, 18: 1, 25: 1}
+voyaged -> {7: 1}
+voyagers -> {7: 1}
+voyages -> {7: 5, 11: 1}
+vozdvizhensky -> {19: 1}
+vrazhok -> {19: 3}
+vrettos -> {18: 1}
+vrolok -> {10: 1}
+vshaped -> {17: 1}
+vthe -> {11: 1}
+vtr -> {3: 1}
+vuillard -> {6: 2}
+vulcan -> {8: 1}
+vulgar -> {7: 1, 10: 1, 13: 2, 14: 1, 16: 8, 19: 6, 21: 2, 22: 2, 23: 2, 24: 1, 25: 1}
+vulgarity -> {16: 1, 19: 2}
+vulgarized -> {10: 1}
+vulgarly -> {16: 1}
+vulnerabilities -> {17: 1}
+vulnerability -> {2: 1}
+vulnerable -> {1: 7, 2: 2, 3: 2, 13: 1, 18: 1, 19: 1}
+vulpine -> {10: 1}
+vult -> {25: 1}
+vultures -> {20: 5}
+vvoices -> {10: 1}
+vying -> {2: 1, 18: 1, 19: 1}
+vytskkezhemsk -> {19: 1}
+vyvolochnov -> {19: 2}
+vyvolochnovs -> {19: 1}
+vzthout -> {5: 1}
+w -> {3: 72, 10: 1, 13: 1, 15: 1, 19: 1}
+wa -> {1: 1, 3: 7, 9: 1, 19: 4}
+wacher -> {3: 1}
+wad -> {1: 2, 3: 1, 10: 1, 12: 4, 13: 1, 15: 4}
+wadded -> {7: 1, 12: 1}
+waddled -> {19: 2}
+wade -> {1: 1, 2: 2, 20: 1}
+waded -> {12: 2}
+wading -> {1: 1, 7: 2, 19: 1}
+wadnt -> {15: 3}
+wads -> {15: 1}
+wadsworth -> {3: 1}
+waegmunding -> {8: 2}
+waels -> {8: 1}
+waelsings -> {8: 1}
+wafangkou -> {19: 1}
+wafer -> {2: 1, 10: 10, 13: 1}
+waferlike -> {10: 1}
+wafers -> {3: 1, 19: 1}
+waft -> {1: 1, 8: 1, 12: 1}
+wafted -> {11: 1, 19: 1}
+wafting -> {1: 1}
+wafts -> {10: 1}
+wag -> {10: 1, 13: 1}
+wage -> {5: 1, 8: 5, 19: 1}
+waged -> {8: 2, 18: 1}
+wageearners -> {5: 1}
+wager -> {7: 1, 8: 1}
+wages -> {2: 1, 3: 1, 5: 4, 10: 1, 19: 3}
+wagged -> {7: 1}
+wagging -> {4: 1, 10: 2}
+waggon -> {4: 1}
+waggoner -> {4: 4}
+waggonloads -> {7: 1}
+waging -> {3: 1, 8: 2, 18: 1}
+wagon -> {1: 1, 3: 2, 10: 3, 13: 4, 15: 4}
+wagoner -> {19: 1}
+wagonload -> {15: 2}
+wagons -> {1: 1, 15: 1, 19: 4}
+wagonslits -> {19: 2}
+waifs -> {19: 1}
+wail -> {2: 2, 8: 2, 10: 7, 13: 2, 17: 1, 18: 2, 19: 1}
+wailed -> {7: 1, 8: 1, 10: 1, 12: 1, 13: 1, 15: 2, 19: 1, 20: 4}
+wailing -> {2: 1, 8: 3, 10: 1, 12: 3, 13: 1, 18: 5, 20: 1}
+wails -> {1: 1, 2: 1, 7: 1, 18: 1}
+wain -> {8: 1}
+waist -> {1: 3, 2: 3, 3: 4, 7: 1, 10: 1, 11: 1, 15: 3, 17: 1, 18: 1, 19: 6, 20: 1}
+waistband -> {9: 1}
+waistcoat -> {6: 1, 10: 7, 11: 1, 19: 1}
+waistcoats -> {10: 1}
+waisthigh -> {2: 1}
+waistline -> {15: 1}
+waists -> {15: 1, 20: 1}
+wait -> {1: 37, 2: 41, 3: 17, 4: 1, 5: 2, 6: 1, 7: 29, 8: 2, 9: 3, 10: 45, 11: 10, 12: 11, 13: 15, 14: 1, 15: 20, 16: 5, 17: 5, 18: 19, 19: 43, 20: 18, 24: 1}
+waited -> {1: 2, 2: 5, 4: 8, 7: 19, 8: 9, 9: 1, 10: 29, 11: 10, 12: 7, 13: 16, 15: 32, 18: 1, 19: 6, 20: 12, 21: 1, 25: 1}
+waiter -> {3: 2, 10: 1, 13: 5, 19: 2}
+waiters -> {19: 1}
+waitin -> {10: 3, 15: 3}
+waiting -> {1: 36, 2: 24, 3: 9, 4: 1, 6: 2, 7: 19, 8: 4, 9: 3, 10: 29, 11: 7, 12: 20, 13: 7, 15: 21, 16: 2, 17: 7, 18: 24, 19: 35, 20: 17}
+waitingi -> {17: 1}
+waitll -> {15: 1}
+waitress -> {3: 3}
+waits -> {1: 3, 2: 4, 9: 1, 10: 1, 17: 3, 18: 2, 19: 1}
+waize -> {13: 1}
+wake -> {1: 16, 2: 19, 6: 1, 7: 7, 8: 2, 9: 1, 10: 34, 12: 2, 13: 3, 15: 10, 17: 3, 18: 5, 19: 24, 20: 2}
+waked -> {10: 12, 15: 3, 19: 5}
+wakeful -> {8: 1, 10: 3, 17: 1, 19: 1}
+wakefulness -> {1: 1, 15: 1, 21: 2}
+wakemy -> {17: 1}
+waken -> {10: 1, 12: 1}
+wakened -> {4: 1, 8: 2, 10: 4, 12: 2, 19: 4}
+wakens -> {8: 1}
+waker -> {11: 1}
+wakes -> {1: 4, 8: 1, 10: 2, 11: 1, 17: 1, 18: 1}
+waking -> {1: 5, 2: 3, 3: 1, 6: 1, 7: 4, 10: 16, 11: 1, 12: 1, 17: 1, 18: 3, 19: 2, 21: 5, 22: 3, 23: 3}
+wakingonly -> {18: 1}
+walden -> {12: 1}
+wales -> {11: 1}
+walesand -> {11: 1}
+walhalla -> {25: 1}
+walk -> {1: 31, 2: 39, 3: 13, 4: 3, 6: 2, 7: 6, 9: 4, 10: 18, 11: 12, 12: 29, 13: 5, 15: 33, 16: 2, 17: 8, 18: 10, 19: 28, 20: 11, 21: 1}
+walked -> {1: 4, 2: 1, 4: 3, 6: 3, 7: 17, 8: 3, 9: 1, 10: 16, 11: 15, 12: 32, 13: 23, 15: 65, 16: 1, 17: 2, 18: 1, 19: 69, 20: 30, 21: 1}
+walker -> {3: 3}
+walkerinshadow -> {8: 1}
+walkies -> {9: 1}
+walkietalkie -> {3: 3}
+walkietalkies -> {3: 6}
+walkin -> {10: 1, 15: 2}
+walking -> {1: 9, 2: 11, 3: 3, 4: 3, 6: 1, 7: 7, 9: 2, 10: 7, 11: 5, 12: 12, 13: 9, 15: 20, 16: 1, 17: 3, 18: 3, 19: 32, 20: 3, 21: 1, 22: 1, 23: 1}
+walkingstick -> {11: 1}
+walks -> {1: 4, 2: 6, 5: 1, 9: 5, 10: 6, 12: 1, 13: 1, 15: 1, 17: 3, 18: 6, 19: 3}
+walkthough -> {11: 1}
+wall -> {1: 21, 2: 13, 3: 22, 6: 8, 7: 13, 8: 15, 9: 4, 10: 29, 11: 1, 12: 39, 13: 10, 15: 19, 16: 1, 17: 9, 18: 25, 19: 40, 20: 12}
+wallach -> {3: 1, 10: 1}
+wallachian -> {10: 1}
+wallachs -> {10: 1}
+wallas -> {10: 1}
+walled -> {10: 1, 20: 2}
+waller -> {15: 1}
+wallet -> {3: 3, 7: 4, 13: 3, 19: 1, 20: 3}
+wallflowers -> {19: 1}
+wallhid -> {8: 1}
+wallincinerator -> {12: 1}
+wallis -> {3: 1}
+wallop -> {3: 1, 12: 1}
+walloping -> {19: 1}
+wallow -> {1: 1, 15: 1}
+wallowing -> {2: 1, 15: 1}
+wallows -> {15: 2}
+wallpaper -> {3: 2, 19: 4}
+walls -> {1: 6, 2: 4, 3: 9, 6: 2, 7: 5, 8: 6, 9: 1, 10: 7, 11: 3, 12: 35, 13: 1, 15: 6, 16: 4, 17: 5, 18: 9, 19: 39, 20: 12, 22: 1, 23: 1}
+wallscaling -> {13: 1}
+wallshirts -> {19: 1}
+wallslot -> {12: 1}
+walltowall -> {12: 1}
+walltv -> {12: 1}
+walnut -> {3: 2, 12: 1, 19: 1}
+walnuts -> {11: 1, 19: 1}
+walnuttree -> {7: 1}
+walrus -> {3: 1, 8: 1}
+walsall -> {11: 2}
+walter -> {5: 1, 13: 3, 15: 53}
+walters -> {13: 1, 15: 7}
+waltz -> {10: 1, 13: 1, 19: 2, 20: 1}
+waltzing -> {19: 2}
+walworth -> {10: 6}
+wampyrwhich -> {10: 1}
+wan -> {8: 5, 13: 4}
+wand -> {3: 1, 7: 1, 19: 1}
+wanda -> {3: 1}
+wander -> {1: 4, 2: 2, 3: 1, 7: 2, 8: 1, 10: 1, 12: 1, 13: 1, 16: 4, 17: 1, 18: 4, 19: 2, 21: 1, 22: 2, 23: 2}
+wandered -> {7: 15, 8: 1, 11: 2, 13: 4, 15: 2, 16: 1, 18: 1, 19: 5, 20: 2}
+wanderer -> {7: 1}
+wanderers -> {13: 1, 19: 1}
+wandering -> {1: 2, 2: 1, 4: 1, 7: 6, 8: 5, 9: 1, 10: 2, 11: 1, 12: 2, 13: 1, 15: 1, 16: 2, 17: 1, 18: 2, 19: 6, 20: 1, 25: 2}
+wanderings -> {4: 1, 8: 1, 11: 1, 19: 2, 25: 1}
+wanders -> {1: 2, 2: 1, 18: 3}
+wanderweary -> {8: 1}
+wane -> {8: 2}
+waned -> {8: 1}
+waneyed -> {10: 1}
+wanhued -> {8: 1}
+waning -> {15: 1}
+wanlooking -> {10: 2}
+wanly -> {13: 1, 18: 1}
+wanna -> {9: 3}
+want -> {1: 121, 2: 121, 3: 105, 4: 4, 5: 4, 6: 1, 7: 17, 9: 24, 10: 115, 11: 36, 12: 61, 13: 60, 14: 10, 15: 79, 16: 26, 17: 53, 18: 67, 19: 94, 20: 35, 21: 2, 22: 5, 23: 5, 24: 27, 25: 38}
+wanta -> {15: 18}
+wanted -> {1: 18, 2: 30, 3: 8, 4: 4, 5: 2, 7: 8, 8: 1, 9: 4, 10: 43, 11: 17, 12: 29, 13: 27, 15: 51, 16: 1, 17: 8, 18: 18, 19: 47, 20: 11, 21: 1, 24: 2, 25: 1}
+wanterofwisdom -> {8: 1}
+wantin -> {10: 1}
+wanting -> {1: 8, 2: 2, 7: 3, 9: 1, 10: 7, 12: 2, 13: 1, 14: 1, 15: 1, 16: 3, 17: 1, 18: 1, 19: 1, 20: 3, 21: 1, 22: 2, 23: 2, 24: 4, 25: 13}
+wanton -> {8: 2, 10: 2, 16: 1}
+wantonly -> {8: 1}
+wantonness -> {10: 1, 24: 1}
+wants -> {1: 10, 2: 21, 3: 3, 5: 2, 7: 9, 9: 3, 10: 17, 11: 2, 12: 2, 13: 10, 14: 9, 15: 14, 17: 1, 18: 10, 19: 19, 24: 13, 25: 3}
+war -> {1: 4, 3: 22, 5: 48, 6: 2, 8: 47, 10: 7, 11: 2, 12: 23, 13: 13, 15: 6, 16: 5, 17: 22, 18: 26, 19: 92, 22: 1, 23: 1, 25: 2}
+warattire -> {8: 1}
+warblade -> {8: 1}
+warble -> {1: 1, 7: 1}
+warbles -> {1: 1, 9: 1}
+warbling -> {19: 1}
+warblood -> {8: 1}
+warbrave -> {8: 1}
+ward -> {2: 1, 3: 3, 8: 6, 9: 3, 10: 2, 15: 1, 19: 16, 25: 1}
+warded -> {8: 4, 12: 1, 18: 1, 19: 1}
+wardeeds -> {8: 1}
+warden -> {8: 12, 9: 1, 19: 1}
+wardenofglory -> {8: 1}
+wardens -> {8: 2}
+warder -> {9: 6}
+warders -> {9: 2}
+warding -> {2: 2, 8: 4}
+wardrobe -> {2: 1, 7: 2, 10: 1, 18: 2, 19: 8}
+wardrobes -> {1: 1}
+wards -> {10: 1, 19: 1}
+ware -> {8: 1}
+warehouse -> {1: 1, 2: 3, 7: 1, 17: 17, 18: 1, 19: 3}
+warehouses -> {7: 3, 17: 4, 19: 3}
+wares -> {5: 1, 7: 4, 19: 3}
+wareus -> {10: 2}
+warfare -> {3: 7, 5: 1, 8: 2, 16: 1, 19: 1}
+warfriend -> {8: 1}
+wargear -> {8: 4}
+warhate -> {8: 3}
+warhelm -> {8: 1}
+warhorns -> {8: 1}
+warily -> {2: 1, 11: 1, 12: 1, 15: 1, 20: 1}
+wariness -> {19: 1}
+warkerenyi -> {19: 1}
+warknife -> {8: 1}
+warlike -> {5: 3, 8: 3, 10: 4, 16: 1}
+warlikescylfings -> {8: 1}
+warlord -> {8: 1}
+warm -> {1: 30, 2: 20, 3: 10, 4: 1, 5: 3, 7: 6, 9: 1, 10: 8, 11: 5, 12: 7, 13: 11, 15: 14, 16: 2, 17: 2, 18: 10, 19: 47, 20: 21, 21: 1}
+warmakers -> {3: 1}
+warmblooded -> {11: 1}
+warmcool -> {12: 1}
+warmed -> {7: 1, 10: 2, 11: 2, 12: 1, 19: 5}
+warmer -> {1: 4, 2: 1, 7: 1, 15: 1, 19: 1, 20: 2, 22: 1, 23: 1}
+warmest -> {7: 1, 13: 1, 25: 1}
+warmhearted -> {19: 1}
+warmhere -> {1: 2}
+warming -> {1: 2, 2: 3, 12: 2, 19: 1, 22: 1, 23: 1}
+warmly -> {3: 1, 7: 4, 10: 4, 11: 2, 19: 2}
+warmness -> {12: 2}
+warms -> {1: 1, 2: 2, 4: 1, 15: 1, 18: 1}
+warmth -> {1: 8, 2: 6, 7: 1, 10: 4, 11: 2, 12: 2, 13: 2, 15: 1, 17: 1, 18: 3, 19: 9, 20: 3, 22: 2, 23: 2}
+warmweather -> {3: 1}
+warn -> {1: 1, 2: 3, 7: 5, 10: 4, 11: 2, 13: 1, 15: 2, 18: 6, 19: 5, 20: 2, 25: 2}
+warned -> {1: 1, 2: 1, 7: 2, 10: 4, 11: 1, 13: 3, 14: 1, 15: 5, 17: 1, 18: 2, 19: 3, 20: 2, 21: 1}
+warnet -> {8: 1}
+warning -> {1: 7, 2: 7, 3: 3, 7: 2, 9: 2, 10: 18, 11: 5, 13: 1, 14: 1, 15: 3, 17: 4, 18: 3, 19: 3, 20: 2, 24: 2, 25: 5}
+warningly -> {10: 1}
+warnings -> {1: 1, 3: 1, 5: 1, 10: 1, 15: 1, 19: 1, 25: 4}
+warnins -> {10: 1}
+warns -> {2: 2, 18: 1, 25: 3}
+warnt -> {10: 2}
+warp -> {8: 1, 11: 1}
+warped -> {2: 1, 12: 1}
+warplace -> {8: 1}
+warprince -> {8: 1}
+warra -> {4: 5}
+warrant -> {3: 2, 10: 1, 11: 1, 15: 1, 17: 1, 25: 2}
+warranted -> {5: 1, 15: 1, 25: 1}
+warranties -> {10: 3, 13: 2, 14: 3, 16: 3, 24: 3, 25: 3}
+warrants -> {25: 1}
+warranty -> {10: 2, 13: 2, 14: 2, 16: 2, 24: 2, 25: 2}
+warred -> {8: 1}
+warren -> {3: 3, 9: 1}
+warrens -> {18: 1}
+warring -> {8: 2, 11: 1, 18: 1}
+warrior -> {8: 31, 17: 1, 20: 1}
+warriorfriends -> {8: 1}
+warriorguest -> {8: 1}
+warriors -> {8: 47, 16: 1, 19: 2}
+warriorsbulwark -> {8: 1}
+warriorsfriends -> {8: 1}
+warriorsshield -> {8: 1}
+warriorthane -> {8: 1}
+warriorwanderers -> {8: 1}
+wars -> {3: 1, 5: 2, 8: 1, 10: 1, 12: 7, 15: 2, 16: 7, 17: 2, 18: 1, 19: 3, 22: 1, 23: 1, 25: 1}
+warsarks -> {8: 1}
+warsaw -> {19: 1}
+warservice -> {5: 1}
+warshaft -> {8: 1}
+warshafts -> {8: 1}
+warshield -> {8: 1}
+warsick -> {8: 1}
+warsong -> {8: 1}
+warspoil -> {8: 1}
+warsteeds -> {8: 1}
+warsword -> {8: 1}
+wart -> {19: 1}
+warthe -> {19: 1}
+wartime -> {19: 3}
+warts -> {19: 2}
+warweal -> {8: 1}
+warweeds -> {8: 1}
+warwick -> {13: 1}
+warwolf -> {8: 1}
+warwood -> {8: 1}
+wary -> {8: 2, 10: 1, 15: 2, 16: 1, 18: 1}
+was -> {1: 320, 2: 381, 3: 16, 4: 133, 5: 89, 6: 159, 7: 1475, 8: 248, 9: 104, 10: 1878, 11: 978, 12: 513, 13: 765, 14: 25, 15: 1877, 16: 263, 17: 115, 18: 298, 19: 2908, 20: 338, 21: 76, 22: 114, 23: 114, 24: 107, 25: 179}
+wasan -> {18: 1}
+wash -> {1: 19, 2: 10, 3: 8, 7: 2, 9: 1, 11: 1, 12: 2, 13: 1, 15: 7, 16: 1, 17: 3, 18: 2, 19: 11, 20: 3}
+washable -> {12: 1}
+washbasin -> {19: 2}
+washboard -> {2: 1, 18: 1}
+washed -> {1: 2, 2: 4, 7: 9, 8: 1, 10: 3, 12: 2, 15: 2, 17: 1, 19: 14, 20: 2, 24: 2}
+washer -> {3: 4}
+washers -> {3: 1}
+washes -> {2: 1, 8: 1}
+washeth -> {8: 1}
+washin -> {15: 1}
+washing -> {1: 2, 3: 1, 7: 1, 10: 1, 12: 2, 13: 1, 15: 3, 19: 13}
+washingmachine -> {12: 1}
+washington -> {3: 41, 13: 1, 14: 1, 15: 1, 20: 1, 24: 1, 25: 1}
+washrag -> {13: 1}
+washroom -> {3: 2, 12: 2, 19: 1}
+washrooms -> {3: 2}
+washstand -> {13: 1, 15: 1}
+washtub -> {2: 1}
+wasnt -> {1: 22, 2: 25, 3: 2, 9: 1, 10: 9, 11: 1, 12: 17, 13: 39, 15: 49, 17: 9, 18: 31, 19: 48, 20: 4}
+wasp -> {1: 5, 12: 1}
+wasps -> {1: 9}
+waspy -> {3: 1}
+wass -> {16: 1}
+wassail -> {8: 3}
+wassimply -> {13: 1}
+wasstolen -> {11: 1}
+wast -> {8: 1}
+waste -> {1: 3, 2: 3, 3: 4, 6: 1, 7: 1, 8: 5, 10: 4, 11: 2, 12: 1, 13: 2, 15: 1, 16: 1, 17: 4, 18: 6, 19: 8, 21: 1}
+wastebasket -> {3: 1, 11: 1, 13: 1}
+wastebaskets -> {3: 1}
+wasted -> {2: 3, 3: 1, 7: 1, 8: 1, 10: 3, 15: 1, 17: 1, 18: 1, 19: 4}
+wasteful -> {7: 1, 13: 1, 17: 1, 18: 2}
+wasteher -> {2: 1}
+wasteland -> {1: 2, 17: 1, 18: 1}
+wastelands -> {19: 1}
+wastenotwantnot -> {17: 1}
+wastes -> {3: 1}
+wasteth -> {16: 1}
+wasteto -> {18: 1}
+wasthe -> {19: 1}
+wasting -> {1: 4, 7: 2, 8: 1, 10: 1, 11: 1, 13: 2, 15: 3, 18: 3, 19: 6, 25: 1}
+waswas -> {11: 1}
+waswhat -> {19: 1}
+watch -> {1: 54, 2: 60, 3: 17, 4: 1, 6: 2, 7: 5, 8: 6, 9: 8, 10: 63, 11: 5, 12: 19, 13: 9, 15: 31, 16: 1, 17: 12, 18: 33, 19: 14, 20: 15, 25: 2}
+watchcase -> {10: 1}
+watchchain -> {11: 1, 15: 2}
+watched -> {1: 6, 2: 8, 3: 5, 4: 3, 7: 8, 8: 6, 10: 14, 11: 7, 12: 17, 13: 5, 15: 18, 16: 2, 17: 2, 18: 8, 19: 16, 20: 9}
+watcher -> {8: 2, 12: 1, 13: 1}
+watchers -> {10: 1, 11: 1, 13: 1}
+watches -> {1: 3, 2: 2, 8: 1, 10: 1, 17: 1, 18: 2, 19: 1}
+watcheth -> {16: 1}
+watchful -> {1: 1, 5: 1, 11: 2, 15: 1, 17: 1, 19: 1}
+watchfully -> {13: 1}
+watchfulness -> {11: 1, 19: 1}
+watchhed -> {19: 1}
+watching -> {1: 41, 2: 29, 3: 2, 7: 11, 8: 3, 9: 4, 10: 14, 11: 15, 12: 7, 13: 2, 15: 21, 17: 12, 18: 22, 19: 12, 20: 9, 25: 1}
+watchingwhether -> {17: 1}
+watchmakers -> {20: 1}
+watchman -> {3: 1, 10: 2, 19: 1}
+watchmans -> {19: 1}
+watchpocket -> {15: 2}
+watchtower -> {19: 1}
+watchtowers -> {2: 1, 19: 1}
+watchword -> {20: 1}
+water -> {1: 112, 2: 114, 3: 31, 4: 11, 6: 2, 7: 67, 8: 10, 9: 7, 10: 58, 11: 8, 12: 20, 13: 8, 15: 24, 16: 8, 17: 8, 18: 27, 19: 110, 20: 20, 21: 1, 22: 4, 23: 4, 25: 12}
+waterbed -> {20: 2}
+waterbeds -> {20: 1}
+waterbird -> {1: 1}
+waterblue -> {20: 1}
+watercarrying -> {15: 1, 19: 1}
+watercasks -> {7: 1}
+watercolor -> {19: 1}
+watercress -> {2: 1}
+watered -> {3: 1, 7: 2, 10: 1, 11: 1, 12: 1, 15: 2, 19: 1}
+waterfall -> {12: 1, 19: 7}
+waterfalls -> {2: 1}
+waterfowl -> {2: 2}
+waterglass -> {12: 1}
+waterglasses -> {10: 1}
+watergoblin -> {8: 1}
+waterhere -> {10: 1}
+watering -> {19: 2}
+waterline -> {2: 1}
+waterlogged -> {2: 1, 11: 1}
+waterloo -> {3: 3, 10: 1}
+watermelon -> {19: 2}
+watermy -> {2: 1}
+waterpistols -> {12: 1}
+waterproof -> {1: 1, 2: 1, 12: 1, 19: 1}
+waters -> {1: 6, 2: 3, 7: 3, 8: 17, 10: 6, 12: 3, 13: 1, 16: 2, 17: 1, 19: 10, 20: 5}
+watershed -> {19: 1}
+waterside -> {8: 1}
+waterspout -> {19: 1}
+watertank -> {15: 1}
+watertight -> {6: 1}
+waterway -> {10: 1, 11: 1, 19: 1}
+watery -> {2: 1, 8: 1, 15: 2, 19: 2}
+wateryeyed -> {20: 1}
+watford -> {11: 23}
+watfords -> {11: 4}
+watt -> {3: 2}
+wattage -> {18: 1}
+watteau -> {6: 1}
+watts -> {3: 3, 19: 1}
+waurms -> {11: 1}
+wave -> {1: 6, 2: 24, 3: 3, 7: 3, 8: 6, 10: 5, 11: 1, 12: 3, 13: 2, 15: 2, 17: 8, 18: 14, 19: 15, 20: 7}
+wavebonds -> {8: 1}
+waved -> {10: 5, 13: 5, 15: 10, 19: 10, 20: 7}
+wavelike -> {19: 1}
+wavemaned -> {8: 1}
+waver -> {2: 2, 7: 1, 14: 1, 18: 1, 24: 1, 25: 1}
+wavered -> {13: 2}
+wavering -> {2: 1, 8: 2, 11: 1, 12: 2, 16: 1, 18: 1, 19: 2, 24: 1, 25: 1}
+waveroamer -> {8: 2}
+waves -> {1: 5, 2: 9, 3: 1, 7: 8, 8: 18, 10: 11, 12: 1, 13: 2, 15: 1, 16: 2, 17: 4, 18: 10, 19: 10, 20: 2}
+waveswimmer -> {8: 1}
+wavewalker -> {8: 1}
+wavewhirl -> {8: 1}
+wavework -> {8: 1}
+waving -> {1: 6, 2: 6, 3: 1, 7: 2, 10: 1, 11: 1, 12: 1, 13: 3, 15: 3, 17: 1, 18: 3, 19: 14, 20: 4}
+wavy -> {1: 1, 2: 3}
+wax -> {3: 1, 8: 1, 10: 5, 12: 3, 15: 1, 16: 2, 17: 1, 18: 1, 19: 5, 20: 1, 21: 28, 25: 2}
+waxed -> {2: 1, 8: 3}
+waxen -> {10: 4, 18: 1, 19: 2}
+waxes -> {8: 2, 20: 1}
+waxy -> {15: 1}
+way -> {1: 118, 2: 113, 3: 101, 4: 18, 5: 41, 6: 14, 7: 143, 8: 16, 9: 23, 10: 221, 11: 99, 12: 83, 13: 76, 14: 24, 15: 181, 16: 54, 17: 32, 18: 108, 19: 261, 20: 53, 21: 41, 22: 29, 23: 29, 24: 36, 25: 104}
+wayall -> {19: 1}
+wayand -> {17: 1}
+waybill -> {10: 1}
+waybubbles -> {11: 1}
+wayfaring -> {8: 1}
+wayfor -> {25: 1}
+wayi -> {19: 1}
+wayit -> {11: 1}
+wayjust -> {13: 1}
+waylaid -> {18: 1}
+wayland -> {8: 1}
+wayne -> {3: 1}
+waynelocke -> {3: 1}
+wayobstacles -> {25: 1}
+ways -> {1: 4, 2: 5, 3: 20, 4: 1, 5: 4, 6: 2, 7: 7, 8: 10, 10: 21, 11: 5, 12: 2, 13: 1, 14: 4, 15: 22, 16: 8, 17: 2, 18: 2, 19: 15, 20: 3, 21: 3, 22: 5, 23: 5, 24: 7, 25: 9}
+waysby -> {19: 1}
+wayseither -> {25: 1}
+waysforexitandentrance -> {3: 1}
+wayside -> {7: 1, 11: 1, 13: 1, 19: 2}
+wayward -> {3: 1, 9: 1, 13: 1}
+wbai -> {3: 1}
+wbds -> {6: 1}
+wc -> {3: 1}
+we -> {1: 486, 2: 586, 3: 80, 4: 21, 5: 141, 6: 65, 7: 378, 8: 35, 9: 78, 10: 1536, 11: 222, 12: 176, 13: 193, 14: 282, 15: 602, 16: 182, 17: 190, 18: 463, 19: 520, 20: 127, 21: 112, 22: 98, 23: 98, 24: 458, 25: 1932}
+weak -> {1: 16, 2: 9, 3: 1, 4: 1, 5: 2, 6: 1, 7: 3, 10: 20, 11: 3, 14: 3, 16: 4, 18: 4, 19: 19, 20: 3, 24: 1, 25: 4}
+weaken -> {2: 1, 10: 1, 11: 1, 14: 2, 17: 1, 25: 4}
+weakened -> {5: 1, 8: 1, 10: 4, 17: 1, 18: 1, 24: 1}
+weakening -> {8: 1, 10: 1}
+weakens -> {3: 1, 9: 1, 24: 2}
+weaker -> {2: 1, 5: 1, 8: 1, 10: 7, 11: 1, 22: 1, 23: 1, 25: 1}
+weakest -> {10: 2, 19: 2}
+weakling -> {1: 2, 2: 1, 20: 1}
+weaklings -> {19: 1}
+weaklooking -> {10: 1}
+weakly -> {1: 2, 2: 2, 10: 1}
+weakness -> {1: 5, 2: 3, 10: 9, 11: 1, 13: 1, 16: 2, 18: 4, 19: 10, 21: 1, 24: 2, 25: 3}
+weaknesses -> {3: 1, 5: 2, 10: 1, 12: 1, 18: 4, 25: 2}
+weal -> {1: 1, 2: 1, 8: 2, 24: 5, 25: 2}
+wealhtheow -> {8: 6}
+wealhtheows -> {8: 2}
+wealth -> {1: 1, 4: 1, 5: 11, 6: 1, 7: 18, 8: 13, 10: 5, 11: 2, 13: 1, 16: 13, 18: 2, 19: 3, 24: 1, 25: 3}
+wealthier -> {1: 3}
+wealthiest -> {1: 1}
+wealththe -> {6: 1}
+wealthy -> {7: 1, 8: 2, 13: 2, 16: 1}
+wealthyeven -> {13: 1}
+wean -> {18: 1}
+weaning -> {17: 1}
+weapon -> {1: 11, 2: 22, 3: 19, 4: 1, 8: 9, 9: 1, 10: 5, 11: 1, 12: 1, 15: 1, 17: 5, 18: 7, 20: 2}
+weaponed -> {8: 1}
+weaponless -> {2: 2}
+weaponry -> {17: 4, 18: 2}
+weapons -> {1: 31, 2: 31, 3: 17, 8: 11, 10: 6, 11: 3, 17: 10, 18: 20, 19: 1, 25: 8}
+weaponsand -> {17: 1}
+weaponsmith -> {8: 1}
+wear -> {1: 14, 2: 7, 3: 12, 5: 1, 6: 1, 7: 8, 8: 1, 9: 2, 10: 5, 11: 1, 13: 3, 15: 5, 17: 3, 18: 8, 19: 4, 20: 9, 24: 1}
+wearable -> {3: 1}
+weared -> {20: 1}
+wearer -> {15: 1}
+wearhorrible -> {19: 1}
+weari -> {18: 1}
+wearied -> {7: 2, 8: 1, 10: 1, 11: 2, 14: 1, 25: 1}
+wearily -> {10: 2, 15: 2, 19: 2, 20: 2}
+weariness -> {7: 4, 11: 1, 14: 1, 16: 1, 19: 1, 25: 1}
+wearing -> {1: 10, 2: 6, 3: 5, 4: 1, 6: 1, 7: 5, 9: 1, 10: 2, 12: 2, 13: 2, 15: 8, 17: 3, 18: 5, 19: 8}
+wearisome -> {7: 1, 16: 1, 19: 1}
+wears -> {1: 4, 2: 4, 3: 1, 7: 1, 8: 1, 12: 1, 13: 1, 17: 5, 18: 4, 20: 2}
+weary -> {1: 2, 2: 1, 5: 2, 7: 7, 8: 3, 9: 1, 10: 6, 13: 1, 15: 4, 16: 7, 18: 2, 19: 2, 20: 2, 24: 1}
+wearycattle -> {2: 1}
+wearyhearted -> {8: 1}
+wearying -> {7: 1, 18: 1}
+weather -> {1: 8, 2: 7, 3: 5, 7: 2, 8: 1, 9: 1, 10: 12, 12: 3, 13: 3, 15: 7, 16: 1, 18: 1, 19: 27, 20: 2}
+weatherand -> {19: 1}
+weatherbeans -> {3: 1}
+weatherbeaten -> {13: 1, 19: 1}
+weatherit -> {11: 1}
+weathermen -> {3: 4}
+weathermenwomen -> {3: 1}
+weatherproof -> {13: 1}
+weatherrain -> {19: 1}
+weathers -> {1: 1, 2: 1, 9: 1}
+weatherwe -> {3: 1}
+weatherworn -> {10: 1}
+weave -> {2: 2, 7: 1, 8: 1, 13: 1, 15: 1, 18: 2}
+weaved -> {19: 1}
+weaver -> {16: 1}
+weaverofpeace -> {8: 1}
+weaves -> {2: 1, 18: 2, 19: 1}
+weaving -> {1: 3, 2: 2, 8: 1, 12: 2, 18: 3, 19: 2}
+web -> {2: 2, 12: 1, 14: 2, 16: 2, 18: 3, 24: 2, 25: 2}
+webbing -> {3: 2}
+webs -> {10: 1, 20: 1}
+webster -> {3: 1, 6: 1, 13: 1}
+wed -> {1: 14, 2: 12, 8: 1, 9: 1, 10: 2, 12: 1, 13: 10, 15: 17, 17: 4, 18: 10, 19: 12, 20: 5}
+wedded -> {6: 1}
+weddin -> {15: 2}
+wedding -> {2: 27, 4: 1, 7: 7, 10: 5, 13: 4, 15: 2, 17: 2, 18: 16, 19: 9}
+weddingcake -> {13: 1}
+weddingday -> {7: 1}
+weddingfeast -> {4: 1}
+weddingring -> {15: 1}
+weddings -> {3: 2, 7: 1, 19: 1}
+weder -> {8: 5}
+wedergeat -> {8: 2}
+wedergeats -> {8: 1}
+weders -> {8: 10}
+wedershelm -> {8: 1}
+wedge -> {2: 10, 9: 1, 11: 1, 18: 3, 19: 1}
+wedged -> {2: 3, 3: 1, 15: 3, 19: 1}
+wedges -> {2: 2}
+wedging -> {1: 1, 13: 1}
+wedlock -> {19: 1}
+wednesday -> {3: 5, 10: 2, 12: 1, 19: 3}
+wednesdays -> {3: 6}
+wedve -> {15: 1}
+wee -> {1: 1, 3: 1, 10: 1, 20: 1}
+weed -> {1: 1, 3: 1, 12: 1, 25: 1}
+weeds -> {1: 4, 2: 2, 8: 6, 15: 2, 19: 2}
+weedy -> {13: 1, 19: 1}
+week -> {1: 5, 2: 11, 3: 13, 4: 2, 5: 2, 7: 2, 9: 2, 10: 15, 11: 1, 12: 12, 13: 14, 15: 20, 16: 1, 18: 7, 19: 19, 20: 4}
+weekday -> {3: 1, 15: 1, 19: 4}
+weekdays -> {3: 11, 15: 2}
+weekend -> {3: 1}
+weekends -> {3: 3, 6: 1, 13: 2}
+weeki -> {11: 1}
+weekly -> {1: 1, 3: 3, 15: 1}
+weeknights -> {3: 1}
+weekold -> {10: 1}
+weeks -> {1: 5, 2: 17, 3: 11, 5: 1, 7: 4, 9: 1, 10: 11, 11: 3, 12: 1, 13: 9, 15: 6, 17: 3, 18: 12, 19: 13, 20: 9}
+weeksnowdrifts -> {19: 1}
+weekszhivago -> {19: 1}
+ween -> {8: 7}
+weened -> {8: 3}
+weeneth -> {8: 1}
+weens -> {8: 1}
+weep -> {1: 1, 5: 1, 7: 7, 8: 1, 10: 1, 15: 1, 18: 1, 19: 5, 20: 1}
+weeping -> {1: 2, 2: 5, 7: 3, 8: 2, 10: 1, 12: 1, 13: 1, 17: 2, 19: 5, 20: 1}
+weeps -> {10: 1, 18: 1}
+weepy -> {1: 1, 9: 3, 10: 1}
+weigh -> {1: 2, 2: 2, 3: 1, 7: 1, 11: 1, 12: 1, 16: 1, 18: 2, 21: 1, 25: 1}
+weighed -> {2: 1, 7: 2, 8: 1, 10: 2, 18: 1, 19: 1, 20: 1, 24: 1, 25: 1}
+weighing -> {2: 4, 10: 1, 13: 1, 17: 1, 18: 1, 19: 1, 22: 1, 23: 1}
+weighs -> {2: 4, 10: 1, 11: 1, 18: 1, 19: 1}
+weight -> {1: 10, 2: 11, 3: 10, 4: 1, 5: 2, 7: 7, 8: 1, 9: 1, 10: 9, 11: 12, 12: 2, 15: 4, 16: 3, 17: 3, 18: 5, 19: 11, 20: 3, 21: 1, 22: 1, 23: 1, 24: 1, 25: 20}
+weighted -> {10: 2, 18: 1}
+weightiest -> {25: 2}
+weightlifter -> {9: 1}
+weightlifting -> {1: 1}
+weights -> {1: 3, 3: 1, 10: 1, 13: 1, 22: 1, 23: 1}
+weighty -> {2: 2, 8: 1, 11: 2, 14: 1, 16: 1, 24: 2}
+weir -> {6: 1}
+weird -> {1: 1, 2: 6, 3: 2, 8: 1, 9: 1, 10: 4, 11: 3, 13: 1, 18: 3, 19: 1}
+weirdest -> {15: 1}
+weizmann -> {5: 2}
+welcome -> {1: 3, 2: 4, 3: 2, 4: 1, 5: 3, 7: 15, 8: 5, 9: 1, 10: 11, 11: 10, 12: 6, 13: 4, 14: 1, 15: 2, 16: 1, 17: 1, 18: 3, 19: 7, 20: 2, 24: 1, 25: 3}
+welcomed -> {7: 2, 15: 2, 17: 3, 19: 2}
+welcomes -> {2: 1, 15: 1, 17: 1}
+welcomethey -> {11: 1}
+welcoming -> {2: 4, 18: 1, 19: 2}
+welded -> {8: 1}
+welfare -> {2: 1, 3: 18, 5: 4, 7: 1, 14: 6, 15: 4, 16: 6, 19: 1, 24: 5, 25: 2}
+welkin -> {8: 7}
+well -> {1: 156, 2: 139, 3: 37, 4: 18, 5: 6, 6: 8, 7: 105, 8: 36, 9: 77, 10: 243, 11: 87, 12: 105, 13: 66, 14: 18, 15: 188, 16: 100, 17: 48, 18: 106, 19: 410, 20: 58, 21: 14, 22: 17, 23: 17, 24: 45, 25: 94}
+wellbalanced -> {25: 1}
+wellbehaved -> {6: 1, 10: 3}
+wellbeing -> {5: 3, 10: 1, 13: 1, 14: 4, 18: 1, 19: 1, 24: 1, 25: 1}
+wellbraced -> {8: 1}
+wellbred -> {10: 1}
+wellbuilt -> {19: 1}
+wellchased -> {8: 1}
+wellconcealed -> {13: 1}
+wellcreased -> {19: 1}
+welldefined -> {25: 1}
+welldeserved -> {18: 1}
+welldeserving -> {24: 1}
+welldirected -> {3: 1}
+welldisciplined -> {13: 1}
+welldisposed -> {24: 1, 25: 1}
+welldressed -> {7: 2, 13: 1, 19: 2, 20: 1}
+welled -> {8: 3, 10: 1, 19: 1}
+welledited -> {5: 1}
+wellendowed -> {5: 1}
+wellestablished -> {25: 1}
+wellfanned -> {13: 1}
+wellfed -> {12: 1}
+wellfilled -> {7: 1}
+wellfleet -> {3: 1}
+wellforged -> {8: 1}
+wellforgotten -> {13: 1}
+wellfounded -> {25: 1}
+wellfurnished -> {7: 1, 19: 1}
+wellgreased -> {3: 1}
+wellgrounded -> {14: 1, 25: 4}
+wellhole -> {11: 22}
+wellin -> {19: 1}
+wellinformed -> {19: 3}
+welling -> {8: 3, 19: 1}
+wellington -> {3: 2}
+wellintentioned -> {24: 1}
+wellkept -> {13: 1}
+wellknit -> {8: 1}
+wellknown -> {3: 1, 5: 1, 6: 1, 7: 1, 8: 1, 10: 1, 11: 1, 19: 5, 25: 3}
+welllit -> {10: 1, 19: 2}
+wellloved -> {8: 1, 13: 1}
+wellmade -> {7: 1}
+wellmaybe -> {18: 1}
+wellmeaning -> {5: 1, 15: 1}
+wellmeant -> {24: 1, 25: 1}
+wellmodulated -> {19: 1}
+wellnigh -> {7: 1, 22: 1, 23: 1}
+wellnot -> {18: 1}
+welloiled -> {17: 2}
+wellpaved -> {7: 1}
+wellpreserved -> {19: 1}
+wellproportioned -> {19: 1}
+wellranged -> {8: 1}
+wellread -> {12: 1}
+wellroom -> {11: 1}
+wellrounded -> {13: 1}
+wells -> {1: 1, 2: 1, 3: 1, 5: 1, 6: 1, 8: 1, 11: 1, 19: 1}
+wellshaft -> {11: 2}
+wellshaped -> {7: 1}
+wellshaved -> {13: 1}
+wellsized -> {10: 1}
+wellspring -> {5: 1, 20: 1}
+wellsprings -> {19: 1}
+wellss -> {6: 1}
+wellstocked -> {2: 1}
+welltheir -> {19: 1}
+wellthink -> {13: 1}
+welltodo -> {2: 1, 13: 1, 17: 1, 19: 4}
+welltrodden -> {19: 1}
+wellwere -> {18: 1}
+wellwishers -> {11: 1}
+welly -> {9: 6}
+welp -> {16: 1}
+welsh -> {3: 1, 11: 2}
+welt -> {2: 1}
+weltanschauung -> {6: 1}
+welter -> {8: 2, 12: 2}
+welts -> {1: 1}
+weltschmerz -> {19: 1}
+wench -> {19: 1}
+wend -> {8: 2}
+wended -> {7: 1}
+wendles -> {8: 1}
+wends -> {8: 1}
+wendy -> {20: 15}
+wendyll -> {20: 1}
+went -> {1: 17, 2: 19, 3: 3, 4: 29, 5: 2, 6: 5, 7: 161, 8: 23, 9: 1, 10: 298, 11: 77, 12: 39, 13: 91, 15: 193, 16: 10, 17: 7, 18: 13, 19: 310, 20: 35, 21: 1, 22: 1, 23: 1, 24: 2}
+wentdown -> {19: 1}
+wentwhile -> {19: 1}
+weohstan -> {8: 8}
+weohstans -> {8: 2}
+weor -> {11: 1}
+wept -> {1: 1, 7: 9, 8: 1, 10: 3, 12: 2, 13: 1, 19: 10, 20: 1}
+were -> {1: 212, 2: 239, 3: 18, 4: 41, 5: 37, 6: 45, 7: 367, 8: 49, 9: 31, 10: 551, 11: 222, 12: 190, 13: 185, 14: 35, 15: 475, 16: 190, 17: 78, 18: 171, 19: 1193, 20: 124, 21: 57, 22: 67, 23: 67, 24: 78, 25: 158}
+werea -> {6: 1}
+wereas -> {19: 1}
+werefatherless -> {2: 1}
+werent -> {1: 5, 2: 14, 10: 1, 12: 5, 13: 8, 15: 17, 17: 7, 18: 5, 19: 7}
+wereplaced -> {8: 1}
+werewere -> {11: 1}
+werewhat -> {2: 1}
+werewolf -> {10: 1, 19: 1}
+werewolves -> {10: 1}
+wergild -> {8: 3}
+werke -> {24: 1}
+wert -> {16: 5}
+wesleyan -> {3: 1}
+wesleys -> {15: 1}
+wesson -> {3: 1}
+west -> {1: 1, 2: 4, 3: 28, 6: 3, 8: 2, 9: 1, 10: 11, 11: 12, 12: 1, 13: 37, 14: 1, 15: 1, 16: 2, 17: 2, 19: 7, 20: 1, 22: 1, 23: 1, 24: 1, 25: 1}
+westall -> {13: 1}
+westbourne -> {3: 1}
+westbury -> {3: 1}
+westchester -> {13: 1}
+westchesterpelham -> {3: 1}
+westenra -> {10: 36}
+westenraand -> {10: 1}
+westenras -> {10: 8}
+western -> {3: 6, 5: 3, 10: 3, 11: 4, 13: 3, 19: 7, 20: 2}
+westerndanes -> {8: 1}
+westerners -> {5: 1, 13: 1}
+westerns -> {3: 1}
+westernstyle -> {19: 1}
+westminster -> {10: 5}
+westmoreland -> {3: 1}
+westmount -> {3: 1}
+westnot -> {13: 1}
+westside -> {3: 2}
+westward -> {10: 3, 13: 1, 19: 2}
+westwards -> {10: 1}
+westwood -> {3: 2}
+wet -> {1: 4, 2: 19, 3: 2, 4: 1, 7: 2, 10: 4, 12: 4, 13: 11, 15: 3, 16: 1, 18: 2, 19: 8, 20: 7}
+wethat -> {5: 1}
+wethe -> {19: 1}
+wetnurses -> {19: 1}
+wets -> {2: 1}
+wetted -> {10: 1}
+wetting -> {2: 1, 3: 1}
+weve -> {1: 16, 2: 34, 8: 1, 9: 8, 10: 1, 12: 16, 13: 10, 15: 20, 17: 12, 18: 26, 19: 39, 20: 9}
+wgld -> {3: 1}
+wh -> {15: 1}
+wha -> {13: 1}
+whack -> {3: 1, 6: 1}
+whaddya -> {15: 1}
+whale -> {3: 1, 7: 3, 10: 1, 19: 1}
+whalebone -> {15: 1}
+whalepath -> {8: 1}
+whales -> {8: 1}
+whamo -> {3: 2}
+wharf -> {10: 3, 20: 1}
+whas -> {13: 1}
+what -> {1: 366, 2: 418, 3: 63, 4: 41, 5: 51, 6: 93, 7: 363, 8: 22, 9: 78, 10: 464, 11: 137, 12: 182, 13: 127, 14: 86, 15: 384, 16: 379, 17: 128, 18: 252, 19: 760, 20: 100, 21: 103, 22: 67, 23: 67, 24: 160, 25: 314}
+whatcha -> {15: 6}
+whatd -> {1: 3, 15: 11, 18: 2}
+whatever -> {1: 27, 2: 28, 3: 4, 4: 1, 5: 2, 6: 2, 7: 20, 8: 1, 9: 4, 10: 27, 11: 20, 13: 6, 14: 18, 15: 9, 16: 2, 17: 5, 18: 25, 19: 21, 20: 5, 21: 12, 22: 2, 23: 2, 24: 17, 25: 48}
+whateverbut -> {25: 1}
+whatevers -> {18: 1}
+whathaveyou -> {19: 1}
+whatin -> {19: 1}
+whatll -> {12: 2, 13: 2, 15: 4, 20: 1}
+whatnot -> {18: 1}
+whatre -> {12: 1, 20: 1}
+whats -> {1: 42, 2: 36, 3: 7, 5: 1, 6: 1, 9: 9, 10: 4, 12: 11, 13: 16, 14: 1, 15: 33, 16: 2, 17: 14, 18: 36, 19: 60, 20: 13, 24: 1, 25: 1}
+whatso -> {11: 1, 18: 1}
+whatsoever -> {10: 1, 15: 1, 16: 172, 21: 1, 25: 8}
+whatsoeverthe -> {25: 1}
+whatve -> {12: 2, 20: 1}
+whe -> {13: 1}
+wheat -> {2: 1, 3: 5, 5: 1, 7: 1, 13: 2, 15: 1, 16: 1, 19: 3}
+whee -> {10: 1}
+wheedled -> {19: 1}
+wheedles -> {1: 1}
+wheek -> {15: 2}
+wheel -> {2: 4, 4: 1, 10: 12, 11: 5, 13: 8, 17: 1, 18: 1, 19: 2, 20: 12}
+wheelbarrow -> {3: 1, 9: 1, 18: 1}
+wheelbarrows -> {17: 1}
+wheelchair -> {9: 2, 15: 2, 17: 4}
+wheelchairs -> {17: 1}
+wheeled -> {9: 1, 10: 1, 13: 2, 15: 4, 17: 1, 18: 2, 19: 1}
+wheeler -> {3: 1, 15: 1}
+wheelhe -> {13: 1}
+wheeling -> {10: 2, 12: 1}
+wheels -> {2: 1, 4: 2, 5: 1, 9: 2, 10: 2, 11: 1, 12: 3, 13: 1, 15: 1, 17: 4, 18: 4, 19: 17, 20: 2, 21: 1, 22: 2, 23: 2}
+wheezed -> {15: 1}
+wheezing -> {19: 2, 20: 1}
+whelmed -> {8: 1}
+when -> {1: 368, 2: 321, 3: 184, 4: 54, 5: 32, 6: 36, 7: 511, 8: 97, 9: 21, 10: 765, 11: 237, 12: 124, 13: 144, 14: 54, 15: 519, 16: 183, 17: 77, 18: 275, 19: 431, 20: 72, 21: 94, 22: 58, 23: 58, 24: 107, 25: 269}
+whenas -> {16: 5}
+whence -> {5: 1, 7: 11, 8: 6, 10: 6, 11: 5, 14: 3, 16: 7, 21: 3, 22: 7, 23: 7, 24: 6, 25: 9}
+whenever -> {1: 3, 2: 3, 3: 1, 4: 3, 6: 1, 7: 3, 8: 2, 10: 7, 11: 9, 12: 1, 13: 7, 15: 5, 18: 2, 19: 23, 21: 4, 22: 1, 23: 1, 24: 1}
+whensoever -> {16: 23}
+where -> {1: 116, 2: 138, 3: 69, 4: 9, 5: 12, 6: 14, 7: 197, 8: 46, 9: 19, 10: 214, 11: 71, 12: 74, 13: 54, 14: 9, 15: 92, 16: 31, 17: 34, 18: 99, 19: 291, 20: 40, 21: 4, 22: 13, 23: 13, 24: 17, 25: 61}
+whereabout -> {11: 3}
+whereabouts -> {1: 5, 2: 1, 6: 1, 11: 2, 13: 1, 18: 1}
+whereas -> {1: 6, 2: 6, 5: 1, 7: 1, 10: 1, 11: 1, 14: 8, 16: 8, 18: 1, 20: 1, 22: 3, 23: 3, 24: 20, 25: 4}
+whereat -> {10: 1}
+whereby -> {3: 1, 6: 1, 10: 1, 14: 2, 16: 18, 20: 1, 21: 2, 22: 2, 23: 2, 24: 1, 25: 32}
+whered -> {1: 2, 2: 1, 13: 3, 15: 4}
+wherefore -> {10: 1, 25: 4}
+wherefores -> {9: 1}
+wherehow -> {6: 1}
+wherein -> {10: 3, 11: 2, 16: 18, 18: 1, 22: 1, 23: 1, 25: 10}
+whereof -> {16: 20, 25: 1}
+whereon -> {10: 5, 11: 3, 16: 1, 19: 2, 25: 1}
+wherere -> {15: 1}
+wheres -> {1: 5, 2: 3, 9: 1, 12: 3, 13: 2, 15: 5, 18: 1, 19: 3, 20: 2}
+wheresoever -> {16: 5}
+whereunto -> {16: 1}
+whereupon -> {4: 1, 7: 8, 10: 4, 13: 8, 20: 1, 21: 1, 25: 1}
+whereve -> {13: 1}
+wherever -> {2: 4, 3: 2, 7: 6, 8: 1, 10: 2, 11: 4, 12: 1, 13: 2, 14: 1, 15: 1, 16: 1, 17: 1, 18: 2, 19: 5, 20: 1}
+wherewith -> {16: 2}
+wherewithal -> {17: 1, 18: 2}
+whet -> {10: 2, 19: 1}
+whether -> {1: 8, 2: 7, 3: 8, 4: 2, 5: 6, 7: 15, 10: 19, 11: 3, 12: 4, 13: 3, 14: 49, 15: 8, 16: 68, 17: 1, 18: 8, 19: 38, 20: 5, 21: 34, 22: 7, 23: 7, 24: 76, 25: 218}
+whetherand -> {25: 1}
+whetted -> {8: 1}
+whettin -> {10: 1}
+whetting -> {10: 1}
+whey -> {10: 1}
+which -> {1: 93, 2: 84, 3: 90, 4: 30, 5: 292, 6: 90, 7: 575, 8: 23, 9: 12, 10: 658, 11: 405, 12: 43, 13: 66, 14: 462, 15: 73, 16: 606, 17: 25, 18: 53, 19: 348, 20: 57, 21: 624, 22: 344, 23: 344, 24: 901, 25: 3373}
+whicha -> {25: 1}
+whichever -> {4: 2, 15: 1, 19: 1}
+whichsince -> {25: 1}
+whiff -> {10: 2, 19: 1}
+whiffed -> {12: 1}
+whihch -> {16: 1}
+while -> {1: 91, 2: 117, 3: 29, 4: 12, 5: 11, 6: 2, 7: 103, 8: 26, 9: 7, 10: 52, 11: 22, 12: 35, 13: 47, 14: 16, 15: 62, 16: 44, 17: 10, 18: 58, 19: 102, 20: 30, 21: 17, 22: 16, 23: 16, 24: 37, 25: 143}
+whiles -> {8: 4, 10: 3, 16: 2}
+whilest -> {16: 4}
+whilewhich -> {11: 1}
+whilst -> {7: 24, 10: 95, 11: 17, 16: 12, 21: 1, 22: 2, 23: 2, 24: 3, 25: 12}
+whim -> {13: 1, 19: 3}
+whimper -> {2: 1, 12: 1, 17: 1}
+whimpered -> {13: 1}
+whimpering -> {1: 1, 12: 1, 18: 1, 19: 2}
+whimpers -> {18: 1}
+whims -> {2: 1, 19: 1}
+whine -> {19: 1}
+whined -> {12: 1}
+whiner -> {1: 1}
+whining -> {12: 1, 15: 1}
+whinnied -> {10: 2, 19: 1}
+whip -> {1: 5, 2: 10, 4: 1, 7: 6, 10: 4, 11: 2, 13: 1, 15: 1, 16: 1, 17: 2, 18: 3, 19: 5}
+whipped -> {1: 1, 2: 3, 7: 1, 9: 1, 12: 1, 15: 2, 18: 1, 19: 2, 20: 1}
+whipping -> {1: 1, 2: 8, 17: 3, 18: 1, 19: 1}
+whippings -> {1: 1, 2: 1}
+whips -> {2: 1, 10: 5, 13: 1, 17: 2, 18: 3}
+whipsers -> {9: 1}
+whir -> {17: 1, 18: 1}
+whirl -> {2: 1, 3: 1, 8: 1, 10: 6, 11: 2, 12: 1, 18: 1, 20: 1}
+whirled -> {10: 1, 12: 3, 19: 4, 20: 4}
+whirling -> {10: 4, 11: 1, 12: 2, 19: 2, 20: 1}
+whirlpool -> {5: 1, 10: 2}
+whirlpools -> {19: 2}
+whirls -> {1: 1, 10: 1, 12: 1}
+whirlwind -> {19: 2}
+whirlwinds -> {19: 2}
+whirr -> {11: 1}
+whirred -> {12: 1, 19: 1, 20: 1}
+whirring -> {11: 4, 12: 2, 19: 1, 20: 3}
+whisked -> {1: 3, 18: 1}
+whiskered -> {6: 1}
+whiskers -> {2: 1, 6: 1, 18: 1, 19: 1}
+whiskey -> {13: 6, 15: 10}
+whiskeya -> {13: 1}
+whisks -> {2: 2}
+whisky -> {3: 2, 12: 3}
+whiskydrinking -> {6: 1}
+whisper -> {1: 23, 2: 19, 4: 1, 7: 2, 9: 1, 10: 11, 11: 4, 12: 15, 13: 2, 15: 2, 17: 7, 18: 10, 19: 8, 20: 6}
+whisperdraw -> {10: 1}
+whispered -> {1: 3, 4: 1, 7: 4, 10: 17, 11: 4, 12: 18, 13: 13, 14: 1, 15: 27, 18: 2, 19: 27, 20: 14}
+whisperhis -> {13: 1}
+whispering -> {1: 1, 2: 1, 10: 2, 11: 1, 12: 2, 15: 1, 18: 1, 19: 6, 20: 2}
+whisperings -> {13: 1}
+whisperrats -> {10: 1}
+whispers -> {1: 8, 2: 8, 7: 1, 10: 1, 12: 2, 13: 2, 15: 1, 17: 4, 18: 8, 19: 5, 20: 3}
+whistle -> {1: 7, 2: 1, 10: 4, 12: 1, 13: 2, 15: 1, 18: 2, 19: 8}
+whistled -> {1: 1, 2: 1, 10: 1, 11: 1, 12: 2, 15: 2, 19: 3, 20: 1}
+whistler -> {2: 1}
+whistles -> {1: 2, 2: 2, 3: 1, 9: 1, 10: 1, 13: 1, 18: 3, 19: 4, 20: 1}
+whistling -> {1: 2, 2: 1, 4: 1, 11: 1, 12: 6, 17: 1, 18: 1, 19: 3, 20: 2}
+whit -> {5: 2, 8: 3, 10: 1, 14: 2, 19: 1, 24: 1}
+whitakers -> {10: 1}
+whitby -> {10: 39}
+whitbylucy -> {10: 1}
+white -> {1: 27, 2: 47, 3: 17, 4: 1, 5: 1, 6: 7, 7: 23, 8: 2, 9: 9, 10: 102, 11: 62, 12: 30, 13: 44, 15: 57, 16: 4, 17: 10, 18: 29, 19: 105, 20: 56, 21: 1}
+whitearmored -> {20: 1}
+whiteassnow -> {17: 1}
+whitebait -> {13: 1}
+whitechanged -> {13: 1}
+whiteclad -> {10: 1, 11: 1}
+whitecoated -> {9: 2}
+whitecrested -> {10: 1}
+whitefaced -> {19: 1}
+whitefired -> {20: 1}
+whitefolks -> {15: 1}
+whitegloved -> {18: 1}
+whitehaired -> {2: 1, 8: 1, 15: 1, 19: 1}
+whitehot -> {2: 1, 10: 2, 20: 1}
+whitelipped -> {19: 1}
+whitened -> {19: 1, 20: 1}
+whiteness -> {2: 2, 10: 3, 12: 3, 15: 1, 18: 1, 19: 3, 20: 4, 21: 2}
+whitening -> {10: 1}
+whiter -> {10: 6, 20: 1}
+whites -> {3: 2, 4: 1, 6: 1, 10: 1, 15: 1, 19: 37}
+whiteshirted -> {15: 1}
+whitest -> {16: 1, 20: 1}
+whitetipped -> {18: 1}
+whitewash -> {19: 1}
+whitewashed -> {13: 2, 19: 1}
+whither -> {7: 2, 8: 1, 10: 7, 16: 7, 21: 1}
+whithersoever -> {10: 1}
+whitish -> {10: 1, 19: 1}
+whitley -> {15: 1}
+whitman -> {6: 1, 12: 1, 19: 1}
+whitsun -> {19: 1}
+whittier -> {3: 1}
+whittled -> {15: 1}
+whittles -> {15: 1}
+whiz -> {1: 1, 2: 2, 18: 1}
+whizz -> {4: 1}
+whizzed -> {19: 1}
+whizzing -> {1: 1, 2: 1, 20: 1}
+who -> {1: 184, 2: 223, 3: 88, 4: 33, 5: 88, 6: 36, 7: 482, 8: 82, 9: 31, 10: 283, 11: 119, 12: 73, 13: 110, 14: 39, 15: 184, 16: 154, 17: 69, 18: 153, 19: 569, 20: 65, 21: 65, 22: 68, 23: 68, 24: 64, 25: 117}
+whoa -> {15: 3, 19: 1}
+whod -> {1: 2, 2: 2, 10: 1, 13: 3, 15: 2, 17: 1, 19: 1}
+whoda -> {15: 3}
+whodve -> {15: 1}
+whoever -> {1: 2, 2: 6, 3: 1, 7: 6, 8: 1, 10: 2, 11: 1, 13: 1, 14: 4, 15: 2, 16: 2, 18: 8, 19: 5, 20: 3, 22: 1, 23: 1, 24: 2}
+whoevers -> {15: 2}
+whole -> {1: 53, 2: 48, 3: 15, 4: 2, 5: 28, 6: 6, 7: 49, 8: 3, 9: 2, 10: 73, 11: 33, 12: 9, 13: 17, 14: 13, 15: 23, 16: 84, 17: 12, 18: 32, 19: 128, 20: 7, 21: 19, 22: 8, 23: 8, 24: 51, 25: 199}
+wholea -> {25: 2}
+wholehearted -> {15: 1, 19: 1}
+wholeheartedly -> {1: 1, 15: 1}
+wholejust -> {25: 1}
+wholeman -> {10: 1}
+wholemeal -> {11: 1}
+wholeness -> {17: 1}
+wholes -> {24: 1, 25: 1}
+wholesale -> {3: 8, 7: 1, 13: 1, 19: 2}
+wholesalers -> {3: 1}
+wholesome -> {10: 2, 13: 1}
+wholethere -> {19: 1}
+wholewhen -> {25: 1}
+wholewhich -> {25: 1}
+wholl -> {15: 1, 20: 1}
+wholly -> {1: 1, 5: 1, 6: 4, 7: 1, 8: 2, 11: 2, 14: 19, 16: 16, 19: 4, 21: 3, 22: 18, 23: 18, 24: 13, 25: 5}
+whom -> {1: 3, 3: 2, 4: 3, 5: 14, 6: 8, 7: 91, 8: 14, 10: 43, 11: 17, 12: 2, 13: 9, 14: 4, 15: 6, 16: 59, 18: 1, 19: 65, 20: 1, 21: 14, 22: 17, 23: 17, 24: 20, 25: 11}
+whomso -> {11: 1}
+whomsoever -> {13: 1, 16: 1}
+whomthe -> {25: 1}
+whoop -> {1: 1}
+whooped -> {15: 1}
+whoops -> {2: 1, 12: 1}
+whoosh -> {18: 1}
+whopartly -> {5: 1}
+whopping -> {3: 1}
+whore -> {15: 2, 19: 2}
+whorelady -> {15: 3}
+whoremonger -> {16: 1}
+whorls -> {19: 1}
+whos -> {1: 12, 2: 19, 3: 1, 9: 2, 12: 6, 13: 1, 15: 11, 17: 13, 18: 13, 19: 12, 20: 2}
+whose -> {1: 8, 2: 11, 4: 2, 5: 30, 6: 7, 7: 47, 8: 5, 9: 2, 10: 30, 11: 24, 12: 7, 13: 9, 14: 14, 15: 16, 16: 34, 17: 3, 18: 9, 19: 55, 20: 1, 21: 15, 22: 18, 23: 18, 24: 16, 25: 44}
+whoso -> {7: 1, 8: 1}
+whosoever -> {13: 1, 16: 13}
+whove -> {1: 1, 2: 1, 9: 1, 17: 2}
+why -> {1: 66, 2: 91, 3: 15, 4: 13, 5: 9, 6: 3, 7: 51, 8: 1, 9: 10, 10: 91, 11: 23, 12: 65, 13: 36, 14: 9, 15: 156, 16: 46, 17: 22, 18: 62, 19: 180, 20: 44, 21: 17, 22: 4, 23: 4, 24: 13, 25: 23}
+whyany -> {13: 1}
+whyd -> {12: 2, 15: 5}
+whyhow -> {13: 1}
+whynot -> {13: 1}
+whys -> {9: 1, 13: 2, 15: 1}
+whytherere -> {13: 1}
+whywhen -> {18: 1}
+whyyees -> {13: 1}
+wi -> {10: 8, 16: 1}
+wichita -> {3: 1}
+wick -> {12: 1, 19: 2}
+wicked -> {2: 2, 4: 1, 7: 15, 9: 2, 10: 4, 14: 1, 15: 1, 16: 8, 18: 2, 19: 4, 25: 3}
+wickedlooking -> {2: 1}
+wickedly -> {15: 1}
+wickedlythe -> {10: 1}
+wickedness -> {5: 1, 7: 2, 10: 3, 15: 1, 16: 14, 24: 1}
+wicker -> {6: 1, 13: 2, 19: 3, 20: 2}
+wickerware -> {19: 1}
+wicket -> {11: 6}
+wide -> {1: 6, 2: 7, 3: 8, 4: 1, 5: 1, 6: 1, 7: 2, 8: 13, 9: 1, 10: 29, 11: 8, 12: 12, 13: 7, 15: 11, 17: 6, 18: 20, 19: 26, 20: 8, 22: 1, 23: 1, 24: 1, 25: 6}
+widebrimmed -> {19: 1}
+wideeyed -> {12: 1}
+widehearted -> {8: 1}
+wideknown -> {8: 1}
+widely -> {3: 2, 6: 1, 7: 1, 8: 4, 10: 1, 11: 1, 14: 1, 16: 1, 19: 1, 25: 6}
+widen -> {1: 3, 18: 1, 25: 1}
+widened -> {11: 2, 12: 1, 13: 1, 15: 3, 19: 2, 20: 1}
+widening -> {6: 1, 10: 1, 18: 1, 19: 2, 25: 1}
+widens -> {1: 1, 10: 1}
+wideopen -> {19: 2}
+wideopened -> {20: 1}
+wider -> {2: 3, 5: 2, 6: 1, 10: 1, 21: 1, 22: 1, 23: 1, 25: 3}
+wideset -> {2: 1, 18: 1}
+widespread -> {2: 1, 3: 1, 6: 1, 8: 3, 17: 1, 19: 1}
+widest -> {5: 4, 6: 1, 25: 2}
+widestretched -> {8: 1}
+widow -> {8: 1, 10: 1, 15: 2, 19: 7}
+widowed -> {19: 1}
+widower -> {7: 1}
+widows -> {15: 2}
+width -> {3: 3, 5: 1, 8: 2, 10: 1, 15: 1, 19: 3, 21: 1}
+wield -> {2: 1, 8: 6}
+wielded -> {8: 12}
+wielder -> {8: 4}
+wielderofall -> {8: 1}
+wielderofwonder -> {8: 1}
+wielderofwonders -> {8: 1}
+wielders -> {8: 1}
+wielding -> {1: 2, 2: 3, 8: 3, 12: 1, 18: 1}
+wife -> {1: 5, 2: 1, 3: 3, 4: 5, 5: 2, 6: 3, 7: 108, 8: 5, 9: 3, 10: 29, 11: 19, 12: 28, 13: 22, 15: 10, 16: 9, 19: 95, 20: 31}
+wifed -> {15: 1}
+wifelove -> {8: 1}
+wifes -> {5: 1, 7: 10, 10: 4, 11: 1, 12: 3, 13: 1, 15: 1, 16: 1, 19: 6, 20: 1}
+wifewell -> {19: 1}
+wig -> {1: 3, 2: 5, 17: 1, 18: 5, 19: 1}
+wiggle -> {3: 2, 18: 1}
+wiggling -> {2: 1, 18: 1}
+wight -> {8: 5}
+wiglaf -> {8: 8}
+wiglafs -> {8: 1}
+wigs -> {18: 3}
+wilcox -> {3: 1}
+wild -> {1: 22, 2: 17, 3: 4, 4: 1, 5: 1, 7: 3, 8: 4, 10: 42, 11: 5, 12: 5, 13: 11, 15: 5, 16: 9, 17: 2, 18: 10, 19: 23, 20: 6, 24: 1}
+wilder -> {10: 2, 20: 2}
+wilderness -> {1: 3, 2: 4, 5: 1, 6: 1, 10: 1, 11: 1, 12: 7, 18: 2, 19: 5, 20: 3}
+wildest -> {3: 1, 4: 1, 7: 1, 8: 1, 10: 1, 11: 2, 17: 1, 19: 2, 25: 1}
+wildeyed -> {10: 1}
+wildfire -> {17: 1, 18: 1}
+wildflowers -> {1: 2, 2: 1}
+wildlife -> {18: 1}
+wildlooking -> {19: 1}
+wildly -> {2: 1, 7: 1, 10: 3, 12: 2, 13: 2, 15: 2, 19: 2, 20: 5}
+wildness -> {12: 1}
+wilds -> {8: 1}
+wile -> {8: 1, 10: 2}
+wiles -> {7: 2, 8: 2, 10: 1}
+wilful -> {7: 1, 16: 1}
+wilfully -> {16: 1}
+wilhelm -> {5: 1}
+wilhelmina -> {10: 3}
+wilhelms -> {13: 1}
+wilkes -> {20: 31}
+will -> {1: 275, 2: 289, 3: 290, 4: 46, 5: 93, 6: 21, 7: 441, 8: 37, 9: 29, 10: 449, 11: 96, 12: 46, 13: 22, 14: 318, 15: 49, 16: 200, 17: 62, 18: 178, 19: 196, 20: 58, 21: 75, 22: 46, 23: 46, 24: 393, 25: 272}
+willa -> {25: 1}
+willand -> {19: 1}
+willed -> {8: 1, 14: 2, 15: 1, 19: 4, 20: 1, 25: 1}
+willful -> {19: 2}
+willfully -> {19: 1}
+willfulness -> {19: 1}
+willhardening -> {5: 1}
+willhelmina -> {10: 1}
+william -> {3: 2, 6: 3, 11: 1, 15: 2}
+williamette -> {3: 1}
+williamsburggreenpoint -> {3: 1}
+williamson -> {3: 2}
+williamsport -> {3: 1}
+willie -> {3: 1, 12: 2, 13: 1}
+willing -> {1: 4, 2: 7, 3: 7, 6: 2, 7: 2, 8: 7, 9: 1, 10: 10, 11: 7, 13: 2, 14: 4, 15: 4, 16: 4, 17: 4, 18: 4, 19: 4, 21: 3, 22: 4, 23: 4, 24: 2, 25: 3}
+willinggiver -> {8: 1}
+willingif -> {11: 1}
+willingly -> {7: 8, 8: 1, 10: 2, 16: 11, 19: 2, 22: 1, 23: 1, 24: 1, 25: 2}
+willingness -> {1: 1, 2: 1, 3: 1, 11: 2}
+willit -> {11: 1}
+willothewisp -> {10: 1, 19: 1}
+willothewisps -> {19: 2}
+willow -> {1: 2, 12: 1, 18: 1, 19: 4}
+willowa -> {1: 1}
+willows -> {1: 1, 19: 2}
+willpower -> {5: 1}
+willresides -> {25: 1}
+wills -> {5: 2, 7: 1, 10: 3, 11: 3, 14: 9, 16: 8, 21: 3, 25: 3}
+willsapping -> {9: 1}
+willthat -> {21: 1}
+willy -> {3: 1}
+willynilly -> {6: 1, 19: 2}
+wilshire -> {3: 2}
+wilson -> {3: 2, 5: 1, 13: 62}
+wilsonll -> {13: 1}
+wilsons -> {13: 14}
+wilt -> {7: 1, 8: 2, 16: 39}
+wilted -> {15: 1, 18: 1}
+wilton -> {3: 1}
+wily -> {1: 1, 10: 4}
+wimbleton -> {3: 1}
+win -> {1: 23, 2: 7, 3: 5, 6: 1, 7: 1, 8: 7, 10: 5, 11: 4, 12: 4, 13: 1, 15: 8, 16: 1, 17: 5, 18: 3, 19: 5, 20: 1}
+wince -> {1: 1, 2: 2, 10: 3, 17: 1, 18: 1}
+winced -> {13: 1, 20: 1}
+winces -> {2: 1, 18: 1}
+winch -> {11: 1, 19: 1}
+winches -> {11: 1}
+winchester -> {10: 3}
+winchesters -> {10: 4}
+wincing -> {1: 1}
+wind -> {1: 9, 2: 9, 3: 4, 4: 6, 7: 9, 8: 4, 9: 1, 10: 44, 11: 9, 12: 27, 13: 13, 15: 9, 16: 6, 17: 1, 18: 2, 19: 65, 20: 27, 21: 2, 22: 2, 23: 2}
+windblown -> {6: 1}
+winded -> {2: 2}
+windfall -> {5: 1}
+windham -> {10: 1}
+winding -> {7: 1, 8: 1, 10: 5, 12: 2, 19: 4, 20: 1}
+windingneckd -> {8: 1}
+windlass -> {11: 1}
+windless -> {20: 1}
+windmill -> {12: 1}
+window -> {1: 10, 2: 17, 3: 7, 4: 3, 6: 5, 7: 18, 9: 8, 10: 116, 11: 18, 12: 16, 13: 17, 15: 44, 17: 6, 18: 16, 19: 130, 20: 25, 21: 2}
+windowhole -> {11: 1}
+windowpane -> {19: 3}
+windowpanes -> {2: 1, 12: 2, 19: 1}
+windows -> {1: 9, 2: 12, 3: 4, 7: 11, 10: 19, 11: 8, 12: 8, 13: 20, 15: 22, 16: 1, 17: 1, 18: 10, 19: 67, 20: 3, 22: 1, 23: 1}
+windowseat -> {11: 1}
+windowsill -> {2: 1, 18: 2}
+windowwhose -> {11: 1}
+windowwith -> {13: 1}
+windpipe -> {1: 1, 22: 1, 23: 1}
+windpipes -> {10: 1}
+windpressure -> {11: 1}
+winds -> {1: 1, 2: 3, 6: 1, 7: 1, 8: 3, 10: 1, 15: 1, 16: 2, 19: 1}
+windshields -> {13: 1}
+windstorm -> {20: 1}
+windswept -> {8: 1, 19: 1}
+windus -> {6: 1}
+windy -> {1: 2, 2: 1, 3: 1, 8: 3, 13: 2, 15: 2, 19: 5, 25: 1}
+wine -> {1: 10, 2: 8, 3: 2, 4: 2, 6: 2, 7: 25, 8: 4, 9: 5, 10: 6, 11: 2, 12: 3, 15: 1, 16: 2, 19: 4, 20: 9}
+winebibbing -> {6: 1}
+winebrenners -> {13: 1}
+winecolored -> {13: 1, 19: 1}
+winecup -> {8: 1, 16: 1}
+wineglasses -> {2: 3, 19: 1}
+winehall -> {8: 3}
+winejar -> {4: 3}
+winepalace -> {8: 1}
+winepress -> {10: 1}
+winered -> {19: 1}
+wines -> {7: 2, 19: 1, 22: 1, 23: 1}
+wineshop -> {7: 1}
+wineshops -> {7: 1}
+winfinnicks -> {18: 1}
+winfrey -> {20: 1}
+wing -> {1: 5, 2: 2, 3: 1, 7: 1, 10: 1, 13: 1, 17: 5, 18: 1, 19: 2}
+winged -> {19: 3, 21: 1}
+winging -> {2: 1}
+wingless -> {13: 1}
+wings -> {1: 2, 2: 4, 5: 1, 7: 9, 10: 12, 11: 4, 12: 4, 13: 3, 14: 1, 17: 5, 18: 10, 19: 8, 20: 6, 21: 3, 22: 1, 23: 1, 25: 3}
+wink -> {1: 3, 10: 2, 12: 1, 19: 4}
+winked -> {10: 1, 13: 2, 15: 1, 19: 1, 20: 3}
+winking -> {12: 1, 13: 1, 15: 3, 19: 2, 20: 1}
+winks -> {19: 2}
+winner -> {1: 6, 2: 3}
+winners -> {1: 2, 2: 2, 15: 1}
+winnest -> {8: 1}
+winning -> {1: 12, 2: 5, 5: 2, 10: 4, 15: 1, 17: 1, 18: 4, 19: 1}
+winningly -> {10: 1}
+winningpost -> {4: 1}
+winnings -> {2: 5}
+winnipeg -> {3: 1}
+wins -> {1: 6, 2: 1, 3: 3, 4: 1, 8: 1, 15: 1, 16: 1, 17: 2, 18: 1, 20: 1}
+winslow -> {3: 1}
+winsome -> {8: 9}
+winston -> {12: 2, 15: 3}
+winter -> {1: 3, 2: 9, 3: 4, 4: 3, 8: 3, 10: 3, 11: 1, 12: 3, 13: 3, 15: 9, 16: 1, 17: 1, 18: 6, 19: 82, 20: 6, 22: 2, 23: 2}
+wintered -> {19: 1}
+winters -> {3: 1, 4: 1, 8: 12, 13: 1, 15: 1, 18: 1, 19: 4}
+wintersuffield -> {10: 1}
+wintertime -> {15: 2, 19: 1}
+wintry -> {2: 1, 4: 1, 6: 1, 19: 3}
+wipe -> {1: 6, 2: 2, 3: 7, 7: 1, 10: 3, 11: 2, 12: 2, 15: 1, 16: 4, 17: 1, 18: 4, 19: 3}
+wiped -> {1: 3, 2: 1, 3: 2, 7: 2, 10: 3, 11: 1, 13: 4, 15: 6, 19: 5, 20: 3}
+wipes -> {1: 3, 2: 5, 18: 1}
+wiping -> {1: 2, 2: 4, 10: 1, 13: 2, 15: 2, 17: 2, 19: 3}
+wire -> {1: 4, 2: 46, 3: 3, 9: 1, 10: 10, 11: 16, 12: 1, 13: 10, 14: 1, 15: 13, 17: 8, 18: 2, 19: 3, 24: 1, 25: 1}
+wired -> {2: 1, 18: 1}
+wiregold -> {8: 1}
+wirehairs -> {12: 1}
+wires -> {1: 1, 2: 1, 3: 5, 8: 1, 9: 1, 10: 1, 13: 3, 16: 2, 17: 1, 18: 2, 19: 2, 20: 1}
+wiresand -> {19: 1}
+wiress -> {2: 53}
+wiresss -> {2: 4}
+wiring -> {3: 5}
+wisc -> {3: 6}
+wisconsin -> {3: 4, 6: 1, 13: 1, 14: 1, 24: 1, 25: 1}
+wisdom -> {2: 1, 5: 1, 7: 4, 8: 3, 10: 1, 13: 1, 14: 2, 15: 2, 16: 5, 18: 1, 19: 4, 20: 1, 21: 5, 22: 1, 23: 1, 24: 18, 25: 15}
+wisdoms -> {8: 1, 12: 1}
+wise -> {3: 3, 4: 1, 5: 2, 6: 2, 7: 11, 8: 29, 10: 11, 11: 5, 12: 3, 13: 1, 14: 3, 15: 2, 16: 13, 19: 4, 20: 2, 21: 6, 22: 2, 23: 2, 24: 11, 25: 16}
+wiseandbrave -> {8: 1}
+wised -> {13: 1}
+wisely -> {8: 1, 10: 2, 11: 3, 15: 2, 16: 1, 25: 2}
+wiselydesigning -> {25: 1}
+wisemens -> {8: 1}
+wiseone -> {8: 1}
+wiser -> {4: 1, 6: 1, 7: 3, 8: 1, 10: 1, 11: 1, 12: 1, 14: 3, 19: 1, 21: 1, 22: 1, 23: 1}
+wisest -> {8: 7, 10: 1, 25: 3}
+wish -> {1: 14, 2: 21, 3: 10, 4: 5, 5: 7, 6: 1, 7: 51, 8: 3, 9: 1, 10: 53, 11: 13, 12: 1, 13: 4, 14: 16, 15: 5, 16: 6, 17: 6, 18: 6, 19: 27, 20: 9, 21: 8, 22: 7, 23: 7, 24: 21, 25: 39}
+wishbone -> {2: 1}
+wished -> {1: 2, 4: 2, 6: 1, 7: 48, 8: 6, 9: 1, 10: 15, 11: 14, 12: 3, 13: 1, 15: 7, 19: 16, 20: 2, 22: 5, 23: 5, 24: 2, 25: 6}
+wishedbut -> {11: 1}
+wishes -> {1: 2, 2: 2, 3: 1, 4: 2, 5: 2, 6: 1, 7: 26, 10: 21, 11: 11, 12: 1, 14: 8, 16: 2, 19: 8, 21: 2, 24: 9, 25: 5}
+wishesas -> {11: 1}
+wishest -> {8: 1}
+wishful -> {10: 1, 15: 1}
+wishing -> {1: 5, 2: 3, 6: 1, 7: 6, 8: 1, 10: 3, 11: 1, 15: 1, 16: 1, 17: 1, 18: 2, 19: 2, 20: 4, 22: 1, 23: 1}
+wishon -> {3: 1}
+wishthat -> {25: 1}
+wisp -> {1: 2, 2: 2, 10: 1, 13: 2, 17: 1}
+wisps -> {2: 1, 12: 1, 17: 1}
+wispy -> {1: 1, 15: 1}
+wist -> {8: 1}
+wisteria -> {15: 2}
+wistful -> {11: 1}
+wistfully -> {2: 1, 13: 1, 20: 1}
+wistfulness -> {13: 1}
+wit -> {4: 1, 5: 1, 6: 1, 7: 5, 8: 3, 10: 1, 11: 1, 13: 1, 14: 2, 16: 2, 21: 13, 25: 28}
+witby -> {10: 1}
+witch -> {1: 2, 7: 1, 10: 3, 19: 4, 20: 7}
+witchcraft -> {19: 1}
+witches -> {10: 1, 20: 1}
+witchfinderabout -> {11: 1}
+witchs -> {20: 1}
+with -> {1: 634, 2: 758, 3: 412, 4: 85, 5: 204, 6: 134, 7: 941, 8: 295, 9: 87, 10: 1277, 11: 377, 12: 325, 13: 423, 14: 189, 15: 612, 16: 482, 17: 200, 18: 535, 19: 1682, 20: 239, 21: 100, 22: 134, 23: 134, 24: 469, 25: 1253}
+withal -> {8: 1, 10: 1, 14: 1, 16: 6}
+withand -> {19: 1}
+withdraw -> {2: 2, 3: 1, 7: 2, 14: 1, 16: 6, 18: 1, 19: 1, 20: 1, 21: 2, 24: 1, 25: 1}
+withdrawal -> {2: 2, 5: 4, 11: 1, 18: 4}
+withdrawing -> {2: 1, 7: 1, 12: 1, 16: 2, 24: 1}
+withdrawn -> {1: 1, 5: 2, 10: 2, 11: 1, 14: 2, 19: 3, 21: 1, 22: 2, 23: 2, 24: 2, 25: 1}
+withdrawnarrive -> {25: 1}
+withdraws -> {2: 1, 14: 1, 16: 1, 17: 1}
+withdrew -> {7: 3, 10: 4, 15: 3, 18: 1, 19: 3}
+withe -> {10: 1}
+wither -> {12: 1, 16: 1, 24: 1}
+withered -> {10: 1, 13: 1, 16: 1, 19: 3}
+withergilds -> {8: 1}
+withering -> {5: 1}
+withers -> {7: 1}
+witheverything -> {25: 1}
+withheld -> {1: 1, 8: 1, 17: 1, 18: 1, 19: 1, 21: 1}
+withhold -> {7: 1, 11: 1, 21: 2, 24: 1}
+withholding -> {1: 1, 15: 1, 19: 1}
+within -> {1: 4, 2: 7, 3: 4, 5: 5, 6: 11, 7: 11, 8: 23, 9: 1, 10: 45, 11: 24, 12: 1, 13: 9, 14: 9, 15: 7, 16: 56, 17: 4, 18: 3, 19: 36, 20: 9, 21: 23, 22: 5, 23: 5, 24: 11, 25: 52}
+withindeed -> {25: 1}
+without -> {1: 63, 2: 48, 3: 51, 4: 6, 5: 32, 6: 22, 7: 125, 8: 5, 9: 3, 10: 137, 11: 42, 12: 35, 13: 31, 14: 72, 15: 42, 16: 94, 17: 19, 18: 45, 19: 170, 20: 21, 21: 57, 22: 48, 23: 48, 24: 94, 25: 449}
+withouteverything -> {19: 1}
+withstand -> {7: 1, 16: 2, 18: 2, 25: 2}
+withstanding -> {8: 1, 16: 1}
+withthe -> {22: 1, 23: 1}
+withvirgin -> {10: 1}
+witits -> {25: 1}
+witness -> {1: 1, 3: 2, 5: 1, 7: 2, 8: 3, 9: 1, 10: 3, 13: 2, 15: 42, 16: 1, 17: 1, 18: 2, 19: 2, 24: 3, 25: 3}
+witnessed -> {1: 1, 2: 2, 6: 1, 7: 3, 8: 1, 13: 1, 18: 1, 19: 2}
+witnesses -> {3: 2, 7: 1, 11: 2, 15: 10, 16: 1, 17: 4, 19: 4, 20: 1, 24: 1, 25: 3}
+witnessing -> {2: 1, 5: 1, 12: 1, 15: 1, 18: 1}
+witnessll -> {15: 1}
+witnesss -> {15: 4}
+wits -> {1: 2, 2: 2, 8: 2, 10: 6, 11: 1, 16: 2, 19: 2}
+witte -> {5: 1, 19: 1}
+witticism -> {19: 1}
+wittingly -> {16: 2}
+witty -> {1: 3, 13: 1, 17: 1, 19: 2}
+wives -> {4: 3, 7: 1, 9: 1, 10: 2, 13: 4, 15: 2, 18: 1, 19: 6, 20: 1}
+wizards -> {10: 1}
+wizened -> {2: 1}
+wizenmann -> {24: 1}
+wl -> {3: 1}
+wm -> {19: 1}
+wnewtv -> {3: 1}
+wobble -> {12: 1}
+wobbling -> {1: 1}
+wobbly -> {1: 2, 2: 2, 17: 1}
+wodin -> {10: 1}
+woe -> {4: 1, 7: 2, 8: 14, 10: 5, 11: 1, 16: 2, 24: 5}
+woebegone -> {10: 1}
+woeful -> {10: 1}
+woefully -> {10: 1}
+woes -> {1: 1, 8: 7, 10: 2, 11: 1, 15: 1, 16: 1, 19: 1}
+woful -> {8: 7}
+wohl -> {24: 1}
+woke -> {1: 3, 7: 6, 8: 5, 9: 1, 10: 26, 11: 4, 13: 3, 15: 5, 18: 1, 19: 18}
+woken -> {1: 2, 18: 2}
+wold -> {10: 1}
+wolds -> {10: 2}
+woldstein -> {20: 4}
+wolf -> {1: 4, 4: 39, 7: 2, 8: 1, 10: 25, 14: 1, 18: 4, 19: 2, 24: 1, 25: 3}
+wolfcliffs -> {8: 1}
+wolfhounds -> {19: 1}
+wolfian -> {25: 1}
+wolfianalthough -> {25: 1}
+wolfing -> {1: 1}
+wolflike -> {2: 1, 18: 1}
+wolfofthedeep -> {8: 1}
+wolfofthewaves -> {8: 1}
+wolfs -> {3: 1, 4: 2, 10: 1, 19: 1}
+wolfshiem -> {13: 24}
+wolfshiems -> {13: 7}
+wolfshiemthat -> {13: 1}
+wollman -> {3: 1}
+wolves -> {1: 1, 2: 2, 10: 45, 19: 16}
+woman -> {1: 15, 2: 42, 3: 9, 4: 3, 7: 56, 8: 7, 9: 4, 10: 56, 11: 26, 12: 32, 13: 20, 15: 17, 16: 2, 17: 10, 18: 16, 19: 119, 20: 14}
+womanblouses -> {19: 1}
+womandark -> {18: 1}
+womanhood -> {11: 3, 15: 1}
+womanish -> {19: 1}
+womanjack -> {19: 1}
+womankind -> {8: 1}
+womanly -> {19: 2}
+womans -> {1: 1, 2: 3, 3: 6, 7: 1, 10: 5, 11: 3, 12: 3, 13: 1, 15: 2, 16: 1, 18: 2, 19: 13, 20: 4}
+womanwhom -> {7: 1}
+womb -> {13: 1, 16: 3, 20: 1, 22: 1, 23: 1}
+women -> {1: 2, 2: 4, 3: 21, 4: 2, 5: 3, 6: 6, 7: 28, 8: 3, 9: 2, 10: 46, 11: 4, 12: 17, 13: 14, 15: 19, 16: 1, 17: 2, 18: 1, 19: 63, 20: 7, 24: 1}
+womenfolk -> {5: 1, 15: 1, 19: 1}
+womenkind -> {10: 1}
+womeno -> {19: 1}
+womens -> {3: 2, 5: 1, 6: 1, 7: 2, 12: 1, 13: 2, 19: 2}
+won -> {1: 8, 2: 19, 3: 4, 5: 2, 7: 6, 8: 4, 9: 1, 10: 9, 11: 1, 12: 1, 15: 10, 16: 1, 17: 2, 18: 6, 19: 5, 20: 5, 25: 1}
+wonder -> {1: 36, 2: 26, 3: 3, 4: 1, 5: 2, 6: 3, 7: 11, 8: 10, 9: 2, 10: 34, 11: 7, 12: 12, 13: 7, 14: 1, 15: 12, 16: 19, 17: 4, 18: 17, 19: 21, 20: 7, 24: 2, 25: 1}
+wondered -> {1: 2, 2: 2, 7: 4, 10: 5, 11: 5, 12: 3, 13: 6, 14: 1, 15: 31, 16: 2, 19: 26, 20: 4, 24: 1, 25: 3}
+wonderest -> {16: 1}
+wonderff -> {13: 1}
+wonderful -> {1: 3, 2: 4, 3: 1, 5: 4, 6: 5, 7: 12, 9: 1, 10: 27, 11: 1, 12: 6, 13: 1, 15: 2, 16: 3, 17: 1, 18: 5, 19: 22, 20: 24, 22: 1, 23: 1, 24: 1, 25: 7}
+wonderfully -> {2: 1, 10: 4, 11: 1, 16: 1, 19: 1}
+wonderin -> {10: 2, 15: 2}
+wondering -> {1: 3, 2: 8, 7: 10, 10: 1, 12: 1, 13: 4, 15: 7, 17: 5, 18: 7, 19: 1, 20: 1}
+wonderingly -> {2: 1}
+wonderland -> {20: 1}
+wonderment -> {11: 1, 15: 1}
+wonderous -> {10: 1, 20: 1}
+wonders -> {1: 1, 7: 7, 8: 2, 10: 1, 12: 2, 16: 4, 19: 3, 25: 1}
+wondersalmost -> {11: 1}
+wondersmiths -> {8: 1}
+wondervats -> {8: 1}
+wonderwielder -> {8: 1}
+wonderworker -> {19: 1}
+wonderwrought -> {8: 1}
+wondrous -> {8: 9, 11: 1, 12: 2, 20: 1, 25: 1}
+wondrously -> {8: 2}
+wonldnt -> {20: 1}
+wonred -> {8: 1}
+wonreding -> {8: 2}
+wont -> {1: 53, 2: 45, 3: 21, 4: 1, 5: 1, 8: 4, 9: 4, 10: 15, 11: 3, 12: 15, 13: 17, 14: 1, 15: 60, 16: 9, 17: 14, 18: 37, 19: 96, 20: 13, 22: 1, 23: 1, 25: 2}
+wonted -> {16: 2}
+wood -> {1: 17, 2: 4, 3: 2, 4: 6, 7: 16, 8: 3, 10: 11, 11: 8, 12: 5, 15: 6, 16: 4, 18: 1, 19: 62, 20: 1, 25: 1}
+woodbury -> {3: 1}
+woodcutter -> {4: 1, 7: 1}
+woodcutters -> {7: 1}
+wooded -> {2: 1, 3: 2, 19: 6}
+wooden -> {1: 5, 2: 5, 3: 5, 4: 4, 7: 1, 8: 2, 9: 1, 10: 6, 11: 2, 15: 3, 17: 1, 18: 1, 19: 28, 20: 1}
+woodholm -> {3: 1}
+woodhouse -> {10: 1}
+woodhull -> {11: 1}
+woodier -> {3: 1}
+woodland -> {1: 1, 8: 1, 19: 1}
+woodlawn -> {3: 2}
+woodman -> {4: 4, 19: 1}
+woodmere -> {9: 1}
+woodofdelight -> {8: 1}
+woodpile -> {2: 1, 15: 1}
+woods -> {1: 94, 2: 65, 5: 2, 7: 3, 8: 1, 10: 5, 11: 1, 12: 1, 15: 9, 17: 15, 18: 27, 19: 42}
+woodshed -> {19: 4}
+woodsheds -> {3: 1}
+woodsmoke -> {8: 1}
+woodstock -> {3: 1}
+woodward -> {3: 2}
+woodwork -> {10: 1, 11: 1}
+woodworking -> {3: 1}
+wooer -> {11: 1}
+woof -> {2: 3}
+wooing -> {16: 1, 19: 1}
+wool -> {1: 1, 2: 2, 6: 1, 15: 2, 16: 1, 18: 1, 19: 2}
+woolen -> {15: 2}
+woollen -> {19: 4}
+woolly -> {19: 2}
+wooshed -> {9: 1}
+wooster -> {3: 1}
+woozy -> {1: 1}
+worcester -> {11: 1}
+word -> {1: 20, 2: 20, 3: 12, 5: 9, 6: 7, 7: 25, 8: 12, 9: 2, 10: 66, 11: 19, 12: 14, 13: 24, 14: 13, 15: 28, 16: 29, 17: 7, 18: 22, 19: 63, 20: 12, 21: 3, 22: 3, 23: 3, 24: 20, 25: 76}
+wordconscious -> {15: 1}
+worded -> {19: 1}
+wordhoard -> {8: 1}
+wording -> {19: 1, 20: 1}
+wordinstead -> {13: 1}
+wordis -> {5: 1}
+wordless -> {2: 1, 18: 1}
+wordlessly -> {1: 1, 2: 1, 15: 1, 19: 1}
+wordlessness -> {19: 1}
+wordofleave -> {8: 1}
+words -> {1: 33, 2: 43, 3: 4, 4: 3, 5: 10, 6: 19, 7: 96, 8: 30, 9: 5, 10: 50, 11: 13, 12: 21, 13: 15, 14: 11, 15: 20, 16: 22, 17: 22, 18: 38, 19: 80, 20: 13, 21: 6, 22: 9, 23: 9, 24: 10, 25: 72}
+wordsclaptrap -> {19: 1}
+wordsworth -> {6: 1}
+wordsworths -> {6: 2}
+wordy -> {19: 1}
+wore -> {1: 2, 2: 6, 7: 6, 9: 1, 10: 6, 11: 3, 12: 1, 13: 1, 15: 28, 18: 2, 19: 14, 20: 2}
+worid -> {20: 1}
+work -> {1: 46, 2: 49, 3: 58, 4: 14, 5: 73, 6: 8, 7: 17, 8: 17, 9: 4, 10: 150, 11: 16, 12: 21, 13: 14, 14: 9, 15: 29, 16: 37, 17: 17, 18: 24, 19: 128, 20: 4, 21: 7, 22: 8, 23: 9, 24: 15, 25: 30}
+workbasket -> {15: 1}
+workbook -> {19: 2}
+workbooks -> {19: 3}
+workday -> {2: 1, 18: 1}
+worked -> {1: 8, 2: 12, 3: 10, 5: 2, 7: 2, 8: 2, 10: 11, 11: 2, 12: 6, 13: 4, 15: 13, 17: 3, 18: 6, 19: 30, 20: 3}
+worker -> {2: 1, 3: 2, 5: 7, 11: 1, 19: 12}
+workers -> {1: 2, 2: 2, 3: 4, 5: 11, 16: 1, 18: 3, 19: 38}
+workerssome -> {19: 1}
+workin -> {15: 1}
+workinevitable -> {25: 1}
+working -> {1: 10, 2: 15, 3: 16, 5: 11, 6: 3, 7: 5, 9: 2, 10: 21, 11: 2, 12: 9, 13: 2, 14: 1, 15: 4, 16: 1, 17: 8, 18: 15, 19: 22, 20: 2, 24: 2, 25: 2}
+workingmen -> {19: 2}
+workings -> {5: 1, 6: 2, 11: 1}
+workman -> {7: 2, 10: 3, 11: 2, 19: 1, 21: 4}
+workmans -> {11: 1}
+workmanship -> {7: 1, 16: 2}
+workmanthough -> {11: 1}
+workmen -> {3: 1, 10: 2, 11: 4, 13: 2, 18: 1}
+workmenie -> {5: 1}
+workout -> {18: 1}
+workouts -> {18: 2}
+workroom -> {19: 2}
+works -> {1: 3, 2: 13, 3: 30, 5: 2, 6: 5, 7: 1, 8: 2, 9: 1, 10: 3, 11: 4, 12: 2, 13: 2, 14: 3, 15: 7, 16: 6, 17: 2, 18: 8, 19: 11, 21: 4, 22: 1, 23: 1, 24: 4, 25: 5}
+worksconcerning -> {19: 1}
+workshop -> {3: 7, 19: 14}
+workshops -> {3: 1, 9: 1, 19: 6}
+worktable -> {13: 1}
+workwe -> {19: 1}
+world -> {1: 21, 2: 23, 3: 22, 5: 67, 6: 42, 7: 29, 8: 15, 9: 11, 10: 63, 11: 20, 12: 68, 13: 30, 14: 71, 15: 29, 16: 160, 17: 9, 18: 27, 19: 119, 20: 44, 21: 16, 22: 13, 23: 13, 24: 145, 25: 350}
+worlda -> {6: 1, 11: 1, 19: 1, 25: 2}
+worldas -> {25: 1}
+worldbe -> {25: 1}
+worldcan -> {25: 1}
+worldclouds -> {19: 1}
+worlddisarmament -> {5: 1}
+worlddoes -> {25: 1}
+worldeither -> {25: 1}
+worldif -> {25: 1}
+worldimportant -> {19: 1}
+worldit -> {25: 2}
+worldly -> {13: 1, 16: 31, 19: 1, 24: 1}
+worldof -> {25: 1}
+worldor -> {25: 1}
+worldquietly -> {19: 1}
+worlds -> {1: 1, 3: 1, 6: 10, 7: 1, 8: 2, 12: 1, 13: 5, 14: 1, 15: 2, 16: 2, 19: 3, 20: 6, 22: 1, 23: 1, 24: 8, 25: 4}
+worldsthe -> {6: 1}
+worldsubsumed -> {25: 1}
+worldthe -> {25: 2}
+worldthis -> {25: 1}
+worldwe -> {25: 2}
+worldwhether -> {25: 1}
+worldwhich -> {25: 1}
+worldwhole -> {25: 1}
+worldwide -> {3: 1, 5: 1, 16: 1, 20: 1}
+worldwithout -> {25: 1}
+worm -> {7: 1, 8: 10, 11: 41}
+wormfilled -> {19: 1}
+wormlike -> {8: 1}
+worms -> {1: 1, 11: 6, 15: 3, 19: 4, 25: 1}
+wormwood -> {19: 1}
+wormyes -> {11: 1}
+worn -> {1: 4, 2: 4, 3: 1, 4: 1, 7: 3, 8: 1, 9: 1, 10: 13, 11: 2, 13: 3, 15: 5, 17: 1, 18: 2, 19: 13, 20: 1}
+wornout -> {13: 1, 15: 1, 19: 2}
+worried -> {1: 9, 2: 8, 3: 1, 5: 1, 9: 1, 10: 5, 12: 3, 13: 5, 15: 4, 17: 2, 18: 2, 19: 19, 20: 1}
+worries -> {1: 2, 2: 2, 6: 1, 9: 2, 15: 1, 19: 5}
+worrisome -> {18: 1}
+worry -> {1: 13, 2: 14, 3: 2, 4: 1, 5: 1, 10: 4, 12: 3, 13: 2, 15: 24, 17: 3, 18: 13, 19: 22, 20: 3}
+worryif -> {18: 1}
+worryin -> {15: 3}
+worrying -> {2: 5, 11: 1, 12: 3, 15: 4, 19: 9}
+worse -> {1: 15, 2: 23, 3: 4, 4: 1, 5: 3, 6: 1, 7: 5, 8: 3, 10: 18, 11: 8, 12: 1, 13: 3, 15: 7, 16: 25, 17: 2, 18: 12, 19: 18, 20: 3, 21: 1, 24: 2, 25: 1}
+worsening -> {2: 1}
+worser -> {10: 1}
+worship -> {4: 1, 5: 1, 6: 5, 10: 2, 11: 1, 15: 1, 16: 4, 19: 2, 20: 1}
+worshiped -> {15: 2}
+worshipers -> {6: 1}
+worshipful -> {7: 1}
+worshipped -> {6: 1, 10: 1, 16: 1, 19: 5}
+worshipper -> {11: 1, 12: 1, 16: 1}
+worshippers -> {19: 4, 20: 1}
+worshipping -> {19: 1}
+worships -> {19: 1}
+worst -> {1: 12, 2: 10, 4: 1, 5: 3, 6: 1, 7: 1, 8: 1, 10: 9, 11: 5, 15: 3, 16: 2, 17: 2, 18: 1, 19: 15, 20: 1}
+worsted -> {8: 1}
+worth -> {1: 2, 2: 7, 3: 14, 4: 3, 5: 2, 6: 2, 7: 7, 9: 1, 10: 14, 12: 4, 13: 3, 14: 48, 15: 6, 16: 24, 17: 4, 18: 3, 19: 16, 20: 3, 22: 1, 23: 1, 24: 35, 25: 7}
+worthbirch -> {19: 1}
+worthied -> {8: 1}
+worthies -> {11: 1, 16: 1}
+worthiest -> {8: 3}
+worthily -> {8: 2, 16: 1}
+worthiness -> {11: 1, 24: 6, 25: 2}
+worthless -> {2: 3, 5: 1, 8: 2, 10: 1, 11: 1, 16: 1, 17: 1, 18: 3, 19: 1, 22: 1, 23: 1, 24: 3}
+worthlessness -> {16: 1, 24: 1, 25: 2}
+worthwhile -> {1: 2, 3: 2}
+worthy -> {3: 1, 4: 1, 5: 8, 7: 18, 8: 3, 10: 3, 14: 7, 16: 6, 19: 4, 21: 2, 22: 6, 23: 6, 24: 11, 25: 12}
+wot -> {8: 2, 10: 1}
+would -> {1: 160, 2: 170, 3: 42, 4: 20, 5: 63, 6: 35, 7: 248, 8: 35, 9: 22, 10: 433, 11: 154, 12: 106, 13: 52, 14: 125, 15: 310, 16: 79, 17: 52, 18: 120, 19: 386, 20: 51, 21: 35, 22: 48, 23: 48, 24: 206, 25: 369}
+wouldcst -> {16: 1}
+wouldest -> {7: 1, 16: 4}
+wouldnever -> {11: 1}
+wouldnt -> {1: 31, 2: 33, 3: 2, 9: 2, 10: 15, 11: 1, 12: 10, 13: 22, 15: 58, 17: 4, 18: 11, 19: 63, 20: 16}
+wouldntve -> {15: 1}
+wouldst -> {4: 1, 7: 1, 8: 2, 16: 12}
+wouldve -> {1: 3, 2: 4, 17: 3, 18: 5}
+wound -> {1: 17, 2: 15, 3: 1, 7: 3, 8: 10, 10: 17, 11: 3, 15: 2, 16: 2, 17: 1, 18: 5, 19: 9, 21: 1, 24: 2}
+wounded -> {1: 13, 2: 5, 4: 2, 7: 4, 8: 3, 9: 1, 10: 4, 11: 1, 16: 2, 17: 11, 18: 16, 19: 29}
+wounden -> {8: 1}
+wounding -> {19: 1}
+wounds -> {1: 10, 2: 10, 3: 2, 5: 1, 7: 3, 8: 3, 10: 12, 11: 1, 16: 1, 17: 1, 19: 5}
+woundup -> {19: 1}
+wove -> {2: 1, 8: 1, 18: 1}
+woven -> {1: 3, 2: 6, 8: 6, 10: 1, 15: 1, 18: 1, 19: 2}
+wow -> {12: 2}
+wpa -> {15: 2}
+wpax -> {3: 1}
+wracked -> {1: 1}
+wraith -> {19: 1}
+wrap -> {1: 5, 2: 7, 3: 8, 4: 1, 10: 1, 15: 1, 17: 3, 18: 5}
+wrapped -> {1: 10, 2: 5, 3: 2, 7: 3, 9: 1, 10: 3, 11: 2, 12: 1, 13: 2, 15: 3, 17: 2, 18: 3, 19: 11}
+wrapper -> {3: 1}
+wrappers -> {15: 2}
+wrapping -> {1: 1, 2: 2, 3: 1, 7: 1, 10: 1, 13: 2, 15: 4, 18: 1, 19: 2}
+wrappings -> {2: 1, 19: 1}
+wraps -> {1: 6, 2: 3, 10: 2, 15: 1, 17: 2, 18: 4}
+wrapt -> {7: 1}
+wrath -> {4: 1, 7: 6, 8: 9, 10: 3, 16: 1, 19: 1}
+wrathful -> {8: 2, 15: 1}
+wrathfully -> {8: 1, 15: 2}
+wrathswollen -> {8: 1}
+wreaking -> {8: 1}
+wreath -> {10: 6, 13: 3, 16: 1}
+wreathe -> {8: 1}
+wreathed -> {10: 2, 20: 1}
+wreathing -> {1: 1}
+wreaths -> {10: 3, 13: 1, 19: 6}
+wreck -> {1: 1, 2: 1, 3: 1, 7: 2, 10: 2, 11: 2, 12: 1, 13: 4, 15: 2}
+wreckage -> {1: 2, 7: 1, 11: 1, 17: 3, 18: 1, 20: 1}
+wrecked -> {10: 3, 18: 1, 20: 1}
+wrecker -> {12: 1, 19: 1}
+wrecks -> {12: 1, 17: 1}
+wrench -> {1: 1, 2: 1, 10: 3, 18: 1, 19: 1}
+wrenched -> {7: 1, 10: 1, 11: 1, 15: 2, 19: 1, 20: 1}
+wrenching -> {2: 2, 10: 1, 17: 1, 18: 1}
+wrest -> {2: 1, 18: 1, 19: 1, 24: 2}
+wrested -> {17: 1, 18: 1}
+wrestle -> {1: 3, 2: 1, 20: 1}
+wrestled -> {1: 1, 8: 1}
+wrestler -> {12: 1, 16: 2, 19: 1}
+wrestlers -> {16: 2}
+wrestles -> {2: 1, 16: 1}
+wrestling -> {1: 1, 2: 2, 16: 4, 19: 1}
+wrests -> {14: 1}
+wretch -> {7: 7, 10: 3, 15: 1, 19: 2}
+wretched -> {2: 2, 5: 1, 7: 6, 8: 2, 9: 3, 10: 1, 16: 10, 18: 1, 19: 16, 24: 1}
+wretchedly -> {19: 2}
+wretchedness -> {14: 1, 16: 2, 19: 2}
+wretches -> {16: 2}
+wriggle -> {1: 3, 2: 1, 18: 2, 19: 1}
+wriggled -> {15: 1, 20: 1}
+wriggles -> {1: 1}
+wriggling -> {11: 1, 13: 1, 15: 2}
+wrightwood -> {3: 4}
+wrigleys -> {15: 1}
+wring -> {2: 2, 10: 2, 15: 1, 19: 2}
+wringer -> {19: 1}
+wringing -> {7: 1, 10: 1, 11: 1, 19: 1}
+wrings -> {2: 1}
+wrinkle -> {1: 1, 2: 1, 13: 1, 20: 1}
+wrinkled -> {3: 1, 10: 3, 11: 1, 15: 1, 19: 1, 20: 1}
+wrinkles -> {1: 2, 2: 1, 6: 1, 10: 1, 17: 1, 18: 1, 20: 1}
+wrist -> {1: 4, 2: 10, 3: 3, 10: 8, 12: 2, 15: 5, 17: 2, 18: 9, 19: 2, 20: 3}
+wristlet -> {9: 1}
+wristrocket -> {3: 1}
+wrists -> {2: 7, 3: 1, 10: 2, 12: 1, 17: 1, 18: 10, 19: 2}
+wristwatches -> {9: 1}
+writ -> {19: 1}
+write -> {1: 1, 2: 4, 3: 40, 5: 4, 6: 2, 7: 6, 10: 62, 11: 3, 12: 1, 13: 1, 15: 17, 16: 13, 17: 1, 18: 1, 19: 37, 20: 2, 22: 3, 23: 3}
+writeoffs -> {3: 1}
+writer -> {5: 2, 6: 1, 9: 2, 16: 5, 18: 1, 19: 4, 24: 1, 25: 1}
+writerfriends -> {18: 1}
+writers -> {3: 2, 5: 1, 7: 1, 10: 2, 12: 2, 19: 6, 24: 1}
+writes -> {2: 1, 5: 1, 10: 1, 16: 10, 17: 1, 18: 1}
+writhed -> {10: 1, 11: 1}
+writhes -> {6: 1}
+writhing -> {2: 1, 8: 1, 10: 2, 11: 1, 12: 1, 17: 1, 19: 2, 20: 2}
+writin -> {15: 2}
+writing -> {2: 1, 3: 14, 5: 3, 7: 13, 9: 2, 10: 19, 11: 2, 13: 1, 15: 9, 16: 7, 17: 2, 18: 1, 19: 26, 20: 5, 21: 1, 22: 5, 23: 5, 24: 1, 25: 1}
+writings -> {5: 3, 15: 2, 19: 2, 21: 1, 22: 7, 23: 7, 25: 7}
+written -> {1: 2, 2: 3, 3: 6, 5: 3, 6: 4, 7: 11, 10: 30, 11: 4, 12: 3, 13: 1, 14: 2, 15: 3, 16: 15, 17: 4, 18: 2, 19: 18, 20: 2, 21: 1, 22: 5, 23: 5, 24: 2, 25: 4}
+writtenaristotle -> {6: 1}
+writteni -> {10: 1}
+wrong -> {1: 18, 2: 19, 3: 4, 4: 1, 5: 2, 6: 4, 7: 7, 8: 1, 9: 13, 10: 28, 12: 10, 13: 9, 14: 3, 15: 24, 16: 12, 17: 8, 18: 17, 19: 29, 20: 11, 21: 1, 22: 1, 23: 1, 24: 5, 25: 11}
+wronged -> {10: 1, 16: 6, 19: 1}
+wrongeth -> {16: 1}
+wrongful -> {15: 1}
+wrongfully -> {21: 1}
+wronghe -> {11: 1}
+wrongs -> {6: 1, 10: 1, 11: 1, 16: 1, 19: 1}
+wrote -> {2: 1, 3: 1, 5: 1, 6: 3, 7: 5, 9: 1, 10: 18, 11: 3, 12: 2, 13: 3, 15: 8, 16: 5, 18: 1, 19: 19, 20: 5, 21: 1}
+wrought -> {5: 1, 7: 4, 8: 11, 10: 7, 11: 3, 15: 2, 16: 2, 24: 2}
+wrung -> {10: 5, 16: 1, 19: 1, 20: 1}
+wry -> {10: 1, 18: 1}
+wryly -> {2: 2, 15: 1, 17: 1, 18: 1}
+wulf -> {8: 5}
+wulfere -> {11: 1}
+wulfgar -> {8: 3}
+wurm -> {11: 1}
+wuuld -> {5: 1}
+wwii -> {3: 1}
+wwwsuzannecollinsbookscom -> {18: 1}
+wy -> {3: 1}
+wyatt -> {15: 1}
+wylfings -> {8: 2}
+wynds -> {10: 1}
+wyoming -> {3: 1, 14: 1, 24: 1, 25: 1}
+wyomingyellowstone -> {3: 1}
+wyrd -> {8: 11}
+wyrm -> {11: 1}
+x -> {1: 1, 3: 5, 8: 1, 10: 2, 15: 5, 16: 16, 18: 1, 21: 1, 25: 3}
+xanthippe -> {16: 1}
+xchange -> {3: 1}
+xcviii -> {6: 1}
+xenocrates -> {16: 2}
+xenophon -> {16: 1}
+xerox -> {3: 2}
+xi -> {8: 1, 16: 14}
+xii -> {8: 1, 16: 14}
+xiii -> {8: 1, 16: 15, 21: 1, 25: 1}
+xiiioolangas -> {11: 1}
+xiithe -> {11: 1}
+ximesmers -> {11: 1}
+xiv -> {8: 1, 16: 16}
+xivbattle -> {11: 1}
+xix -> {8: 1, 16: 9}
+xixan -> {11: 1}
+xl -> {8: 1, 16: 6}
+xli -> {8: 1, 16: 5}
+xlii -> {8: 1, 16: 6}
+xliii -> {8: 1, 16: 5}
+xliv -> {16: 3}
+xlix -> {16: 2}
+xlv -> {16: 2}
+xlvi -> {16: 2}
+xlvii -> {16: 2}
+xlviii -> {16: 3}
+xray -> {12: 1, 15: 1}
+xrayed -> {3: 2}
+xrays -> {3: 3}
+xs -> {15: 1}
+xthe -> {11: 1}
+xv -> {8: 1, 16: 14}
+xvi -> {8: 1, 16: 11}
+xvia -> {11: 1}
+xvii -> {8: 1, 16: 12}
+xviii -> {8: 1, 16: 9}
+xviiiexit -> {11: 1}
+xviithe -> {11: 1}
+xvl -> {16: 1}
+xvon -> {11: 1}
+xx -> {8: 1, 16: 10}
+xxi -> {8: 2, 16: 9}
+xxigreen -> {11: 1}
+xxii -> {16: 11}
+xxiiat -> {11: 1}
+xxiii -> {8: 1, 16: 11}
+xxiiiin -> {11: 1}
+xxiithe -> {16: 1}
+xxiv -> {8: 1, 16: 10}
+xxiva -> {11: 1}
+xxix -> {16: 9}
+xxmetabolism -> {11: 1}
+xxv -> {8: 1, 15: 1, 16: 12}
+xxvi -> {8: 1, 16: 10}
+xxviface -> {11: 1}
+xxvii -> {8: 1, 16: 12}
+xxviii -> {8: 1, 16: 9}
+xxviiithe -> {11: 1}
+xxviion -> {11: 1}
+xxvthe -> {11: 1}
+xxx -> {16: 10}
+xxxi -> {8: 1, 16: 7}
+xxxii -> {8: 1, 16: 7}
+xxxiii -> {8: 1, 16: 7}
+xxxiv -> {8: 1, 16: 8}
+xxxix -> {8: 1, 16: 6}
+xxxv -> {8: 1, 16: 6}
+xxxvi -> {8: 1, 16: 6}
+xxxvii -> {8: 1, 16: 9}
+xxxviii -> {8: 1, 16: 7}
+xxxxxxxxx -> {10: 1, 16: 1}
+y -> {3: 1, 10: 1, 12: 1}
+ya -> {15: 1, 19: 1}
+yabblins -> {10: 1}
+yacht -> {5: 1, 13: 5}
+yachting -> {13: 3}
+yahoodies -> {9: 1}
+yahzik -> {9: 1}
+yale -> {13: 4}
+yammering -> {12: 1}
+yamskaia -> {19: 1}
+yangtzekiang -> {11: 1}
+yank -> {1: 5, 2: 3, 17: 1, 18: 4, 20: 1}
+yanked -> {1: 1, 2: 1, 12: 1, 15: 8, 20: 2}
+yankee -> {15: 1}
+yankees -> {15: 3}
+yanking -> {1: 2, 12: 1, 18: 1}
+yanks -> {1: 2, 2: 2, 17: 1, 18: 5}
+yap -> {15: 1}
+yappy -> {15: 1}
+yarbles -> {9: 3}
+yarblockos -> {9: 2}
+yard -> {1: 3, 2: 1, 3: 4, 4: 2, 9: 2, 10: 9, 12: 8, 13: 5, 15: 89, 18: 3, 19: 54, 20: 1}
+yards -> {1: 22, 2: 22, 3: 5, 6: 1, 7: 1, 10: 2, 12: 5, 13: 4, 15: 7, 17: 4, 18: 8, 19: 16, 20: 3}
+yardstick -> {19: 2}
+yare -> {10: 1}
+yarn -> {2: 1, 18: 2}
+yarns -> {10: 2, 15: 1}
+yaroslavsky -> {19: 1}
+yawing -> {10: 1}
+yawl -> {15: 3}
+yawn -> {12: 1, 19: 1, 24: 1}
+yawned -> {11: 1, 13: 4, 15: 3, 19: 7}
+yawning -> {3: 1, 9: 1, 15: 1, 19: 1, 24: 1}
+yawns -> {18: 2, 19: 2}
+yaws -> {15: 1}
+ye -> {8: 18, 10: 28, 14: 2, 15: 1, 16: 3, 19: 3, 20: 1}
+yea -> {8: 1, 14: 1, 16: 23, 24: 1}
+yeaeaea -> {13: 1}
+yeah -> {1: 5, 2: 24, 9: 3, 13: 3, 15: 20, 17: 12, 18: 10, 20: 1}
+yeahi -> {18: 1}
+year -> {1: 36, 2: 83, 3: 14, 4: 1, 5: 6, 7: 32, 8: 3, 10: 8, 11: 5, 12: 18, 13: 19, 14: 3, 15: 37, 16: 3, 17: 2, 18: 4, 19: 50, 20: 29, 21: 1, 24: 3, 25: 2}
+yearit -> {25: 1}
+yearling -> {1: 1}
+yearly -> {1: 1, 3: 1, 7: 2, 12: 1, 15: 1}
+yearn -> {1: 1, 8: 1, 10: 1}
+yearned -> {8: 1}
+yearning -> {5: 2, 6: 1, 10: 3, 19: 2}
+yearnings -> {8: 1}
+yearold -> {2: 1, 18: 1}
+years -> {1: 36, 2: 56, 3: 15, 5: 40, 6: 10, 7: 39, 8: 11, 9: 8, 10: 31, 11: 22, 12: 45, 13: 38, 14: 3, 15: 55, 16: 29, 17: 14, 18: 31, 19: 94, 20: 54, 21: 3, 22: 10, 23: 10, 24: 4, 25: 4}
+yearsand -> {13: 1}
+yearseven -> {13: 1}
+yearsthe -> {20: 1}
+yeast -> {3: 4, 19: 2}
+yebm -> {15: 1}
+yed -> {10: 1}
+yeeh -> {20: 1}
+yell -> {1: 3, 2: 2, 5: 1, 7: 1, 10: 3, 11: 1, 12: 4, 15: 1, 17: 3, 18: 4, 19: 1, 20: 4}
+yelled -> {1: 1, 2: 1, 12: 5, 15: 21, 18: 1, 19: 6, 20: 3}
+yelling -> {1: 7, 2: 1, 3: 1, 10: 1, 11: 1, 12: 7, 13: 1, 15: 2, 17: 2, 18: 3, 19: 7, 20: 2}
+yellow -> {1: 9, 2: 5, 3: 10, 4: 1, 6: 2, 7: 4, 8: 1, 10: 6, 12: 12, 13: 22, 15: 12, 17: 3, 18: 9, 19: 12, 20: 12, 22: 1, 23: 1}
+yellowbraided -> {19: 1}
+yellowed -> {2: 3, 12: 1, 19: 1, 20: 1}
+yellowflamecoloured -> {12: 1}
+yellowing -> {13: 1}
+yellowish -> {1: 1, 2: 2, 3: 1, 7: 1, 19: 2}
+yellows -> {1: 1, 20: 1}
+yellowskinned -> {18: 1}
+yellowstone -> {3: 3}
+yellowy -> {13: 1}
+yells -> {2: 1, 18: 2, 19: 1}
+yelp -> {2: 1}
+yelped -> {7: 1, 15: 1, 19: 3}
+yelpin -> {10: 1}
+yelping -> {10: 1}
+yeoman -> {3: 1}
+yer -> {10: 10}
+yes -> {1: 50, 2: 60, 3: 3, 4: 3, 5: 1, 6: 2, 7: 20, 9: 51, 10: 36, 11: 18, 12: 47, 13: 22, 14: 1, 15: 95, 16: 2, 17: 18, 18: 26, 19: 84, 20: 72, 24: 2, 25: 5}
+yesand -> {11: 1}
+yeses -> {3: 1}
+yesfor -> {18: 1}
+yesi -> {13: 1}
+yessir -> {15: 3}
+yessum -> {15: 9}
+yesterday -> {1: 8, 2: 8, 4: 1, 5: 1, 6: 1, 7: 10, 10: 28, 11: 4, 12: 2, 13: 1, 15: 2, 16: 2, 17: 5, 18: 5, 19: 12, 20: 5, 21: 3}
+yesterdaya -> {11: 1}
+yesterdayall -> {19: 1}
+yesterdays -> {2: 1, 17: 1}
+yesternight -> {8: 1}
+yet -> {1: 27, 2: 17, 3: 3, 4: 2, 5: 20, 6: 19, 7: 22, 8: 36, 9: 2, 10: 155, 11: 21, 12: 16, 13: 9, 14: 49, 15: 39, 16: 118, 17: 4, 18: 15, 19: 107, 20: 11, 21: 52, 22: 30, 23: 30, 24: 94, 25: 91}
+yetand -> {19: 1}
+yetthe -> {22: 1, 23: 1}
+yetwas -> {19: 1}
+yetwhich -> {19: 1}
+yetwould -> {19: 1}
+yetyetwell -> {11: 1}
+yew -> {10: 5}
+yews -> {10: 1}
+yezhov -> {19: 2}
+yggdrasil -> {6: 1}
+yids -> {19: 1}
+yield -> {3: 1, 4: 2, 7: 7, 8: 1, 10: 6, 11: 1, 13: 1, 14: 1, 16: 3, 19: 2, 21: 2, 22: 1, 23: 1, 24: 2, 25: 3}
+yielded -> {7: 5, 8: 1, 10: 4, 11: 2, 12: 1, 15: 1, 16: 1, 19: 1}
+yielding -> {7: 3, 10: 1, 16: 3, 24: 1}
+yields -> {8: 2, 10: 2, 18: 1}
+yippie -> {3: 9}
+yippies -> {3: 8}
+yipping -> {1: 1}
+ylp -> {3: 1}
+yn -> {19: 2}
+yo -> {15: 3}
+yoga -> {9: 1}
+yogurt -> {3: 14}
+yoke -> {5: 1, 10: 1, 19: 6, 24: 2}
+yokels -> {19: 1}
+yokes -> {19: 1}
+yolk -> {19: 1}
+yolks -> {3: 2, 13: 1, 19: 1}
+yon -> {3: 1, 7: 1, 8: 4}
+yonder -> {7: 1, 8: 1, 15: 30}
+yonders -> {15: 4}
+yoohoo -> {15: 1}
+yore -> {8: 6}
+york -> {3: 84, 9: 2, 10: 1, 11: 2, 13: 29, 14: 1, 18: 5, 19: 6, 20: 3, 24: 1, 25: 1}
+yorka -> {13: 1}
+yorkand -> {13: 2}
+yorkevery -> {13: 1}
+yorkfire -> {3: 1}
+yorkor -> {13: 1}
+yorks -> {18: 1}
+yorkshire -> {10: 3}
+yosemite -> {3: 3}
+you -> {1: 709, 2: 631, 3: 1480, 4: 134, 5: 111, 6: 20, 7: 1375, 8: 13, 9: 388, 10: 1442, 11: 413, 12: 567, 13: 499, 14: 61, 15: 1517, 16: 175, 17: 251, 18: 571, 19: 2257, 20: 367, 21: 12, 22: 2, 23: 2, 24: 79, 25: 141}
+youa -> {11: 1}
+youand -> {19: 1}
+youd -> {1: 12, 2: 23, 3: 6, 9: 4, 10: 2, 12: 11, 13: 8, 15: 25, 17: 8, 18: 12, 19: 27, 20: 4}
+youda -> {15: 1}
+youdid -> {15: 1}
+youdo -> {13: 1}
+youfor -> {11: 1}
+yougordon -> {19: 1}
+youhandled -> {17: 1}
+youhave -> {7: 1}
+youhe -> {19: 2}
+youhes -> {19: 1}
+youif -> {11: 1}
+youin -> {18: 2}
+youll -> {1: 24, 2: 25, 3: 99, 9: 9, 10: 3, 12: 18, 13: 10, 15: 52, 17: 10, 18: 13, 19: 86, 20: 6}
+youlose -> {18: 1}
+youmore -> {19: 1}
+younameitwesellit -> {15: 1}
+young -> {1: 15, 2: 15, 3: 16, 4: 17, 5: 6, 6: 2, 7: 88, 8: 20, 9: 29, 10: 54, 11: 40, 12: 4, 13: 44, 14: 1, 15: 15, 16: 12, 17: 5, 18: 14, 19: 100, 20: 9, 25: 4}
+younger -> {1: 4, 2: 5, 3: 3, 5: 1, 6: 1, 7: 7, 8: 1, 10: 5, 11: 4, 12: 1, 13: 2, 15: 9, 16: 2, 17: 1, 18: 4, 19: 8, 20: 1}
+youngerwith -> {13: 1}
+youngest -> {2: 2, 7: 5, 19: 1, 20: 1}
+youngster -> {4: 1, 19: 1}
+youngsters -> {3: 1, 19: 1}
+youngstown -> {12: 1}
+younscout -> {15: 1}
+youor -> {11: 1, 19: 1}
+your -> {1: 154, 2: 122, 3: 455, 4: 41, 5: 55, 6: 2, 7: 421, 8: 18, 9: 65, 10: 312, 11: 92, 12: 113, 13: 77, 14: 14, 15: 209, 16: 51, 17: 63, 18: 108, 19: 457, 20: 78, 21: 6, 22: 1, 23: 1, 24: 17, 25: 38}
+youre -> {1: 67, 2: 67, 3: 74, 9: 22, 10: 4, 12: 58, 13: 31, 15: 79, 17: 30, 18: 58, 19: 78, 20: 21}
+yourlogin -> {10: 1, 16: 1}
+yourlove -> {11: 1}
+yours -> {1: 2, 2: 6, 3: 1, 5: 1, 7: 13, 8: 2, 9: 4, 10: 23, 11: 7, 13: 2, 15: 9, 16: 1, 17: 1, 18: 2, 19: 11, 20: 3, 25: 1}
+yourself -> {1: 16, 2: 11, 3: 27, 4: 7, 5: 3, 7: 45, 9: 5, 10: 22, 11: 5, 12: 13, 13: 7, 15: 12, 16: 4, 17: 10, 18: 9, 19: 71, 20: 9, 24: 3, 25: 3}
+yourselfsiding -> {19: 1}
+yourselfwhat -> {19: 1}
+yourselves -> {1: 2, 7: 3, 9: 2, 10: 2, 12: 1, 15: 4, 19: 9, 21: 1, 25: 4}
+yoursu -> {4: 1}
+yous -> {12: 1, 15: 3}
+youth -> {2: 1, 3: 12, 5: 12, 7: 10, 8: 10, 9: 1, 10: 5, 11: 2, 13: 4, 14: 1, 16: 4, 19: 3, 20: 1, 21: 1, 22: 3, 23: 3, 24: 4, 25: 4}
+youthe -> {18: 1, 19: 1}
+youthful -> {8: 5, 10: 2, 15: 1, 19: 1, 24: 1, 25: 1}
+youths -> {8: 1, 11: 1, 16: 3, 19: 1}
+youve -> {1: 17, 2: 10, 3: 28, 4: 1, 9: 18, 10: 5, 12: 17, 13: 13, 15: 40, 17: 7, 18: 14, 19: 58, 20: 7}
+youwhy -> {11: 1, 13: 1}
+youwould -> {11: 1}
+youyouve -> {19: 1}
+ypsilanti -> {3: 1}
+yr -> {3: 64}
+yrmenlaf -> {8: 1}
+yu -> {3: 3, 20: 2}
+yudin -> {19: 1}
+yukon -> {13: 1}
+yule -> {19: 1}
+yum -> {9: 2}
+yummy -> {9: 1}
+yura -> {19: 102}
+yuras -> {19: 15}
+yuriatin -> {19: 55}
+yuriatinand -> {19: 1}
+yuriatinpart -> {19: 1}
+yuriatins -> {19: 1}
+yurii -> {19: 317}
+yuriis -> {19: 5}
+yurochka -> {19: 26}
+yurochkas -> {19: 1}
+yus -> {10: 2}
+yusupka -> {19: 10}
+yusupkas -> {19: 2}
+z -> {10: 1}
+zakhar -> {19: 2}
+zakuski -> {19: 1}
+zalkinds -> {19: 1}
+zap -> {1: 1}
+zapping -> {2: 1}
+zeal -> {5: 3, 7: 1, 10: 1, 16: 2, 19: 1, 22: 1, 23: 1, 25: 1}
+zealand -> {11: 1}
+zealous -> {10: 1, 24: 1, 25: 1}
+zealously -> {19: 1}
+zebra -> {20: 1}
+zebralike -> {6: 1}
+zebras -> {20: 2}
+zeebo -> {15: 18}
+zeebos -> {15: 1}
+zemstvos -> {19: 1}
+zen -> {6: 3}
+zeno -> {16: 5, 25: 1}
+zero -> {1: 1, 2: 2, 6: 1, 14: 1, 17: 3, 18: 1, 19: 1, 25: 4}
+zest -> {11: 1, 19: 2}
+zevorotnina -> {19: 1}
+zhabrinskaia -> {19: 1}
+zhabrinskaias -> {19: 1}
+zhabrinsky -> {19: 1}
+zhelvak -> {19: 2}
+zhivago -> {9: 1, 19: 103}
+zhivagos -> {19: 25}
+zhivagothe -> {19: 1}
+zhn -> {16: 2}
+zhuk -> {19: 1}
+zigzag -> {1: 1, 3: 1, 18: 1}
+zigzagged -> {19: 1}
+zinc -> {19: 1}
+zincoxidefaced -> {12: 1}
+zinebi -> {7: 2}
+zinnias -> {6: 2}
+zionism -> {5: 4}
+zionist -> {5: 7}
+zip -> {1: 3, 10: 1, 16: 1, 20: 1}
+zipper -> {12: 1, 20: 3}
+zippered -> {9: 1}
+zippers -> {2: 1}
+zipping -> {20: 1}
+zips -> {1: 1, 2: 1}
+zlydarikha -> {19: 3}
+znamensky -> {19: 1}
+zobeida -> {7: 28}
+zobeidas -> {7: 3}
+zoic -> {20: 1}
+zola -> {5: 1}
+zone -> {2: 4, 3: 3, 11: 1, 17: 1, 18: 2, 19: 6}
+zones -> {2: 1, 18: 2}
+zonked -> {9: 1}
+zoo -> {3: 11, 9: 1, 10: 1, 19: 1}
+zoological -> {10: 3}
+zoom -> {1: 1, 18: 1}
+zooms -> {3: 1}
+zoophagous -> {10: 4}
+zoophagy -> {10: 1}
+zoos -> {3: 1}
+zop -> {16: 1}
+zouman -> {7: 1}
+zulus -> {7: 1}
+zurich -> {3: 2, 5: 4}
+zusha -> {19: 3}
+zvonarskaia -> {19: 1}
+zybushi -> {19: 1}
+zybushino -> {19: 15}
